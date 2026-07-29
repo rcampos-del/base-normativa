@@ -1,6 +1,6 @@
 # MANIFESTO DO ACERVO
 
-Proveniência e integridade. Gerado em 16/07/2026; atualizado em **22/07/2026**
+Proveniência e integridade. Gerado em 16/07/2026; atualizado em **29/07/2026**
 (taxonomia de setor e jurisdição — ver `TAXONOMIA.md`).
 
 Cada arquivo foi normalizado a partir da fonte oficial, com conferência palavra a palavra.
@@ -26,8 +26,11 @@ Para conferir a integridade a qualquer momento:
 | `LC-192-2022.txt` | Lei Complementar nº 192, de 11/03/2022 — ICMS monofásico de combustíveis | transversal | federal | 107 | 3.734 | `b5d0ae61a73a` |
 | `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 382 | 18.003 | `71e6275b73fe` |
 | `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 780 | 39.807 | `002fd3028601` |
+| `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 6.223 | 47.763 | `718da17ee0b0` |
 | `DEC-12955-2026.txt` | Decreto nº 12.955, de 29/04/2026 — Regulamento da CBS | transversal | federal | 5.606 | 130.507 | `6ccde9b698aa` |
 | `RES-CGIBS-6-2026.txt` | Resolução CGIBS nº 6, de 30/04/2026 — Regulamento do IBS | transversal | nacional | 6.934 | 143.186 | `bc41cb73a72c` |
+| `RES-CGSN-140-2018.txt` | Resolução CGSN nº 140, de 22/05/2018 — Regulamento do Simples Nacional (DOU 24/05/2018), consolidada, c/ Anexos | transversal | nacional | 7.959 | 63.852 | `9cd0b3106a57` |
+| `RES-CGSN-186-2026.txt` | Resolução CGSN nº 186, de 09/04/2026 — opção pelo Simples e pelo regime regular de IBS/CBS para 2027 (janela 01-30/09/2026) | transversal | nacional | 64 | 875 | `afc1ec7df6b4` |
 | `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 152 | 6.423 | `e3c44dd58953` |
 | `CONV-ICMS-106-1996.txt` | Convênio ICMS 106/96 (CONFAZ) — crédito outorgado de 20% ao transporte | trc | nacional | 7 | 397 | `ab5f1f4728c8` |
 | `NT-CTE-2025.001.txt` | Nota Técnica CT-e 2025.001 v1.00, de 28/03/2025 — **DESATUALIZADA** | trc | nacional | 11 | 5.809 | `3af4c6200b5e` |
@@ -37,7 +40,30 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 16 normas — 12 transversais, 4 de TRC. Por jurisdição: 8 federais, 3 nacionais, 5 do RJ.
+**Resumo:** 19 normas — 15 transversais, 4 de TRC. Por jurisdição: 9 federais, 5 nacionais, 5 do RJ.
+
+## Incorporação de 29/07/2026 — o eixo do Simples Nacional
+
+Três normas incorporadas para fundar o PARECER 06 (Simples Nacional na reforma). Proveniência:
+LC 123 do compilado oficial do Planalto (captura de 29/07/2026, 00:16); Resolução CGSN 140/2018
+do sistema oficial de normas da RFB (sijut2consulta, consulta 92278, 00:18); Resolução CGSN
+186/2026 do DOU/Imprensa Nacional (ed. 73, seç. 1, p. 63, captura 00:17 — o portal adverte que o
+conteúdo não substitui a versão certificada; advertência registrada).
+
+Reparos de pré-processamento, sem tocar o texto normativo: quebras de página do extrator
+(44 + 118 + 2), rodapés com carimbo de hora, URL, contador de página e título repetido, e — só na
+Resolução 140 — 709 linhas de artefatos de interface do sijut (`home`, `print`, `keyboard_arrow_*`,
+`event`, `format_list_bulleted`), removidas apenas como linha exata, jamais dentro de texto. A rotina
+de verificação recusou-se, por desenho, a aceitar caractere de controle desconhecido; nada
+encontrou. Hifenização de fim de linha: zero ocorrências nos três.
+
+Provas de conteúdo executadas e aprovadas: LC 123 — art. 3º, § 4º, III-IV; art. 13, VI; art. 17,
+V-VI; art. 18, § 5º-E; art. 23, § 1º; Anexo III vigente (6ª faixa, dedução 648.000,00); fecho.
+Res. 186 — arts. 1º a 4º íntegros. Res. 140 — ementa, publicação e anexos.
+
+Nota de leitura conjunta: o compilado do Planalto da LC 123 **não** contém a camada que produz
+efeitos em 2027 — ela consta do art. 517 da LC 214 (renumeração da LC 227 já refletida no arquivo
+do acervo). As duas peças leem-se juntas.
 
 ## Fontes
 
