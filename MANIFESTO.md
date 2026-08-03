@@ -1,7 +1,8 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **03/08/2026**
-(incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional).
+(incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional; e,
+no mesmo dia, do FGTS e da Lei Orgânica da Seguridade Social).
 
 Cada arquivo foi normalizado a partir da fonte oficial, com conferência palavra a palavra.
 O texto **não foi reescrito** — apenas reformatado e reparado quanto a caracteres
@@ -26,6 +27,8 @@ Para conferir a integridade a qualquer momento:
 | `LC-227-2026.txt` | Lei Complementar nº 227, de 13/01/2026 — CGIBS; alterou a LC 214 | transversal | federal | 3.004 | 61.623 | `dc36fa1b24cc` |
 | `LC-192-2022.txt` | Lei Complementar nº 192, de 11/03/2022 — ICMS monofásico de combustíveis | transversal | federal | 107 | 3.734 | `b5d0ae61a73a` |
 | `LC-224-2025.txt` | Lei Complementar nº 224, de 26/12/2025 — redução linear dos incentivos e benefícios federais (art. 4º, § 4º: crédito presumido limitado a 90%; presunção do lucro presumido +10% acima de R$ 5 milhões); teto global de 2% do PIB (art. 5º); alterou a LRF (arts. 14 e 14-A) | transversal | federal | 184 | 3.773 | `dec32aa34701` |
+| `LEI-8036-1990.txt` | Lei nº 8.036, de 11/05/1990 — **FGTS**, compilada. Depósito de 8% sobre a remuneração (art. 15) e exclusão expressa do autônomo da condição de trabalhador (art. 15, § 2º); multa rescisória de 40% (art. 18, § 1º); encargos do atraso (art. 22) e multa administrativa de 30% do débito (art. 23, § 2º, `b`) | transversal | federal | 716 | 24.785 | `695be98c2d0c` |
+| `LEI-8212-1991.txt` | Lei nº 8.212, de 24/07/1991 — **Lei Orgânica da Seguridade Social** (custeio), compilada. Contribuição patronal de 20% (art. 22, I e III) e RAT (art. 22, II); **base de 20% da nota fiscal na contratação de transporte rodoviário de carga prestado por condutor autônomo (art. 22, § 15)** e salário-de-contribuição do condutor autônomo em 20% do frete bruto (art. 28, § 11); retenção de 11% na cessão de mão de obra (art. 31); contribuições em reclamatória trabalhista (art. 43) | transversal | federal | 1.234 | 48.938 | `573b9d8d8aeb` |
 | `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 382 | 18.003 | `71e6275b73fe` |
 | `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 780 | 39.807 | `002fd3028601` |
 | `LEI-15270-2025.txt` | Lei nº 15.270, de 26/11/2025 — IRPF: redução do imposto até R$ 5.000,00/mês (art. 3º-A da Lei 9.250), retenção de 10% sobre dividendos acima de R$ 50.000,00/mês (art. 6º-A), tributação mínima de altas rendas acima de R$ 600.000,00/ano (art. 16-A) e redutor do art. 16-B. O art. 5º destina o excedente de arrecadação ao cálculo da alíquota de referência da CBS | transversal | federal | 148 | 3.910 | `e63d9b614ecf` |
@@ -43,7 +46,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 22 normas — 18 transversais, 4 de TRC. Por jurisdição: 12 federais, 5 nacionais, 5 do RJ.
+**Resumo:** 24 normas — 20 transversais, 4 de TRC. Por jurisdição: 14 federais, 5 nacionais, 5 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -106,6 +109,67 @@ nominalmente e **não inclui** aquele dispositivo; o § 2º, I, porém, alcança
 demonstrativo de gastos tributários anexo à LOA de 2026 — documento **fora deste acervo**.
 Sem ele, não se afirma nem se nega.
 
+## Incorporação de 03/08/2026 (segundo lote) — o eixo do custo do trabalho
+
+Duas normas, conclusão do lote iniciado na incorporação anterior. Proveniência: captura própria
+do Planalto em 03/08/2026 (Lei 8.036 às 17h18; Lei 8.212 às 17h17), em PDF de impressão da
+página oficial, ambas na versão **compilada**.
+
+**Por que entram, e a que se ligam.** São as duas leis que dão preço ao risco central do
+PARECER 02 — o reconhecimento de vínculo empregatício em arranjo de TAC-agregado. Enquanto o
+motorista é autônomo, a contratação custa à empresa **20% sobre 20% do valor da nota fiscal**
+(art. 22, § 15, da Lei 8.212, com o correspondente salário-de-contribuição do art. 28, § 11) e
+**não gera FGTS**, porque o art. 15, § 2º, da Lei 8.036 exclui o autônomo da definição de
+trabalhador. Reconhecido o vínculo, a base passa a ser a remuneração integral (art. 22, I e II,
+da Lei 8.212) e nasce o depósito de 8% (art. 15) com a multa de 40% na dispensa (art. 18, § 1º),
+mais os encargos do art. 22 e a multa administrativa de 30% do art. 23, § 2º, `b`, ambos da
+Lei 8.036. **Nenhuma dessas contribuições é alcançada pela LC 214/2025** — a reforma é do
+consumo —, o que faz destas duas leis o marco de comparação que sobrevive intacto a 2027 e
+permite quantificar o risco do Parecer 02 em vez de apenas descrevê-lo.
+
+Extração com `pdftotext -layout -enc UTF-8` e `limpar_pdf.py`, pelo motivo já documentado na
+seção anterior — e reconfirmado aqui. O modo padrão foi rodado em paralelo, só para prova, e
+**corromperia 14 termos**: `pró-cotista` na Lei 8.036 e, na Lei 8.212, `salário-de-contribuição`,
+`salário-família`, `pré-constituída`, `médico-hospitalares`, `Seguro-Desemprego`, `Social-INSS`,
+`Trabalho-CLT`, `Público-PASEP`, `aplicar-se`, `sujeitar-se`, `extingui-lo` e `Saúde-SUS`.
+Nenhum deles entrou no acervo.
+
+Reparos de pré-processamento, sem tocar o texto normativo: quebras de página (34 + 65),
+cabeçalho de página (34 + 65), rodapé (34 + 65) e junção de hífen de fim de linha (7 + 20).
+As 27 junções foram conferidas **uma a uma**: todas são hífen legítimo de palavra composta
+(`FI-FGTS`, `infra-estrutura`, `mão-de-obra`, `salário-de-contribuição`); nenhuma é silabação.
+Zero caractere de controle não mapeado.
+
+**Defeito do instrumento, corrigido nesta incorporação.** O `normalizar.py` abortou a Lei 8.212
+acusando divergência de conteúdo com contagem idêntica dos dois lados (48.938 → 48.938). A
+investigação mostrou que o conteúdo estava íntegro e o **medidor** é que errava: a rotina
+`conferir()` comparava o bruto **ainda em NFD** contra a saída **já em NFC**, e o par
+`a` + U+0300 (dois tokens para a expressão regular) não casa com `à` (um token). As duas únicas
+ocorrências decompostas do arquivo estão no art. 45-A, § 4º, acrescido pela Lei 15.363/2026 — o
+dispositivo mais novo do texto. Corrigido: `conferir()` passa a normalizar em NFC **os dois
+lados**. O instrumento foi provado nos dois sentidos depois da correção — aceita o texto íntegro,
+recusa saída com uma palavra a menos (48.938 → 48.937) e recusa saída com **uma palavra trocada**
+e contagem igual. É a quinta vez neste projeto que o instrumento de medida erra mais que a
+construção; a regra da casa se confirma.
+
+Provas de conteúdo executadas e aprovadas. **Lei 8.036** — art. 15 (caput, §§ 2º e 7º), art. 18
+(caput e § 1º), art. 19-A, art. 20, art. 22, art. 23 (§ 2º, `b`), art. 23-A, art. 25, art. 32 e o
+ANEXO da Lei 13.932/2019 (tabela do saque-aniversário); fecho com assinaturas. **Lei 8.212** —
+art. 11, parágrafo único; art. 12, V, `g`; art. 15, parágrafo único; arts. 21, 22 (I, II, III,
+§ 15), 28 (III e § 11), 30 (I, `b`), 31, 33, 43 (§ 2º), 45-A (§ 4º), 47, 89 e 105; fecho e as 25
+notas de rodapé da republicação.
+
+**Camada de 2027 fora do arquivo, registrada.** O compilado da Lei 8.212 traz no cabeçalho
+"Vide Lei nº 15.371, de 2026 — Vigência", **sem** incorporar-lhe o conteúdo ao corpo. Lido o
+texto oficial no Planalto em 03/08/2026: a Lei 15.371, de 31/03/2026, institui o
+salário-paternidade e, pelo art. 7º, altera a Lei 8.212 em dois pontos — art. 28, § 9º, `a`
+(o salário-paternidade passa a **integrar** o salário-de-contribuição, ao lado do
+salário-maternidade) e art. 89, § 11 (rito de reembolso). O art. 14 fixa a vigência em
+**1º/01/2027**, a mesma data da entrada plena do IBS/CBS. É o mesmo padrão da LC 123, cuja
+camada de 2027 vive no art. 517 da LC 214: as duas peças leem-se juntas. A Lei 15.371 **não
+está neste acervo** — recomenda-se incorporá-la quando o eixo trabalhista for atacado
+(https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15371.htm).
+
 ## Fontes
 
 As URLs oficiais de cada norma estão em `fontes.tsv`, junto da classificação de setor e
@@ -146,8 +210,19 @@ remove:
 | rodapé de página | URL oficial + contador de página | 52 |
 | hífen de fim de linha | `ano-` + `calendário` → `ano-calendário` (junção, não remoção) | 5 |
 
+**Segundo lote do mesmo dia (Lei 8.036 e Lei 8.212).** Mesmo método, mesma rotina:
+
+| Ruído removido | O que era | Ocorrências |
+|---|---|---:|
+| `U+000C` (form feed) | quebra de página do `pdftotext` | 99 |
+| cabeçalho de página | carimbo de data/hora + título repetido | 99 |
+| rodapé de página | URL oficial + contador de página | 99 |
+| hífen de fim de linha | `salário-de-` + `contribuição` (junção, não remoção) | 27 |
+
 O `normalizar.py` **falha com erro** diante de caractere de controle não mapeado, para que
-uma corrupção nova nunca entre em silêncio.
+uma corrupção nova nunca entre em silêncio. Desde 03/08/2026 a rotina `conferir()` compara os
+dois lados em **NFC** — antes, comparava bruto em NFD contra saída em NFC e acusava divergência
+onde não havia (ver "Incorporação de 03/08/2026 (segundo lote)").
 
 ## Limitações conhecidas
 
@@ -174,5 +249,31 @@ uma corrupção nova nunca entre em silêncio.
 - `LEI-5172-1966.txt` é o **compilado** do Planalto: traz as alterações da LC 227/2026 e da
   LC 214/2025, mas os dispositivos com produção de efeitos diferida seguem a regra de cada lei
   alteradora, que o compilado não repete.
+- `LEI-8036-1990.txt`: o **ANEXO** (faixas de saldo, alíquota e parcela adicional do
+  saque-aniversário) é **linearizado** pelo extrator e as células ficam em sequência na mesma
+  linha. Nenhum valor se perdeu — todos conferidos —, mas a associação faixa/valor deve ser lida
+  contra o texto oficial antes de ir a cálculo. Mesma ressalva já feita à `LEI-15270-2025.txt`.
+- `LEI-8212-1991.txt`: idem para as três tabelas do texto (art. 20, alíquotas do empregado;
+  art. 29, escala de salários-base — **revogada** pela Lei 9.876/1999; art. 32, § 4º, multa por
+  faixa de segurados, **revogado**). Duas das três já não vigem; a do art. 20 tem valores em
+  cruzeiros de 1991, substituídos por portaria anual do MPS **fora deste acervo**.
+- **Defeito estrutural do `normalizar.py`, medido em 03/08/2026 e ainda não corrigido.** A regra
+  de quebra não reconhece três formas, e o efeito é de *estrutura de linha*, não de conteúdo —
+  a integridade palavra a palavra segue garantida:
+  1. **`§` de dois dígitos escrito com ponto** (`§ 15.`, estilo do Planalto a partir do § 10):
+     a regra exige espaço depois do número e não quebra. 379 ocorrências no acervo publicado
+     (as maiores: RES-CGIBS-6 com 91, DEC-12955 com 82, LC-214 com 77) e 133 nas duas normas
+     novas.
+  2. **Ordinal grafado com a letra `o`** (`Art. 3o`, `§ 7o`), herdado do HTML antigo do Planalto:
+     50 ocorrências no acervo, 5 na Lei 8.036.
+  3. **Quebra falsa em remissão** — `§ 2º deste artigo`, no meio de uma frase, vira início de
+     linha. Contagem por padrão conservador (`§ Nº` seguido de `deste`, `desta`, `do`, `da`,
+     `e`, `ou`): **ao menos** 1.119 ocorrências no acervo publicado — 435 só na LC 214 e 266 na
+     LC 227 — e 114 nas duas normas novas. O número real é maior.
+  Consequência prática: nesses pontos o dispositivo não começa em linha própria, e uma busca
+  ancorada em início de linha (`grep "^§ 15"`) falha. Corrigir a regra **altera o SHA-256 de
+  todos os arquivos afetados** e por isso não foi feita aqui: pede commit corretivo próprio,
+  com renormalização de todo o acervo de uma vez e nova rodada de provas de conteúdo.
 - Faltam (a obter quando o tema for atacado): Lei 10.209/2001, Lei 13.703/2018,
-  ADI 7181/7191 (STF), Resolução ANTT do RNTR-C.
+  ADI 7181/7191 (STF), Resolução ANTT do RNTR-C, **Lei 15.371/2026** (salário-paternidade;
+  altera a Lei 8.212 a partir de 1º/01/2027).

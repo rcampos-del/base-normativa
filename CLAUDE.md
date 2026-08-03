@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 22 normas, **18 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 24 normas, **20 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -67,6 +67,16 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
 - **Sete ocorrências de `anocalendário`** em `LC-123-2006.txt` (2) e `RES-CGSN-140-2018.txt` (5):
   hífen perdido na extração de 29/07. Conteúdo íntegro, busca prejudicada nesses pontos —
   `grep "ano-calendário"` **não** os encontra. Correção pendente de reextração.
+- **A Lei 8.212 do acervo não tem a camada de 2027.** O compilado traz "Vide Lei nº 15.371, de
+  2026" no cabeçalho e nada mais. A Lei 15.371/2026, art. 7º, altera o art. 28, § 9º, `a`
+  (salário-paternidade passa a integrar o salário-de-contribuição) e o art. 89, § 11, com
+  vigência em **1º/01/2027**. A lei alteradora **não está no acervo** — não afirmar a redação
+  de 2027 a partir deste arquivo.
+- **A quebra de linha não é confiável como âncora de busca.** O `normalizar.py` não quebra em
+  `§ 15.` (§ de dois dígitos com ponto), nem em `Art. 3o` / `§ 7o` (ordinal com a letra `o`), e
+  quebra **indevidamente** em remissão (`§ 2º deste artigo`). Buscar por conteúdo
+  (`grep -n "§ 15\. Na contratação"`), nunca por `^§`. Medido em 03/08/2026; correção pendente
+  de commit próprio, porque altera o SHA de todos os arquivos.
 
 ## Estilo
 

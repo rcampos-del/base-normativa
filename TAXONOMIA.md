@@ -84,15 +84,24 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-22 normas: **18 transversais** e **4 de TRC**. *(atualizado em 03/08/2026)*
+24 normas: **20 transversais** e **4 de TRC**. *(atualizado em 03/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
-| federal | 12 | 11 | 1 |
+| federal | 14 | 13 | 1 |
 | nacional | 5 | 3 | 2 |
 | rj | 5 | 4 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **18 das 22 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **20 das 24 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+
+> **Nota de classificação — o FGTS e a Lei 8.212.** Ambas entram como `transversal` e
+> `03-ordinaria`, pela regra de classificar a norma e não o dispositivo. A Lei 8.212 contém
+> dispositivos escritos para o TRC — o art. 22, § 15, e o art. 28, § 11, que fixam a base de 20%
+> na contratação de condutor autônomo —, mas a lei serve a qualquer empregador; é o mesmo caso da
+> Lei 10.833 e do seu art. 3º, § 19. Quanto à hierarquia, a Lei 8.212 é alterada por lei
+> complementar (LC 123/2006, LC 128/2008, LC 207/2024) **e** por lei ordinária (Leis 14.973/2024,
+> 15.072/2024, 15.363/2026, além de medidas provisórias) — logo, ao contrário do CTN, não atende
+> ao critério que justificou classificá-lo como `02-complementar`.
 
 > **Nota de classificação — o CTN.** `LEI-5172-1966` entra como `02-complementar`, e não como
 > `03-ordinaria`, embora seja formalmente lei ordinária. O critério é o do próprio arquivo: ele só

@@ -66,8 +66,17 @@ def normalizar(bruto: str) -> str:
     return '\n'.join(saida).strip() + '\n'
 
 def conferir(bruto: str, saida: str):
-    """Garante que nenhuma palavra foi perdida ou alterada."""
-    pal = lambda s: re.findall(r'[0-9A-Za-zÀ-ÿ]+', RUIDO.sub(' ', s))
+    """Garante que nenhuma palavra foi perdida ou alterada.
+
+    Compara os DOIS lados em NFC. A saída já é NFC por construção (normalizar()
+    aplica NFC como primeiro passo); comparar contra um bruto ainda em NFD
+    acusava divergência onde não há: 'a'+U+0300 (dois tokens para o regex) contra
+    'à' (um token). Verificado em 03/08/2026 na Lei 8.212/1991, art. 45-A, § 4º,
+    acrescido pela Lei 15.363/2026 — as duas únicas ocorrências decompostas do
+    arquivo. O conteúdo era idêntico; o instrumento é que media mal.
+    """
+    pal = lambda s: re.findall(r'[0-9A-Za-zÀ-ÿ]+',
+                              RUIDO.sub(' ', unicodedata.normalize('NFC', s)))
     a, b = pal(bruto), pal(saida)
     return a == b, len(a), len(b)
 
