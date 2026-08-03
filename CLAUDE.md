@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 24 normas, **20 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 26 normas, **22 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -28,6 +28,16 @@ Os arquivos estão **na raiz** do repositório (não em `texto/`).
     grep -n "transporte de carga" LC-214-2025.txt
     grep -n -A 12 "^Art. 169" LC-214-2025.txt
     python3 mapear.py DEC-12955-2026.txt | awk -F'\t' '$2==169'
+
+**Antes de citar artigo de lei antiga, rodar `camadas.py`.** Ele separa as redações empilhadas e
+devolve as notas oficiais de cada uma, distinguindo redação **superada** (o dispositivo vige, com
+outra redação), dispositivo **revogado** e versão **sem eficácia**:
+
+    python3 camadas.py LEI-9430-1996.txt 2      # duas camadas: vige a de 2014
+    python3 camadas.py LEI-9430-1996.txt 18     # revogado pela Lei 14.596/2023
+    python3 camadas.py --acervo                 # onde há empilhamento
+
+A leitura que ele devolve é **hipótese, não conclusão** — continua valendo ler o artigo inteiro.
 
 A numeração da LC **não** bate com a dos regulamentos. LC art. 169 → Decreto arts. 250,
 252-255 (cinco artigos, mais o 251, que trata da obrigação do TAC). LC art. 180 → Decreto
@@ -77,6 +87,33 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   quebra **indevidamente** em remissão (`§ 2º deste artigo`). Buscar por conteúdo
   (`grep -n "§ 15\. Na contratação"`), nunca por `^§`. Medido em 03/08/2026; correção pendente
   de commit próprio, porque altera o SHA de todos os arquivos.
+
+- **`LEI-9430-1996.txt` tem defeito da própria página do Planalto: `pela` no lugar de `pelo`** —
+  ao menos 103 ocorrências (748 `pela` contra 1 `pelo`). **Confirmado no HTML oficial em 03/08/2026**
+  — mesma contagem na marcação original. Busca por `pelo sujeito passivo`, `pelo contribuinte` ou
+  `pelo valor` **falha neste arquivo**; buscar por `pela` nesses casos. O conteúdo normativo está
+  completo. **Não citar trecho literal deste arquivo sem conferir a preposição.**
+- **Metade do arquivo é redação superada, e a primeira ocorrência de um dispositivo pode ser a
+  velha.** As páginas do Planalto empilham as redações sucessivas: em `LEI-9430-1996.txt` são 51%
+  do arquivo; em grau menor, quase todo o acervo (`LEI-8036-1990` 48%, `RJ-LEI-2657-1996` 34%,
+  `LEI-8212-1991` 29%, `LC-214-2025` 6%). **Nunca inferir vigência pela posição.**
+- **Vigência se lê pela nota entre parênteses — não pelo tachado, que a extração perde e que na
+  fonte já é ambíguo.** Medido na página da Lei 9.430: dos 639 blocos tachados, 160 trazem
+  "(Incluído …)" e 98 "(Redação dada …)" — versões que vigeram e foram substituídas —, 27 são
+  "(Sem eficácia)" (MP que nunca vigeu), 27 "(Revogado)" e 262 sem nota nenhuma. E **32 das 59
+  notas "(Revogado pela …)" estão FORA do tachado**: os arts. 18 a 24-B, revogados pela
+  Lei 14.596/2023, aparecem em tipo normal. As notas **estão** no `.txt`. Procedimento: ler o
+  artigo inteiro até o fecho, achar a nota, e — se ela remeter a lei com produção de efeitos
+  diferida — ir à lei alteradora. Distinguir sempre três coisas que o tachado confunde: redação
+  **superada** (dispositivo vigente com outra redação), dispositivo **revogado**, e versão **sem
+  eficácia**.
+- **`LEI-9430-1996.txt` é dupla camada.** O art. 64 aparece com a redação anterior à reforma (ainda
+  com COFINS e PIS/PASEP) e o art. 66 vigente. A redação de 2027 está no art. 502 da LC 214 e a
+  revogação dos §§ 7º-8º do art. 64 e do art. 66, no art. 542, V, a partir de 1º/01/2027 — como
+  na LC 123 (art. 517) e na Lei 8.212 (Lei 15.371/2026).
+- **A Lei 9.250/1995 não está no acervo.** Os arts. 10 e 10-A da Lei 9.249 remetem aos seus
+  arts. 6º-A, 16-A e 16-B (acrescidos pela Lei 15.270/2025). Sem ela não se fecha o cálculo do
+  redutor nem o da tributação mínima de altas rendas.
 
 ## Estilo
 

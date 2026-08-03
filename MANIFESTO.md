@@ -1,8 +1,9 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **03/08/2026**
-(incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional; e,
-no mesmo dia, do FGTS e da Lei Orgânica da Seguridade Social).
+(incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional; no mesmo dia,
+do FGTS e da Lei Orgânica da Seguridade Social; e, ainda no mesmo dia, das Leis 9.249/1995 e
+9.430/1996 — o eixo do IRPJ e da CSLL).
 
 Cada arquivo foi normalizado a partir da fonte oficial, com conferência palavra a palavra.
 O texto **não foi reescrito** — apenas reformatado e reparado quanto a caracteres
@@ -29,6 +30,8 @@ Para conferir a integridade a qualquer momento:
 | `LC-224-2025.txt` | Lei Complementar nº 224, de 26/12/2025 — redução linear dos incentivos e benefícios federais (art. 4º, § 4º: crédito presumido limitado a 90%; presunção do lucro presumido +10% acima de R$ 5 milhões); teto global de 2% do PIB (art. 5º); alterou a LRF (arts. 14 e 14-A) | transversal | federal | 184 | 3.773 | `dec32aa34701` |
 | `LEI-8036-1990.txt` | Lei nº 8.036, de 11/05/1990 — **FGTS**, compilada. Depósito de 8% sobre a remuneração (art. 15) e exclusão expressa do autônomo da condição de trabalhador (art. 15, § 2º); multa rescisória de 40% (art. 18, § 1º); encargos do atraso (art. 22) e multa administrativa de 30% do débito (art. 23, § 2º, `b`) | transversal | federal | 716 | 24.785 | `695be98c2d0c` |
 | `LEI-8212-1991.txt` | Lei nº 8.212, de 24/07/1991 — **Lei Orgânica da Seguridade Social** (custeio), compilada. Contribuição patronal de 20% (art. 22, I e III) e RAT (art. 22, II); **base de 20% da nota fiscal na contratação de transporte rodoviário de carga prestado por condutor autônomo (art. 22, § 15)** e salário-de-contribuição do condutor autônomo em 20% do frete bruto (art. 28, § 11); retenção de 11% na cessão de mão de obra (art. 31); contribuições em reclamatória trabalhista (art. 43) | transversal | federal | 1.234 | 48.938 | `573b9d8d8aeb` |
+| `LEI-9249-1995.txt` | Lei nº 9.249, de 26/12/1995 — **IRPJ e CSLL**; página-base do Planalto, com as redações sucessivas empilhadas. Alíquota de 15% e adicional de 10% (art. 3º); **percentuais de presunção do lucro presumido (art. 15): transporte de carga a 8% pelo caput e os demais transportes a 16% (§ 1º, II, `a`)**; base da CSLL (art. 20, I a III); juros sobre capital próprio com IRRF de 17,5% (art. 9º, § 2º, red. LC 224/2025); dividendos e o crédito do beneficiário no exterior (arts. 10 e 10-A, red. Lei 15.270/2025); extinção de punibilidade e devedor contumaz (art. 34, §§ 3º-4º, LC 225/2026) | transversal | federal | 261 | 8.578 | `82717c1a6073` |
+| `LEI-9430-1996.txt` | Lei nº 9.430, de 27/12/1996 — legislação tributária federal; página-base do Planalto (`l9430.htm`), **não** o texto compilado, que tem página própria e não foi capturado. Apuração trimestral e estimativa (arts. 1º-2º); lucro presumido (art. 25) e arbitrado (art. 27); multas de ofício, com a qualificação de 100%/150% da Lei 14.689/2023 (art. 44, § 1º, VI-VII); retenção na fonte por órgãos federais (art. 64); compensação e o limite mensal (arts. 74 e 74-A); **inaptidão do CNPJ por prática reiterada das infrações do *split payment* (art. 81, VIII, incluído pela LC 227/2026, que remete aos arts. 471-D e 471-E da LC 214/2025)**; representação fiscal para fins penais (art. 83, c/ LC 225/2026). **Dupla camada** e **defeito de fonte** — ver Limitações | transversal | federal | 992 | 35.501 | `f8fb5ed45493` |
 | `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 382 | 18.003 | `71e6275b73fe` |
 | `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 780 | 39.807 | `002fd3028601` |
 | `LEI-15270-2025.txt` | Lei nº 15.270, de 26/11/2025 — IRPF: redução do imposto até R$ 5.000,00/mês (art. 3º-A da Lei 9.250), retenção de 10% sobre dividendos acima de R$ 50.000,00/mês (art. 6º-A), tributação mínima de altas rendas acima de R$ 600.000,00/ano (art. 16-A) e redutor do art. 16-B. O art. 5º destina o excedente de arrecadação ao cálculo da alíquota de referência da CBS | transversal | federal | 148 | 3.910 | `e63d9b614ecf` |
@@ -46,7 +49,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 24 normas — 20 transversais, 4 de TRC. Por jurisdição: 14 federais, 5 nacionais, 5 do RJ.
+**Resumo:** 26 normas — 22 transversais, 4 de TRC. Por jurisdição: 16 federais, 5 nacionais, 5 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -170,6 +173,145 @@ camada de 2027 vive no art. 517 da LC 214: as duas peças leem-se juntas. A Lei 
 está neste acervo** — recomenda-se incorporá-la quando o eixo trabalhista for atacado
 (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15371.htm).
 
+## Incorporação de 03/08/2026 (terceiro lote) — o eixo do IRPJ e da CSLL
+
+Duas normas: a Lei nº 9.249, de 26/12/1995, e a Lei nº 9.430, de 27/12/1996, ambas na versão
+**compilada**. Proveniência: captura própria do Planalto em 03/08/2026, às 17h17, em PDF de
+impressão da página oficial (`l9249.htm` e `l9430.htm`).
+
+**Por que entram, e a que se ligam.** São a sede do imposto de renda da pessoa jurídica e da
+contribuição sobre o lucro — os dois tributos que a reforma do consumo **não** alcança e que,
+por isso, atravessam intactos a transição. Três elos concretos com o acervo:
+
+1. **O percentual do transporte de carga.** O art. 15, § 1º, II, `a`, da Lei 9.249 põe os serviços
+   de transporte em 16% de presunção **e excetua expressamente o de carga**, que segue o caput —
+   **8%**. A base da CSLL correspondente é de 12% (art. 20, III). É o marco de comparação do
+   lucro presumido para a transportadora, que até agora estava fora do acervo.
+2. **A reforma tocou as duas leis em três pontos.** O art. 502 da LC 214/2025 dá nova redação ao
+   caput do art. 64 da Lei 9.430 (a retenção federal passa a alcançar só IR e CSLL) e o art. 542,
+   V, revoga a partir de 1º/01/2027 os §§ 7º e 8º do mesmo art. 64 e o art. 66 — as pernas de
+   PIS/COFINS. E o art. 81, VIII, da Lei 9.430, **incluído pela LC 227/2026**, torna inapta a
+   inscrição no CNPJ de quem praticar reiteradamente as infrações do art. 471-D da LC 214/2025 —
+   as do *split payment*, dirigidas ao prestador de serviço de pagamento e ao operador de sistema
+   de pagamento, na forma do art. 471-E.
+3. **Fecha-se o circuito das alteradoras.** A LC 224/2025 e a Lei 15.270/2025 já estavam no acervo
+   **como leis alteradoras, sem o texto alterado**. Agora estão as duas pontas: o IRRF de 17,5%
+   sobre juros sobre capital próprio (art. 9º, § 2º, da Lei 9.249, red. LC 224/2025) e a
+   tributação dos dividendos remetidos ao exterior a 10%, com o crédito do art. 10-A (red. Lei
+   15.270/2025), leem-se agora no próprio dispositivo.
+
+**Método de extração.** `pdftotext -layout -enc UTF-8` e `limpar_pdf.py`, pelo motivo já
+documentado nas duas seções anteriores. O modo padrão foi rodado em paralelo, só para prova, e
+**corromperia 5 termos**: `utilizá-lo` e `intimá-lo` na Lei 9.430; `trimestre-calendário`,
+`ano-base` e `ano-calendário` na Lei 9.249. Nenhum deles entrou no acervo.
+
+Reparos de pré-processamento, sem tocar o texto normativo: quebras de página (48 + 13), cabeçalho
+de página (48 + 13), rodapé (48 + 13) e junção de hífen de fim de linha (2 + 3). As 5 junções
+foram conferidas **uma a uma** — todas são hífen legítimo (ênclise pronominal e palavra composta);
+nenhuma é silabação. Zero caractere de controle não mapeado; zero palavra perdida na conferência
+do `normalizar.py`.
+
+**O medidor foi provado antes de medir**, como manda a regra da casa: a `LC-214-2025.txt` devolveu
+**126.519** palavras, exatamente o registro desta tabela. Só então se contaram as duas novas.
+
+Provas de conteúdo executadas e aprovadas. **Lei 9.249** — art. 3º (caput e §§ 1º-4º, nas duas
+redações); art. 9º, § 2º (17,5%, LC 224/2025); arts. 10 e 10-A (Lei 15.270/2025, inclusive o § 5º,
+I a II); art. 13; **art. 15 (caput, § 1º, I a IV, e §§ 2º-4º)**; art. 20, I a III; art. 34,
+§§ 3º-4º (LC 225/2026); fecho com assinaturas. **Lei 9.430** — arts. 1º, 2º, 9º-A, 25, 27; art. 44
+(caput, I e II, § 1º, VI-VII, § 1º-A e § 1º-C); art. 64 (caput e §§ 7º-8º); art. 66; art. 74
+(inclusive § 12, II, `g` e `h`, red. Lei 15.265/2025) e art. 74-A; **art. 81, VIII (LC 227/2026)**;
+art. 83, § 5º, I-II e § 7º (LC 225/2026); fecho com assinaturas.
+
+**Camada de 2027 fora do arquivo, registrada.** Como já sucedeu com a LC 123 (cuja camada de 2027
+vive no art. 517 da LC 214) e com a Lei 8.212 (Lei 15.371/2026), o compilado do Planalto da
+Lei 9.430 traz no cabeçalho apenas "Vide Lei Complementar nº 214, de 2025 — Produção de efeitos",
+**sem** incorporar-lhe o conteúdo ao corpo: o art. 64 aparece com a redação antiga, ainda com
+COFINS e PIS/PASEP. A redação que vale a partir de 1º/01/2027 e as revogações estão nos arts. 502
+e 542, V, da `LC-214-2025.txt`. **As duas peças leem-se juntas.**
+
+**Defeito da fonte — confirmado no HTML oficial em 03/08/2026.** O arquivo traz **748 ocorrências
+de `pela` contra 1 de `pelo`**, e ao menos **103 delas estão em lugar de `pelo`**: "pela sujeito
+passivo" (17), "pela contribuinte" (12), "pela art." (9), "pela valor" (7), "pela inciso" (7),
+"pela método" (6), "pela pagamento" (5), "pela Banco Central" (4), "pela juiz", "pela Supremo",
+"pela Senado", "pela órgão", "pela devedor", entre outras.
+
+A causa foi **determinada**, e não é nossa. O sócio capturou o HTML da página oficial e o confronto
+devolveu **exatamente a mesma contagem — 748 `pela` contra 1 `pelo`** — na marcação original, antes
+de qualquer extração. A substituição está **na página do Planalto**. Não é do extrator (as demais
+palavras em `-o` estão íntegras: `prazo` 57, `imposto` 129, `lucro` 107, `artigo` 113), não é da
+impressão em PDF, e não é do tratamento: a Lei 9.249, do mesmo lote e método, traz `pelo`
+corretamente 31 vezes. A única sobrevivente de `pelo` no arquivo está no art. 9º-A, acrescido pela
+Lei 14.043/2020 — dispositivo dos mais recentes, o que sugere substituição global feita na página
+em algum momento, com o texto acrescido depois escapando dela. **A sugestão não se afirma**: só a
+medição está provada.
+
+Consequência prática: o conteúdo normativo está completo (35.501 palavras, zero perdidas na
+conferência) e nenhum dispositivo se alterou em substância, mas busca por "pelo sujeito passivo"
+**falha** e citação literal reproduziria a preposição da página. Pela regra da casa — **não se
+emenda o texto sem o original à vista**, e aqui o original **é** o texto com o defeito —, o arquivo
+entra como capturado. **Recomenda-se capturar a página compilada**
+(`https://www.planalto.gov.br/ccivil_03/leis/L9430compilada.htm`, cujo link está no alto da própria
+página-base): é artefato distinto, pode não carregar o defeito, e é a convenção da casa para as
+leis federais — `l10637compilado`, `l10.833compilado`, `l5172compilado`, `l8036consol`,
+`l8212cons`. Substituindo-se o arquivo, muda o SHA-256 desta tabela e a URL do `fontes.tsv`.
+
+**Achado que excede estas duas normas: o tachado se perde na extração.** A conferência do HTML
+mostrou **695 blocos tachados** (`<strike>` e `line-through`) somando **18.196 palavras — 51% do
+arquivo**. São as redações revogadas ou superadas, que a página oficial distingue **visualmente** e
+que o texto puro **não distingue de modo algum**: no `.txt`, a redação velha e a nova ficam em
+parágrafos consecutivos, sem marca. Quem ler o art. 15 da Lei 9.249 pela primeira ocorrência lê a
+redação anterior à Lei 12.973/2014.
+
+O sintoma é mensurável em todo o acervo, e **não é próprio destas duas normas**: contando os
+dispositivos cujo cabeçalho `Art. N` aparece mais de uma vez no mesmo arquivo — proxy conservador
+de redação empilhada —, obtêm-se `LEI-8036-1990` 48%, `RJ-LEI-2657-1996` 34%, `LEI-9430-1996` 30%,
+`LEI-8212-1991` 29%, `LC-227-2026` 20%, `LEI-10833-2003` 20%, `LEI-10637-2002` 19%,
+`LEI-9249-1995` 14%, `LC-214-2025` 6%. Os regulamentos novos (`DEC-12955-2026`,
+`RES-CGIBS-6-2026`) e o CTN dão zero. **A página "compilada" do Planalto não resolve**: a
+`LEI-10833-2003`, capturada de `l10.833compilado.htm`, dá 20%.
+
+**O tachado não é marcador de vigência — medido no mesmo HTML, e isto reduz o peso do achado
+anterior.** Classificados os 639 blocos tachados com texto, o tachado marca coisas heterogêneas:
+160 trazem "(Incluído por …)" e 98 "(Redação dada por …)" — são versões que *vigeram* e foram
+substituídas; 27 são versões de medida provisória "(Sem eficácia)", que nunca vigeram; 27 trazem
+"(Revogado)"; e **262 não trazem nota alguma** (redação originária de 1996, depois substituída).
+
+E, sobretudo, o **inverso**: das 59 notas "(Revogado pela …)" da página, **32 estão FORA do
+tachado**. Quem tomasse "não tachado = vigente" leria como em vigor todo o capítulo de preços de
+transferência da Lei 9.430 — arts. 18 a 24-B —, **revogado pela Lei 14.596/2023**, que na página
+aparece em tipo normal.
+
+Conclusão que corrige a redação anterior desta seção: **o sinal de vigência nunca foi o tachado —
+é a nota entre parênteses, e a nota sobrevive íntegra no `.txt`.** As 15 ocorrências de "(Revogado
+pela Lei nº 14.596, de 2023)" estão no arquivo do acervo. O que se perde na extração é um atalho
+visual que, na própria fonte, é ambíguo nos dois sentidos. A regra de leitura não muda e não é nova:
+**ler o artigo inteiro até o fecho e conferir a nota**; e, quando a nota remeter a lei com produção
+de efeitos diferida, **ir à lei alteradora** — foi assim que se apanharam a camada de 2027 da LC 123
+(art. 517 da LC 214), a da Lei 8.212 (Lei 15.371/2026) e a desta Lei 9.430 (arts. 502 e 542, V, da
+LC 214).
+
+**Instrumento criado nesta sessão: `camadas.py`.** Devolve o atalho perdido **sem tocar em texto
+nenhum** — nenhum SHA muda. Separa as camadas de um dispositivo, imprime as notas oficiais de cada
+uma e classifica em REDAÇÃO SUPERADA, REVOGADO e SEM EFICÁCIA. Provado, antes de usado, em oito
+casos de resposta conhecida: art. 2º da Lei 9.430 (vige a redação da Lei 12.973/2014), art. 18 da
+mesma lei (revogado pela Lei 14.596/2023), art. 44 (vige, apesar de incisos revogados), art. 15 da
+Lei 9.249, art. 15 da Lei 8.036, arts. 47 e 169 da LC 214 e art. 3º da LC 123. **O primeiro ensaio
+reprovou o instrumento**: sem restringir a leitura ao caput, as notas dos parágrafos entravam na
+conta e o art. 44 saía como revogado. Corrigido e reprovado — é a sexta vez neste projeto que o
+medidor erra antes da construção.
+
+Auditoria que ele devolve sobre o acervo de 26 normas: **202 dispositivos com redação empilhada**,
+dos quais 91 com a última camada sem nota no caput. A concentração é toda em lei antiga —
+`RJ-LEI-2657-1996` 42, `LEI-8212-1991` 33, `LEI-9430-1996` 27, `LEI-8036-1990` 25, `LC-123-2006` 21,
+`LEI-10833-2003` 16, `RES-CGSN-140-2018` 15. **A espinha dorsal da reforma dá zero**: `LC-214-2025`,
+`LC-227-2026`, `DEC-12955-2026`, `LEI-5172-1966`, `LC-224-2025` e `LEI-15270-2025` não têm um só
+dispositivo empilhado, e a `RES-CGIBS-6-2026` tem um.
+
+Uma convenção de marcação no acervo (prefixar o bloco superado) daria o atalho de volta, mas
+**alteraria o texto** e o SHA de quase todos os arquivos — e teria de decidir, bloco a bloco, entre
+"superado", "revogado" e "sem eficácia", que são coisas juridicamente distintas. É decisão do sócio,
+não do assistente.
+
 ## Fontes
 
 As URLs oficiais de cada norma estão em `fontes.tsv`, junto da classificação de setor e
@@ -218,6 +360,15 @@ remove:
 | cabeçalho de página | carimbo de data/hora + título repetido | 99 |
 | rodapé de página | URL oficial + contador de página | 99 |
 | hífen de fim de linha | `salário-de-` + `contribuição` (junção, não remoção) | 27 |
+
+**Terceiro lote do mesmo dia (Lei 9.249 e Lei 9.430).** Mesmo método, mesma rotina:
+
+| Ruído removido | O que era | Ocorrências |
+|---|---|---:|
+| `U+000C` (form feed) | quebra de página do `pdftotext` | 61 |
+| cabeçalho de página | carimbo de data/hora + título repetido | 61 |
+| rodapé de página | URL oficial + contador de página | 61 |
+| hífen de fim de linha | `utilizá-` + `lo`, `ano-` + `base` (junção, não remoção) | 5 |
 
 O `normalizar.py` **falha com erro** diante de caractere de controle não mapeado, para que
 uma corrupção nova nunca entre em silêncio. Desde 03/08/2026 a rotina `conferir()` compara os
@@ -274,6 +425,32 @@ onde não havia (ver "Incorporação de 03/08/2026 (segundo lote)").
   ancorada em início de linha (`grep "^§ 15"`) falha. Corrigir a regra **altera o SHA-256 de
   todos os arquivos afetados** e por isso não foi feita aqui: pede commit corretivo próprio,
   com renormalização de todo o acervo de uma vez e nova rodada de provas de conteúdo.
+- **`LEI-9430-1996.txt` — defeito da própria página oficial, confirmado no HTML.** 103 ocorrências,
+  ao menos, de `pela` onde a norma diz `pelo` (748 `pela` contra 1 `pelo`). O HTML capturado do
+  Planalto devolve a mesma contagem: **o defeito é da fonte**, não do extrator nem do tratamento. O
+  conteúdo normativo está completo e a substância é a oficial, mas **busca por `pelo` falha neste
+  arquivo** e citação literal reproduz a preposição da página. Recomendada a captura da página
+  compilada (`L9430compilada.htm`), artefato distinto, para verificar se carrega o mesmo defeito.
+- **Redação empilhada e tachado perdido — limitação de todo o acervo, medida em 03/08/2026.** As
+  páginas do Planalto marcam **visualmente** (tachado) as redações revogadas e superadas; o texto
+  puro não conserva essa marca. Em `LEI-9430-1996.txt` são **695 blocos, 18.196 palavras — 51% do
+  arquivo**. Proxy por artigo repetido em outros: `LEI-8036-1990` 48%, `RJ-LEI-2657-1996` 34%,
+  `LEI-8212-1991` 29%, `LC-227-2026` e `LEI-10833-2003` 20%, `LC-214-2025` 6%; zero em
+  `DEC-12955-2026`, `RES-CGIBS-6-2026` e `LEI-5172-1966`. A página "compilada" **não** resolve.
+  Consequência: a primeira ocorrência de um dispositivo pode ser a redação velha. **Mas o tachado
+  nunca foi o marcador de vigência**: na própria página, 32 das 59 notas "(Revogado pela …)" estão
+  fora do tachado — os arts. 18 a 24-B da Lei 9.430, revogados pela Lei 14.596/2023, aparecem em
+  tipo normal. O marcador é a **nota entre parênteses**, e ela sobrevive íntegra no `.txt`. Ler o
+  artigo inteiro até o fecho e conferir a nota; havendo remissão a lei com efeitos diferidos, ir à
+  lei alteradora.
+- **`LEI-9430-1996.txt` — dupla camada.** O compilado traz o art. 64 com a redação anterior à
+  reforma (ainda com COFINS e PIS/PASEP) e o art. 66 vigente. A redação de 2027 está no art. 502
+  da `LC-214-2025.txt` e a revogação dos §§ 7º-8º do art. 64 e do art. 66, no art. 542, V, da
+  mesma lei, a partir de 1º/01/2027. Não afirmar a redação de 2027 a partir deste arquivo.
+- `LEI-9249-1995.txt`: os arts. 10 e 10-A remetem aos arts. 6º-A, 16-A e 16-B da **Lei 9.250/1995**,
+  que **não está neste acervo**. O cálculo do redutor e da tributação mínima de altas rendas não se
+  faz só com este arquivo — a `LEI-15270-2025.txt` traz o texto acrescido, mas não a lei hospedeira.
 - Faltam (a obter quando o tema for atacado): Lei 10.209/2001, Lei 13.703/2018,
   ADI 7181/7191 (STF), Resolução ANTT do RNTR-C, **Lei 15.371/2026** (salário-paternidade;
-  altera a Lei 8.212 a partir de 1º/01/2027).
+  altera a Lei 8.212 a partir de 1º/01/2027) e **Lei 9.250/1995** (IRPF — lei hospedeira dos
+  arts. 6º-A, 16-A e 16-B acrescidos pela Lei 15.270/2025 e remetidos pelo art. 10 da Lei 9.249).
