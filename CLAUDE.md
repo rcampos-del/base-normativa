@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 16 normas, **12 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 22 normas, **18 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -35,6 +35,10 @@ art. 267. Sempre consultar o mapa.
 
 ## Antes de acrescentar norma
 
+0. **Se a fonte for PDF:** extrair com `pdftotext -layout -enc UTF-8 fonte.pdf bruto.txt` e passar
+   por `python3 limpar_pdf.py bruto.txt limpo.txt "TÍTULO DO CABEÇALHO"`. **Nunca o modo padrão do
+   `pdftotext`**: ele junta a quebra de linha hifenizada e engole o hífen — `ano-calendário` vira
+   `anocalendário`, e o termo deixa de ser localizável. Verificado em 03/08/2026.
 1. Normalizar com `python3 normalizar.py bruto.txt NOME.txt` — ele **aborta** se perder palavra.
 2. Classificar em `fontes.tsv` (setor e jurisdição — ver `TAXONOMIA.md`).
 3. Registrar no `MANIFESTO.md` com o SHA-256.
@@ -55,6 +59,14 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   2027, mas a articulação com os arts. 346/348 **não foi examinada**.
 - **Art. 82-C do Livro IX do RICMS-RJ** afasta o Convênio 106/96 na subcontratação e no TAC.
   A modelagem disso no simulador é **simplificada** e carece de validação.
+- **Alcance da LC 224/2025 sobre o crédito presumido do art. 3º, § 19, da Lei 10.833**
+  (subcontratação de TAC): o art. 4º, § 2º, II, `d`, lista créditos presumidos nominalmente e
+  **não o inclui**; o § 2º, I, alcança o que constar do demonstrativo de gastos tributários anexo
+  à LOA de 2026, que **não está neste acervo**. Se alcançado, o aproveitamento cai a 90%
+  (art. 4º, § 4º, IV). **Não afirmar em nenhum sentido** sem o demonstrativo.
+- **Sete ocorrências de `anocalendário`** em `LC-123-2006.txt` (2) e `RES-CGSN-140-2018.txt` (5):
+  hífen perdido na extração de 29/07. Conteúdo íntegro, busca prejudicada nesses pontos —
+  `grep "ano-calendário"` **não** os encontra. Correção pendente de reextração.
 
 ## Estilo
 

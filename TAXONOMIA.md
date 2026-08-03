@@ -84,12 +84,19 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-16 normas: **12 transversais** e **4 de TRC**.
+22 normas: **18 transversais** e **4 de TRC**. *(atualizado em 03/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
-| federal | 8 | 7 | 1 |
-| nacional | 3 | 1 | 2 |
+| federal | 12 | 11 | 1 |
+| nacional | 5 | 3 | 2 |
 | rj | 5 | 4 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **12 das 16 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **18 das 22 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+
+> **Nota de classificação — o CTN.** `LEI-5172-1966` entra como `02-complementar`, e não como
+> `03-ordinaria`, embora seja formalmente lei ordinária. O critério é o do próprio arquivo: ele só
+> é alterado por lei complementar — LC 104/2001, LC 118/2005, LC 143/2013, LC 187/2021,
+> LC 194/2022, LC 208/2024, LC 214/2025 e LC 227/2026, todas visíveis no texto. A tese da recepção
+> com status de lei complementar (art. 146 da Constituição) **não foi conferida em fonte primária**
+> nesta classificação; se o sócio preferir a designação formal, muda-se um campo em `fontes.tsv`.

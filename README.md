@@ -23,6 +23,7 @@ obrigaria a escolher um lar só. O porquê está em `TAXONOMIA.md`.
 | `MANIFESTO.md` | proveniência, reparos aplicados e SHA-256 de cada arquivo |
 | `TAXONOMIA.md` | como classificar e como entra setor ou UF nova |
 | `CLAUDE.md` | instruções de trabalho neste acervo |
+| `limpar_pdf.py` | pré-processa PDF: tira cabeçalho, rodapé e quebra de página; junta hífen de fim de linha |
 | `normalizar.py` | converte a norma em texto versionável, abortando se perder palavra |
 | `validar.py` | confere o SHA de cada `.txt` contra o `MANIFESTO.md` |
 | `mapear.py` | mapa de correspondência entre a LC 214 e seus regulamentos |
