@@ -84,15 +84,15 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-24 normas: **20 transversais** e **4 de TRC**. *(atualizado em 03/08/2026)*
+26 normas: **22 transversais** e **4 de TRC**. *(atualizado em 03/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
-| federal | 14 | 13 | 1 |
+| federal | 16 | 15 | 1 |
 | nacional | 5 | 3 | 2 |
 | rj | 5 | 4 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **20 das 24 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **22 das 26 normas prontas e auditadas**. Só faltam as específicas do setor dele.
 
 > **Nota de classificação — o FGTS e a Lei 8.212.** Ambas entram como `transversal` e
 > `03-ordinaria`, pela regra de classificar a norma e não o dispositivo. A Lei 8.212 contém
@@ -109,3 +109,10 @@ Leitura prática: um cliente de **outro setor no RJ** já encontra **20 das 24 n
 > LC 194/2022, LC 208/2024, LC 214/2025 e LC 227/2026, todas visíveis no texto. A tese da recepção
 > com status de lei complementar (art. 146 da Constituição) **não foi conferida em fonte primária**
 > nesta classificação; se o sócio preferir a designação formal, muda-se um campo em `fontes.tsv`.
+
+> **Nota de classificação — o IRPJ e a CSLL.** `LEI-9249-1995` e `LEI-9430-1996` entram como
+> `transversal` e `03-ordinaria`. A Lei 9.249 contém dispositivo escrito para o transporte — o
+> art. 15, § 1º, II, `a`, que excetua o transporte **de carga** do percentual de 16% e o devolve
+> ao caput, 8% —, mas a lei rege o imposto de renda de qualquer pessoa jurídica; é o mesmo caso
+> da Lei 10.833 e do seu art. 3º, § 19, e da Lei 8.212 e do seu art. 22, § 15. Classifica-se a
+> norma, não o dispositivo.
