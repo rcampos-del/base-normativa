@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 26 normas, **22 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 27 normas, **23 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -114,6 +114,11 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
 - **A Lei 9.250/1995 não está no acervo.** Os arts. 10 e 10-A da Lei 9.249 remetem aos seus
   arts. 6º-A, 16-A e 16-B (acrescidos pela Lei 15.270/2025). Sem ela não se fecha o cálculo do
   redutor nem o da tributação mínima de altas rendas.
+
+- **Captura nova vem em HTML, não em PDF.** Salvar a página do Planalto com `Ctrl+S` e processar
+  com `limpar_html.py` + `normalizar.py`. Preferir sempre a URL **compilada**. O PDF de impressão
+  continua válido para o que já entrou, mas erra o ordinal sobrescrito — 18 ocorrências medidas na
+  `LEI-9430-1996.txt` em 04/08/2026 — e joga fora o tachado.
 
 ## Estilo
 

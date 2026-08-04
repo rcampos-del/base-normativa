@@ -1,6 +1,8 @@
 # MANIFESTO DO ACERVO
 
-Proveniência e integridade. Gerado em 16/07/2026; atualizado em **03/08/2026**
+Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
+(incorporação da Lei 12.546/2011 — primeira norma erguida de **página HTML salva**,
+não de PDF de impressão). Antes, em **03/08/2026**
 (incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional; no mesmo dia,
 do FGTS e da Lei Orgânica da Seguridade Social; e, ainda no mesmo dia, das Leis 9.249/1995 e
 9.430/1996 — o eixo do IRPJ e da CSLL).
@@ -34,6 +36,7 @@ Para conferir a integridade a qualquer momento:
 | `LEI-9430-1996.txt` | Lei nº 9.430, de 27/12/1996 — legislação tributária federal; página-base do Planalto (`l9430.htm`), **não** o texto compilado, que tem página própria e não foi capturado. Apuração trimestral e estimativa (arts. 1º-2º); lucro presumido (art. 25) e arbitrado (art. 27); multas de ofício, com a qualificação de 100%/150% da Lei 14.689/2023 (art. 44, § 1º, VI-VII); retenção na fonte por órgãos federais (art. 64); compensação e o limite mensal (arts. 74 e 74-A); **inaptidão do CNPJ por prática reiterada das infrações do *split payment* (art. 81, VIII, incluído pela LC 227/2026, que remete aos arts. 471-D e 471-E da LC 214/2025)**; representação fiscal para fins penais (art. 83, c/ LC 225/2026). **Dupla camada** e **defeito de fonte** — ver Limitações | transversal | federal | 992 | 35.501 | `f8fb5ed45493` |
 | `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 382 | 18.003 | `71e6275b73fe` |
 | `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 780 | 39.807 | `002fd3028601` |
+| `LEI-12546-2011.txt` | Lei nº 12.546, de 14/12/2011 — **desoneração da folha (CPRB)**, compilada. **Transporte rodoviário de cargas, CNAE 4930-2, no art. 8º, IX** (incluído pela Lei 13.670/2018), com **alíquota de 1,5% sobre a receita bruta** (art. 8º-A, que põe 2,5% como regra e excetua os incisos VI, IX, X e XI); a substituição integral terminou em 31/12/2024 (art. 8º, caput, red. Lei 14.973/2024) e o art. 9º-A instituiu substituição **parcial e escalonada** — 2025: 80% da alíquota sobre receita + 25% da folha; **2026: 60% + 50%**; 2027: 40% + 75% —, com retorno integral à folha em 1º/01/2028 (art. 9º-B); exclusão da receita de transporte internacional de carga (art. 9º, II, `b`) e opção irretratável no pagamento de janeiro (art. 9º, § 13) | transversal | federal | 374 | 12.036 | `0f9aafcd742a` |
 | `LEI-15270-2025.txt` | Lei nº 15.270, de 26/11/2025 — IRPF: redução do imposto até R$ 5.000,00/mês (art. 3º-A da Lei 9.250), retenção de 10% sobre dividendos acima de R$ 50.000,00/mês (art. 6º-A), tributação mínima de altas rendas acima de R$ 600.000,00/ano (art. 16-A) e redutor do art. 16-B. O art. 5º destina o excedente de arrecadação ao cálculo da alíquota de referência da CBS | transversal | federal | 148 | 3.910 | `e63d9b614ecf` |
 | `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 6.223 | 47.763 | `718da17ee0b0` |
 | `DEC-12955-2026.txt` | Decreto nº 12.955, de 29/04/2026 — Regulamento da CBS | transversal | federal | 5.606 | 130.507 | `6ccde9b698aa` |
@@ -49,7 +52,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 26 normas — 22 transversais, 4 de TRC. Por jurisdição: 16 federais, 5 nacionais, 5 do RJ.
+**Resumo:** 27 normas — 23 transversais, 4 de TRC. Por jurisdição: 17 federais, 5 nacionais, 5 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -311,6 +314,61 @@ Uma convenção de marcação no acervo (prefixar o bloco superado) daria o atal
 **alteraria o texto** e o SHA de quase todos os arquivos — e teria de decidir, bloco a bloco, entre
 "superado", "revogado" e "sem eficácia", que são coisas juridicamente distintas. É decisão do sócio,
 não do assistente.
+
+## Incorporação de 04/08/2026 — a Lei 12.546 e o caminho novo de captura
+
+**Uma norma e um instrumento.** A Lei nº 12.546, de 14/12/2011, na versão **compilada**, é a
+primeira norma do acervo erguida de **página HTML salva**, e não de PDF de impressão.
+Proveniência: captura própria do sócio em 04/08/2026, `l12546compilado.htm`.
+
+**Por que o caminho mudou.** A página-base desta lei carrega os Anexos I e II com centenas de
+códigos NCM; impressa, vira PDF de centenas de páginas, que o canal de envio recusa. A página
+**compilada** não tem esse peso — os dois anexos foram revogados pela Lei 13.670/2018 e aparecem
+como uma linha. E a página salva em HTML é **melhor fonte** que o PDF: foi nela que se provou que
+o defeito `pela`/`pelo` da Lei 9.430 era do Planalto, e que se mediram os 695 blocos tachados.
+O PDF descarta essa informação.
+
+**O instrumento: `limpar_html.py`.** Descarta script, estilo, comentário e o `<head>`; converte
+elementos de bloco em quebra de linha; remove a marcação restante **sem espaço no lugar**, porque
+no Planalto ela cai dentro da palavra; resolve entidades; normaliza espaço. A saída ainda passa
+pelo `normalizar.py`, como no caminho do PDF. Mede e **relata** o tachado, mas não o marca no
+texto — a distinção lê-se pela nota entre parênteses, na forma do `camadas.py`.
+
+**Provado antes de usado, e reprovado na primeira.** O ensaio foi reprocessar pelo HTML a
+`LEI-9430-1996.txt`, já publicada, e comparar palavra por palavra. Na primeira versão o
+instrumento trocava a marcação por espaço e **partia 226 palavras**: `1º` virava `1 o`,
+`Sem eficácia` virava `S em eficácia`. Corrigido o tratamento da marcação intrapalavra, os dois
+caminhos convergiram.
+
+**O ensaio apanhou defeito no arquivo já publicado.** Restaram 18 divergências, e **em todas o
+HTML está certo e o PDF errado**: o `pdftotext -layout` desloca o ordinal sobrescrito, e a
+`LEI-9430-1996.txt` traz, por exemplo, `. o § 2 Nas operações` onde a norma diz `. § 2o Nas
+operações`. São 18 ocorrências, todas de ordinal, nenhuma altera substância — mas ficam
+registradas, e reforçam a recomendação de recapturar em HTML os arquivos vindos de PDF. Fica
+como débito, junto do commit de renormalização geral.
+
+**Números da conversão.** 762 `<p>`, 52 `<blockquote>`, 4 `<td>`, 2 `<h1>`, entre outros, viraram
+quebra de linha; 2.786 marcações removidas; 1 script e 1 comentário descartados. Resultado: 374
+linhas, **12.036 palavras**, zero perdidas na conferência do `normalizar.py`. Apenas **15 blocos
+tachados, 92 palavras** — a página compilada quase não carrega redação superada, ao contrário da
+página-base da Lei 9.430, com 51%.
+
+**Por que a norma entra, e o que ela destrava.** É a última perna do eixo do custo do trabalho,
+ao lado da Lei 8.212 e da Lei 8.036. Sem ela não se compara o regime federal do cliente:
+o transporte rodoviário de cargas está expressamente no art. 8º, IX, e paga **1,5% sobre a receita
+bruta** em vez de 20% sobre a folha. E revela o que o simulador terá de modelar: **a desoneração
+morre no mesmo intervalo em que o IBS/CBS nasce.** São duas transições sobrepostas, cada uma com
+proporção anual própria — em 2026, 60% da alíquota sobre receita somados a 50% da folha. É o caso
+exemplar do § 4.3 do PRD: regra é dado com vigência, nunca código.
+
+**Dependência declarada.** O art. 9º-A e a redação atual dos arts. 7º e 8º são obra da
+**Lei 14.973/2024**, que **não está no acervo**. O escalonamento pode ser lido aqui, mas a lei
+alteradora não foi conferida no oficial. Continua na lista de faltantes, agora como prioridade.
+
+Provas de conteúdo executadas e aprovadas: art. 7º e 7º-A; art. 8º, caput e IX; art. 8º-A;
+art. 9º, II, `b`, e § 13; art. 9º-A, I a III; art. 9º-B; art. 52 e fecho com as oito assinaturas,
+a nota do DOU de 15.12.2011 e os dois anexos revogados. `camadas.py` devolve camada única para os
+arts. 7º-A, 8º, 8º-A, 9º-A e 9º-B.
 
 ## Fontes
 
