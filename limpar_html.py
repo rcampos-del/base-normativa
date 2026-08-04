@@ -70,6 +70,21 @@ def medir_tachado(h):
     return len(uniao), pal
 
 
+# Páginas do Diário Oficial (in.gov.br) vêm embrulhadas em portal: menu,
+# rodapé, redes sociais. O texto da matéria mora em <div class="texto-dou">,
+# precedido do cabeçalho <div class="cabecalho-dou">. Recorta-se o miolo antes
+# de converter — do contrário entram 200 linhas de navegação no acervo.
+def recortar_dou(h):
+    ini = re.search(r'<div[^>]*class="[^"]*cabecalho-dou[^"]*"', h, re.I)
+    if not ini:
+        ini = re.search(r'<div[^>]*class="[^"]*texto-dou[^"]*"', h, re.I)
+    if not ini:
+        return h, False
+    fim = re.search(r'(?is)<(footer|div[^>]*class="[^"]*rodape)', h[ini.start():])
+    corte = ini.start() + (fim.start() if fim else len(h) - ini.start())
+    return h[ini.start():corte], True
+
+
 def converter(h):
     contas = {}
 
@@ -79,6 +94,9 @@ def converter(h):
         if n:
             contas[rotulo] = contas.get(rotulo, 0) + n
 
+    h, dou = recortar_dou(h)
+    if dou:
+        contas['miolo do DOU recortado'] = 1
     some(r'(?is)<head[^>]*>.*?</head>', 'cabeçalho do documento descartado')
     some(r'(?is)<script[^>]*>.*?</script>', 'script descartado')
     some(r'(?is)<style[^>]*>.*?</style>', 'estilo descartado')

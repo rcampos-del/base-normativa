@@ -84,15 +84,15 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-32 normas: **28 transversais** e **4 de TRC**. *(atualizado em 04/08/2026)*
+37 normas: **32 transversais** e **5 de TRC**. *(atualizado em 04/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
-| federal | 22 | 21 | 1 |
+| federal | 27 | 25 | 2 |
 | nacional | 5 | 3 | 2 |
 | rj | 5 | 4 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **28 das 32 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **32 das 37 normas prontas e auditadas**. Só faltam as específicas do setor dele.
 
 > **Nota de classificação — o FGTS e a Lei 8.212.** Ambas entram como `transversal` e
 > `03-ordinaria`, pela regra de classificar a norma e não o dispositivo. A Lei 8.212 contém
@@ -116,3 +116,13 @@ Leitura prática: um cliente de **outro setor no RJ** já encontra **28 das 32 n
 > ao caput, 8% —, mas a lei rege o imposto de renda de qualquer pessoa jurídica; é o mesmo caso
 > da Lei 10.833 e do seu art. 3º, § 19, e da Lei 8.212 e do seu art. 22, § 15. Classifica-se a
 > norma, não o dispositivo.
+
+> **Nota de classificação — a Lei 8.706/1993.** Entra como `trc`, não como transversal: cria o SEST
+> e o SENAT, entidades do setor de transporte, e sua contribuição só alcança quem está nesse setor.
+> É o inverso do caso da Lei 9.249 — ali, uma lei geral com dispositivo do transporte; aqui, uma lei
+> inteira do transporte. Classifica-se a norma.
+
+> **Nota de proveniência — o Diário Oficial.** A `LEI-15371-2026` é a primeira norma capturada do
+> `in.gov.br`, e não do Planalto. Cabe quando a norma é recente e ainda não tem página compilada.
+> O `limpar_html.py` recorta o miolo da matéria e preserva o cabeçalho de publicação — órgão, seção,
+> edição e data —, que é a prova de proveniência que só o DOU dá.

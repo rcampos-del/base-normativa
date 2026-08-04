@@ -3,7 +3,8 @@
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
 (incorporação da Lei 12.546/2011 — primeira norma erguida de **página HTML salva**,
 não de PDF de impressão — e, no mesmo dia, do eixo da renda: Lei 7.689, Lei 9.250,
-Lei 9.718, Lei 14.789 e o Regulamento do Imposto sobre a Renda). Antes, em **03/08/2026**
+Lei 9.718, Lei 14.789 e o Regulamento do Imposto sobre a Renda; e do fecho do eixo da folha:
+Regulamento da Previdência Social, Lei 8.706, Lei 10.666, Lei 14.973 e Lei 15.371). Antes, em **03/08/2026**
 (incorporação da LC 224/2025, da Lei 15.270/2025 e do Código Tributário Nacional; no mesmo dia,
 do FGTS e da Lei Orgânica da Seguridade Social; e, ainda no mesmo dia, das Leis 9.249/1995 e
 9.430/1996 — o eixo do IRPJ e da CSLL).
@@ -35,18 +36,23 @@ Para conferir a integridade a qualquer momento:
 | `LEI-8036-1990.txt` | Lei nº 8.036, de 11/05/1990 — **FGTS**, compilada. Depósito de 8% sobre a remuneração (art. 15) e exclusão expressa do autônomo da condição de trabalhador (art. 15, § 2º); multa rescisória de 40% (art. 18, § 1º); encargos do atraso (art. 22) e multa administrativa de 30% do débito (art. 23, § 2º, `b`) | transversal | federal | 716 | 24.785 | `695be98c2d0c` |
 | `LEI-8212-1991.txt` | Lei nº 8.212, de 24/07/1991 — **Lei Orgânica da Seguridade Social** (custeio), compilada. Contribuição patronal de 20% (art. 22, I e III) e RAT (art. 22, II); **base de 20% da nota fiscal na contratação de transporte rodoviário de carga prestado por condutor autônomo (art. 22, § 15)** e salário-de-contribuição do condutor autônomo em 20% do frete bruto (art. 28, § 11); retenção de 11% na cessão de mão de obra (art. 31); contribuições em reclamatória trabalhista (art. 43) | transversal | federal | 1.234 | 48.938 | `573b9d8d8aeb` |
 | `LEI-9249-1995.txt` | Lei nº 9.249, de 26/12/1995 — **IRPJ e CSLL**; página-base do Planalto, com as redações sucessivas empilhadas. Alíquota de 15% e adicional de 10% (art. 3º); **percentuais de presunção do lucro presumido (art. 15): transporte de carga a 8% pelo caput e os demais transportes a 16% (§ 1º, II, `a`)**; base da CSLL (art. 20, I a III); juros sobre capital próprio com IRRF de 17,5% (art. 9º, § 2º, red. LC 224/2025); dividendos e o crédito do beneficiário no exterior (arts. 10 e 10-A, red. Lei 15.270/2025); extinção de punibilidade e devedor contumaz (art. 34, §§ 3º-4º, LC 225/2026) | transversal | federal | 261 | 8.578 | `82717c1a6073` |
+| `LEI-8706-1993.txt` | Lei nº 8.706, de 14/09/1993 — cria o **SEST e o SENAT**. Contribuição compulsória do **transportador autônomo: 1,5% ao SEST e 1,0% ao SENAT sobre o salário de contribuição previdenciária** (art. 7º, II) — 2,5% que se somam ao art. 22, § 15, da Lei 8.212 no custo total do TAC | trc | federal | 54 | 1.213 | `ba09d8453ee9` |
 | `LEI-9250-1995.txt` | Lei nº 9.250, de 26/12/1995 — **IRPF**; página-base do Planalto. Fecha o circuito da `LEI-15270-2025.txt`: traz os **arts. 6º-A, 16-A e 16-B**, acrescidos por ela — retenção mínima sobre lucros e dividendos, tributação mínima de altas rendas e o redutor quando a soma das alíquotas efetivas ultrapassa o teto —, todos em camada única | transversal | federal | 484 | 16.231 | `b4e9ae860849` |
 | `LEI-9430-1996.txt` | Lei nº 9.430, de 27/12/1996 — legislação tributária federal; página-base do Planalto (`l9430.htm`), **não** o texto compilado, que tem página própria e não foi capturado. Apuração trimestral e estimativa (arts. 1º-2º); lucro presumido (art. 25) e arbitrado (art. 27); multas de ofício, com a qualificação de 100%/150% da Lei 14.689/2023 (art. 44, § 1º, VI-VII); retenção na fonte por órgãos federais (art. 64); compensação e o limite mensal (arts. 74 e 74-A); **inaptidão do CNPJ por prática reiterada das infrações do *split payment* (art. 81, VIII, incluído pela LC 227/2026, que remete aos arts. 471-D e 471-E da LC 214/2025)**; representação fiscal para fins penais (art. 83, c/ LC 225/2026). **Dupla camada** e **defeito de fonte** — ver Limitações | transversal | federal | 992 | 35.501 | `f8fb5ed45493` |
 | `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 382 | 18.003 | `71e6275b73fe` |
 | `LEI-9718-1998.txt` | Lei nº 9.718, de 27/11/1998 — **PIS/COFINS no regime CUMULATIVO**, o que se aplica ao lucro presumido (art. 10, II, da Lei 10.833); página-base do Planalto. Base de cálculo no faturamento (art. 2º) e **COFINS elevada a 3% (art. 8º), com marca de "Vide LC 214/2025 — produção de efeitos"**. É a contraparte que faltava para comparar a CBS: o não cumulativo já estava no acervo, o cumulativo não | transversal | federal | 236 | 11.647 | `1c4560c63219` |
+| `LEI-10666-2003.txt` | Lei nº 10.666, de 08/05/2003, compilada — o **FAP**. O art. 10 permite que a alíquota de 1%, 2% ou 3% do RAT seja **reduzida em até 50% ou aumentada em até 100%**, conforme o desempenho da empresa na respectiva atividade econômica. Sem ele, o custo de folha do simulador é faixa, não número | transversal | federal | 13 | 1.327 | `1a18d6ef1745` |
 | `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 780 | 39.807 | `002fd3028601` |
 | `LEI-12546-2011.txt` | Lei nº 12.546, de 14/12/2011 — **desoneração da folha (CPRB)**, compilada. **Transporte rodoviário de cargas, CNAE 4930-2, no art. 8º, IX** (incluído pela Lei 13.670/2018), com **alíquota de 1,5% sobre a receita bruta** (art. 8º-A, que põe 2,5% como regra e excetua os incisos VI, IX, X e XI); a substituição integral terminou em 31/12/2024 (art. 8º, caput, red. Lei 14.973/2024) e o art. 9º-A instituiu substituição **parcial e escalonada** — 2025: 80% da alíquota sobre receita + 25% da folha; **2026: 60% + 50%**; 2027: 40% + 75% —, com retorno integral à folha em 1º/01/2028 (art. 9º-B); exclusão da receita de transporte internacional de carga (art. 9º, II, `b`) e opção irretratável no pagamento de janeiro (art. 9º, § 13) | transversal | federal | 374 | 12.036 | `0f9aafcd742a` |
+| `LEI-14973-2024.txt` | Lei nº 14.973, de 16/09/2024 — a **reoneração gradual da folha**. É a lei que reescreveu os arts. 7º e 8º da Lei 12.546 ("Até 31 de dezembro de 2024") e acrescentou os arts. 9º-A e 9º-B, com o escalonamento de 2025 a 2027 e o retorno integral à folha em 2028. O art. 4º condiciona a opção a **manter quadro funcional médio de ao menos 75%** do ano anterior | transversal | federal | 289 | 9.120 | `a4b50b56aee8` |
 | `LEI-15270-2025.txt` | Lei nº 15.270, de 26/11/2025 — IRPF: redução do imposto até R$ 5.000,00/mês (art. 3º-A da Lei 9.250), retenção de 10% sobre dividendos acima de R$ 50.000,00/mês (art. 6º-A), tributação mínima de altas rendas acima de R$ 600.000,00/ano (art. 16-A) e redutor do art. 16-B. O art. 5º destina o excedente de arrecadação ao cálculo da alíquota de referência da CBS | transversal | federal | 148 | 3.910 | `e63d9b614ecf` |
+| `LEI-15371-2026.txt` | Lei nº 15.371, de 31/03/2026 — **salário-paternidade**; capturada do **DOU**, não do Planalto. Altera a Lei 8.212 (art. 7º da lei nova) e a Lei 8.213, institui o benefício e o incentivo fiscal, e **entra em vigor em 1º/01/2027** (art. 14). É a camada de 2027 que o compilado da Lei 8.212 não incorpora | transversal | federal | 144 | 3.114 | `b918a6e55bd0` |
 | `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 6.223 | 47.763 | `718da17ee0b0` |
 | `DEC-12955-2026.txt` | Decreto nº 12.955, de 29/04/2026 — Regulamento da CBS | transversal | federal | 5.606 | 130.507 | `6ccde9b698aa` |
 | `LEI-14789-2023.txt` | Lei nº 14.789, de 29/12/2023 — **subvenções para investimento**. Substitui a exclusão da base pelo **crédito fiscal de 25% sobre as receitas de subvenção** (arts. 1º e 6º), computáveis só as receitas relacionadas a depreciação, amortização, exaustão, locação ou arrendamento de bens de capital (art. 8º). Decide se o crédito outorgado do transporte entra na base do IRPJ — ver a Solução de Consulta COSIT 6/2026 | transversal | federal | 148 | 3.001 | `e58982474499` |
 | `RES-CGIBS-6-2026.txt` | Resolução CGIBS nº 6, de 30/04/2026 — Regulamento do IBS | transversal | nacional | 6.934 | 143.186 | `bc41cb73a72c` |
 | `RES-CGSN-140-2018.txt` | Resolução CGSN nº 140, de 22/05/2018 — Regulamento do Simples Nacional (DOU 24/05/2018), consolidada, c/ Anexos | transversal | nacional | 7.959 | 63.852 | `9cd0b3106a57` |
+| `DEC-3048-1999.txt` | Decreto nº 3.048, de 06/05/1999, compilado — **Regulamento da Previdência Social**. É onde vivem o enquadramento do RAT por atividade econômica e as regras de custeio que a Lei 8.212 remete a regulamento; segunda maior peça do acervo | transversal | federal | 3.727 | 131.023 | `9cd6310d22cb` |
 | `DEC-9580-2018.txt` | Decreto nº 9.580, de 22/11/2018 — **Regulamento do Imposto sobre a Renda (RIR/2018)**, 1.050 artigos. Costura em um só texto o que as leis dispersam: **base de cálculo do lucro presumido a 8% (art. 591)** e, no rendimento do **transportador autônomo, 10% do total no transporte de carga e 60% no de passageiros, com o vale-pedágio obrigatório expressamente fora (Lei 10.209/2001)** — dispositivo que dá tratamento de IRPF ao TAC | transversal | federal | 8.332 | 197.573 | `b5c01967a5c1` |
 | `RES-CGSN-186-2026.txt` | Resolução CGSN nº 186, de 09/04/2026 — opção pelo Simples e pelo regime regular de IBS/CBS para 2027 (janela 01-30/09/2026) | transversal | nacional | 64 | 875 | `afc1ec7df6b4` |
 | `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 152 | 6.423 | `e3c44dd58953` |
@@ -58,7 +64,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 32 normas — 28 transversais, 4 de TRC. Por jurisdição: 22 federais, 5 nacionais, 5 do RJ.
+**Resumo:** 37 normas — 32 transversais, 5 de TRC. Por jurisdição: 27 federais, 5 nacionais, 5 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -430,6 +436,66 @@ identificada pela nota da Lei 11.727/2008; fecho no art. 13 e nota do DOU de 16.
 arts. 1º, 6º e 8º; fecho, assinaturas e nota da edição extra do DOU de 29.12.2023. **RIR/2018** —
 art. 591; dispositivo do transportador autônomo; assinaturas de Michel Temer e Eduardo Refinetti
 Guardia, nota do DOU de 23.11.2018, abertura do Anexo e fecho no art. 1.050.
+
+## Incorporação de 04/08/2026 (terceiro lote) — o fecho do eixo da folha
+
+Cinco normas, pelo caminho do HTML. Quatro do Planalto e **uma do Diário Oficial da União** — a
+primeira do acervo com essa proveniência.
+
+| Arquivo | Página capturada | Palavras | Tachado |
+|---|---|---:|---:|
+| `DEC-3048-1999` | `d3048compilado.htm` | 131.023 | 512 blocos · 0 palavras |
+| `LEI-14973-2024` | `l14973.htm` | 9.120 | 6 blocos · 284 palavras |
+| `LEI-15371-2026` | `in.gov.br` (DOU) | 3.114 | zero |
+| `LEI-10666-2003` | `l10.666compilado.htm` | 1.327 | zero |
+| `LEI-8706-1993` | `l8706.htm` | 1.213 | 1 bloco · 54 palavras |
+
+Zero palavra perdida nas cinco conferências.
+
+**Prova de reprodutibilidade, obtida de graça.** O sócio reenviou, junto deste lote, uma
+**recaptura independente** da página da Lei 12.546, feita em momento diverso — o arquivo HTML
+sequer tem o mesmo tamanho do primeiro. Processada pelo mesmo rito, devolveu **SHA-256 idêntico**,
+`0f9aafcd742a`, ao arquivo já publicado. Duas capturas independentes da mesma página produzem o
+mesmo arquivo: o caminho do HTML é reprodutível, e não só verificável.
+
+**O instrumento aprendeu o DOU.** As páginas da Imprensa Nacional vêm embrulhadas em portal — menu,
+rodapé, redes sociais. Na primeira tentativa entraram **97 linhas de navegação**, de "Ir para o
+conteúdo" a "Facebook". Acrescentou-se ao `limpar_html.py` o recorte do miolo entre
+`<div class="cabecalho-dou">` e o rodapé. O resultado guarda o cabeçalho de publicação — órgão,
+seção, edição, data — que é justamente a prova de proveniência que o DOU dá e o Planalto não.
+Fica registrado que o próprio DOU adverte: *"Este conteúdo não substitui o publicado na versão
+certificada."*
+
+**Por que estas cinco fecham o eixo da folha.** A Lei 8.212 dá a contribuição patronal e o RAT,
+mas remete a regulamento o enquadramento por atividade econômica — que mora no **`DEC-3048-1999`**.
+A **`LEI-10666-2003`** traz o FAP, que no art. 10 permite **reduzir o RAT em até 50% ou aumentá-lo
+em até 100%** conforme o desempenho da empresa: sem ele, o custo de folha do simulador é faixa, e
+não número. A **`LEI-14973-2024`** é a lei que reescreveu os arts. 7º e 8º da Lei 12.546 e
+acrescentou os arts. 9º-A e 9º-B — a dependência declarada horas antes, agora fechada; e o seu
+art. 4º condiciona a opção a manter **quadro funcional médio de ao menos 75%** do ano anterior,
+condição que o simulador terá de checar antes de aplicar a alíquota sobre receita. A
+**`LEI-15371-2026`** é a camada de 2027 que o compilado da Lei 8.212 não incorpora. E a
+**`LEI-8706-1993`** dá os **1,5% do SEST e 1,0% do SENAT** sobre o salário de contribuição do
+transportador autônomo (art. 7º, II) — 2,5% que se somam aos 20% sobre 20% da nota do art. 22,
+§ 15, da Lei 8.212. Com isso o custo do TAC pode enfim ser somado por inteiro: previdenciário,
+terceiros do transporte e IRPF pelo RIR.
+
+**Classificação declarada.** A `LEI-8706-1993` entra como **`trc`**, e não como transversal: a lei
+inteira é do setor de transporte, não apenas um dispositivo seu. É o critério do TAXONOMIA — a
+norma é que se classifica. Sobem para cinco as normas setoriais.
+
+**Defeito conhecido, agora visível.** A `LEI-10666-2003.txt` saiu com **13 linhas para 1.327
+palavras**: a página escreve os ordinais como `Art. 1o`, com a letra `o`, e o `normalizar.py` não
+quebra linha nesse padrão — defeito medido e registrado em 03/08/2026, ainda não corrigido. O
+conteúdo está íntegro e a conferência não perdeu palavra; o que se perde é a legibilidade por
+linha. Reforça o commit de renormalização geral, que continua pendente.
+
+Provas de conteúdo executadas e aprovadas: **Lei 8.706** — art. 7º, II, com os percentuais do SEST
+e do SENAT; 12 ocorrências de cada sigla. **Lei 10.666** — art. 10, com a redução de até cinquenta
+e a majoração de até cem por cento. **Lei 14.973** — art. 1º, com a nova redação dos arts. 7º e 8º
+da Lei 12.546, e art. 4º, com o compromisso dos 75%. **Lei 15.371** — art. 7º, que altera o art. 28
+da Lei 8.212, e art. 14, com a vigência em 1º/01/2027; fecho com as assinaturas e a advertência do
+DOU. **RPS** — 512 blocos tachados conferidos: envolvem apenas o sinal de ordinal, nenhuma palavra.
 
 ## Fontes
 

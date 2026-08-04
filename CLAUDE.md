@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 32 normas, **28 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 37 normas, **32 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -130,6 +130,18 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   10.833; IRPF e o circuito dos dividendos na `LEI-9250-1995` com a `LEI-15270-2025`; subvenções na
   `LEI-14789-2023`; e o `DEC-9580-2018` costurando tudo, com o art. 591 (presumido a 8%) e o
   rendimento do transportador autônomo (10% no transporte de carga).
+
+- **O custo do TAC soma-se de três leis, não de uma.** Previdenciário: 20% sobre 20% do valor da
+  nota (art. 22, § 15, da `LEI-8212-1991`). Terceiros do transporte: **1,5% ao SEST e 1,0% ao SENAT**
+  sobre o salário de contribuição (art. 7º, II, da `LEI-8706-1993`). IRPF do próprio autônomo: **10%
+  do rendimento total no transporte de carga**, com o vale-pedágio obrigatório fora
+  (`DEC-9580-2018`). Nenhuma delas é alcançada pela LC 214.
+- **O RAT não é número fixo.** A alíquota de 1%, 2% ou 3% depende do enquadramento por atividade
+  econômica, que mora no `DEC-3048-1999`, e o FAP a **reduz em até 50% ou aumenta em até 100%**
+  (art. 10 da `LEI-10666-2003`). Sem os dois, o custo de folha é faixa, não número.
+- **`LEI-10666-2003.txt` tem 13 linhas para 1.327 palavras.** A página grafa `Art. 1o` com letra
+  `o` e o `normalizar.py` não quebra nesse padrão — defeito conhecido, pendente do commit de
+  renormalização. O conteúdo está íntegro; a leitura por linha é que não serve. Usar `camadas.py`.
 
 ## Estilo
 
