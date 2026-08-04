@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 27 normas, **23 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 32 normas, **28 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -119,6 +119,17 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   com `limpar_html.py` + `normalizar.py`. Preferir sempre a URL **compilada**. O PDF de impressão
   continua válido para o que já entrou, mas erra o ordinal sobrescrito — 18 ocorrências medidas na
   `LEI-9430-1996.txt` em 04/08/2026 — e joga fora o tachado.
+
+- **O ordinal tem três grafias no acervo: `º`, `o` e `°`.** A `LEI-9718-1998.txt` traz 367 de `º` e
+  **46 de `°`** (sinal de grau); a `LEI-9250-1995.txt`, 9 de `°`. Busca por `Art. 8º` **falha** onde
+  a página escreveu `Art. 8°`. Usar classe `[ºo°]` ao procurar dispositivo, como faz o `camadas.py`.
+- **O eixo da renda tem cinco arquivos e uma ordem de leitura.** Alíquota da CSLL na
+  `LEI-7689-1988` (art. 3º, red. Lei 11.727/2008); percentuais de presunção na `LEI-9249-1995`
+  (art. 15) e a mecânica na `LEI-9430-1996`; PIS/COFINS **cumulativo** na `LEI-9718-1998` e **não
+  cumulativo** nas Leis 10.637 e 10.833 — a escolha entre os dois segue o art. 10, II, da Lei
+  10.833; IRPF e o circuito dos dividendos na `LEI-9250-1995` com a `LEI-15270-2025`; subvenções na
+  `LEI-14789-2023`; e o `DEC-9580-2018` costurando tudo, com o art. 591 (presumido a 8%) e o
+  rendimento do transportador autônomo (10% no transporte de carga).
 
 ## Estilo
 
