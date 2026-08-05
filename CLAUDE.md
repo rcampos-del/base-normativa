@@ -49,10 +49,28 @@ art. 267. Sempre consultar o mapa.
    por `python3 limpar_pdf.py bruto.txt limpo.txt "TÍTULO DO CABEÇALHO"`. **Nunca o modo padrão do
    `pdftotext`**: ele junta a quebra de linha hifenizada e engole o hífen — `ano-calendário` vira
    `anocalendário`, e o termo deixa de ser localizável. Verificado em 03/08/2026.
+0-b. **Se a fonte for página HTML salva:** `python3 limpar_html.py pagina.html bruto.txt`. O recorte
+   do miolo **roteia pelo host** da página, não pela ordem das regras: `<div id="conteudo">` na ANTT,
+   `<main>` nos demais. Motivo em 05/08/2026: o rodapé do portal da SEFAZ-RJ também tem um
+   `id="conteudo"`, e a regra da ANTT, testada primeiro, recortava o RODAPÉ — o Manual de Benefícios
+   saiu com 86 palavras no lugar de 33.138.
+0-c. **Se a fonte for documento do Word (.doc/.docx):**
+   `libreoffice --headless --convert-to "txt:Text (encoded):UTF8" arquivo.doc` e daí direto ao
+   `normalizar.py`. Não passa pelo `limpar_html.py`. Esperar **hífen de sílaba** (U+00AD) em
+   documento antigo: o `reparar()` o remove e as palavras se remendam.
 1. Normalizar com `python3 normalizar.py bruto.txt NOME.txt` — ele **aborta** se perder palavra.
+   A conferência compara o bruto **depois** de `reparar()`: reparo declarado não é alteração.
 2. Classificar em `fontes.tsv` (setor e jurisdição — ver `TAXONOMIA.md`).
 3. Registrar no `MANIFESTO.md` com o SHA-256.
-4. `python3 validar.py` — deve fechar sem falhas.
+4. `python3 validar.py` — deve fechar sem falhas. Ele também **varre dado pessoal**: CPF e vestígio
+   de sessão reprovam; CNPJ e e-mail apenas se relatam, porque há CNPJ dentro de texto normativo.
+   **Página do portal da SEFAZ salva com sessão aberta traz nome e CPF no cabeçalho.** O recorte do
+   `<main>` os descarta, mas confira sempre — o repositório é público.
+
+**URL do portal da SEFAZ-RJ:** o padrão é `/nome-do-ato/`, mas **não é constante**. A Resolução 875
+mora em `/resolucao-sefaz-no875-de-20-de-marco-de-2026/` — sem hífen entre `no` e o número —
+enquanto a 876 segue o padrão com hífen. Se der 404, tentar as duas grafias antes de concluir que a
+página não existe.
 
 Norma estadual de imposto geral (lei do ICMS, adicional de pobreza, fundos que corroem
 benefício) é **transversal** naquela UF, não do setor que motivou a busca.
@@ -68,6 +86,26 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
 - **Crédito de diesel no ano-teste de 2026**: o art. 267 do Decreto não está diferido para
   2027, mas a articulação com os arts. 346/348 **não foi examinada**.
 - **Art. 82-C do Livro IX do RICMS-RJ** afasta o Convênio 106/96 na subcontratação e no TAC.
+
+- **Onde o Rio hospeda o crédito outorgado do Convênio 106/96 — RESOLVIDO em 05/08/2026.** É o
+  **Manual de Benefícios** (Dec. 27.815/2001), verbete *Prestação de serviço de transporte*, letra
+  "P": crédito presumido, **prazo indeterminado**. Não é o RICMS, não é decreto autônomo, não é lei
+  específica. Ver `RJ-MANUAL-BENEFICIOS.txt`.
+
+- **A faixa do FOT aplicável ao RJ805149 — EM ABERTO, e é a única que trava a Fase 1.** O benefício
+  está abrangido pelo FOT (Dec. 47.057/2020, art. 1º, § 2º, I) e não consta das exceções; não é
+  oneroso; logo cai, por subsunção, na faixa **X** — 20% em 2026, escalonando a 60% em 2032.
+  **Nenhum texto o diz.** O Anexo Único da Resolução 875/2026, lido em 05/08/2026, lista só Decreto
+  e Lei estaduais — nenhum convênio —, e por isso não o classifica. **Tratar como tese declarada,
+  com o cenário alternativo ao lado. Nunca como conclusão.**
+
+- **O prazo indeterminado do outorgado resiste à LC 160/2017 — tese com dispositivo lido.** A LC 160
+  (art. 1º) e o Convênio 190/17 (cláusula primeira) alcançam apenas benefícios instituídos "em
+  desacordo" com a alínea `g` do inc. XII do § 2º do art. 155 da CF. O 106/96 foi instituído em
+  acordo, por convênio do CONFAZ. Os prazos do art. 3º, § 2º não o alcançam.
+
+- **O FECP perante o crédito outorgado** — se os 20% incidem também sobre os dois pontos do Fundo.
+  Sem manifestação primária. Não dar número ao cliente: a carga fica entre 17,6% e 18%.
   A modelagem disso no simulador é **simplificada** e carece de validação.
 - **Alcance da LC 224/2025 sobre o crédito presumido do art. 3º, § 19, da Lei 10.833**
   (subcontratação de TAC): o art. 4º, § 2º, II, `d`, lista créditos presumidos nominalmente e

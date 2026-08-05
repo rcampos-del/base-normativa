@@ -84,15 +84,19 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-46 normas: **35 transversais** e **11 de TRC**. *(atualizado em 04/08/2026)*
+60 normas: **48 transversais** e **12 de TRC**. *(atualizado em 05/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
-| federal | 34 | 27 | 7 |
-| nacional | 6 | 3 | 3 |
-| rj | 6 | 5 | 1 |
+| federal | 35 | 28 | 7 |
+| nacional | 8 | 4 | 4 |
+| rj | 17 | 16 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **35 das 46 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **48 das 60 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+
+O eixo do Rio de Janeiro triplicou em 05/08/2026 — de 6 para 17 normas — e quase tudo o que entrou é
+**transversal**: o Manual de Benefícios, as leis e os anexos do FOT e a escrituração da EFD valem
+para qualquer setor no Estado, não só para o transporte. Só o `CONV-ICMS-100-2001` é de TRC.
 
 > **Nota de classificação — o FGTS e a Lei 8.212.** Ambas entram como `transversal` e
 > `03-ordinaria`, pela regra de classificar a norma e não o dispositivo. A Lei 8.212 contém

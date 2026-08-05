@@ -78,10 +78,18 @@ def conferir(bruto: str, saida: str):
     'à' (um token). Verificado em 03/08/2026 na Lei 8.212/1991, art. 45-A, § 4º,
     acrescido pela Lei 15.363/2026 — as duas únicas ocorrências decompostas do
     arquivo. O conteúdo era idêntico; o instrumento é que media mal.
+    O bruto é comparado APÓS `reparar()`, e não antes. Reparar não altera
+    conteúdo: substitui caractere corrompido pelo caractere real e remove o
+    hífen de sílaba (U+00AD), que é invisível e serve à quebra de linha da
+    fonte. Comparar contra o bruto CRU acusava divergência onde há conserto:
+    no Manual de Benefícios de 2001, vindo de documento do Word, os 230 hifens
+    de sílaba partiam palavras em dois tokens ('exclusi'+'vamente',
+    'pro'+'pulsão'), e a conferência lia 24.272 -> 24.042 como perda de 230
+    palavras quando eram 230 palavras REMENDADAS. Medido em 05/08/2026.
     """
     pal = lambda s: re.findall(r'[0-9A-Za-zÀ-ÿ]+',
                               RUIDO.sub(' ', unicodedata.normalize('NFC', s)))
-    a, b = pal(bruto), pal(saida)
+    a, b = pal(reparar(unicodedata.normalize('NFC', bruto))), pal(saida)
     return a == b, len(a), len(b)
 
 if __name__ == '__main__':

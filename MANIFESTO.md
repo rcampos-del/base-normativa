@@ -1,6 +1,9 @@
 # MANIFESTO DO ACERVO
 
-Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
+Proveniência e integridade. Gerado em 16/07/2026; atualizado em **05/08/2026**
+(sexto e sétimo lotes — o eixo do crédito outorgado do Rio de Janeiro: o Manual de Benefícios em duas
+camadas, as leis e os anexos do FOT, os Convênios 100/01, 190/17 e 106/96 recapturado, e a LC 160/2017).
+Antes, em **04/08/2026**
 (incorporação da Nota Técnica CT-e 2026.002 v1.01, que corrige a data de exigência dos campos da RTC).
 Antes, no mesmo dia,
 (incorporação de oito normas — o eixo setorial do TRC e a lei que faltava ao PIS cumulativo).
@@ -64,7 +67,7 @@ Para conferir a integridade a qualquer momento:
 | `DEC-9580-2018.txt` | Decreto nº 9.580, de 22/11/2018 — **Regulamento do Imposto sobre a Renda (RIR/2018)**, 1.050 artigos. Costura em um só texto o que as leis dispersam: **base de cálculo do lucro presumido a 8% (art. 591)** e, no rendimento do **transportador autônomo, 10% do total no transporte de carga e 60% no de passageiros, com o vale-pedágio obrigatório expressamente fora (Lei 10.209/2001)** — dispositivo que dá tratamento de IRPF ao TAC | transversal | federal | 8.334 | 197.573 | `0ce0c0d986dd` |
 | `RES-CGSN-186-2026.txt` | Resolução CGSN nº 186, de 09/04/2026 — opção pelo Simples e pelo regime regular de IBS/CBS para 2027 (janela 01-30/09/2026) | transversal | nacional | 21 | 875 | `9f8e11ffc204` |
 | `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 211 | 6.207 | `29692daccb49` |
-| `CONV-ICMS-106-1996.txt` | Convênio ICMS 106/96 (CONFAZ) — crédito outorgado de 20% ao transporte | trc | nacional | 7 | 397 | `ab5f1f4728c8` |
+| `CONV-ICMS-106-1996.txt` | Convênio ICMS 106/96 — crédito presumido de 20% no transporte; consolidado c/ Convs. 95/99 e 85/03. **Recapturado em 05/08/2026**: a versão anterior tinha 397 palavras e perdia as notas de alteração | trc | nacional | 7 | 1.059 | `be51321baa9b` |
 | `LEI-9715-1998.txt` | Lei nº 9.715. de 25/11/1998 — **a alíquota do PIS/PASEP cumulativo**. Art. 8º. I: **0.65% sobre o faturamento**. com marca de produção de efeitos pela LC 214/2025. Fecha o parâmetro que a semente do banco gravara como pendente. com valor nulo. por falta de norma no acervo | transversal | federal | 61 | 1.586 | `00d0cc138bc4` |
 | `LEI-10209-2001.txt` | Lei nº 10.209. de 23/03/2001 — **vale-pedágio obrigatório no transporte rodoviário de carga**. O valor **não integra o frete** e é de responsabilidade do embarcador; o art. 8º impõe indenização equivalente a **duas vezes o valor do frete** em caso de infração (Vide ADIN 6031). É o dispositivo a que remete o art. 39. § 1º. do RIR | trc | federal | 63 | 1.762 | `b84261253c1d` |
 | `LEI-13703-2018.txt` | Lei nº 13.703. de 08/08/2018 — **Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas**. Lei que a ANTT regulamenta pela tabela de coeficientes | trc | federal | 84 | 2.716 | `472150bf2b62` |
@@ -78,10 +81,24 @@ Para conferir a integridade a qualquer momento:
 | `RJ-LEI-2657-1996.txt` | Lei estadual RJ nº 2.657, de 26/12/1996 — Lei do ICMS-RJ (art. 14: interna a 20%, Lei 10.253/2023) | transversal | rj | 2.012 | 58.163 | `5c2f0f08021b` |
 | `RJ-LC-210-2023.txt` | Lei Complementar estadual RJ nº 210, de 21/07/2023 — FECP (c/ LC 217/2023) | transversal | rj | 53 | 2.475 | `7dbf8ae93cb4` |
 | `RJ-DEC-47057-2020-FOT.txt` | Decreto estadual RJ nº 47.057, de 04/05/2020 — FOT, consolidado c/ o Dec. 50.248/2026 | transversal | rj | 123 | 5.827 | `bcb6498d5a3e` |
-| `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
+| `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60%. **Regerado em 05/08/2026** sob o recorte corrigido | transversal | rj | 98 | 4.003 | `4a68968bbaf1` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
+| `RJ-DEC-27815-2001.txt` | Decreto estadual RJ nº 27.815, de 24/01/2001 — aprova o **Manual de Diferimento, Ampliação de Prazo de Recolhimento, Suspensão e de Incentivos e Benefícios de Natureza Tributária** | transversal | rj | 7 | 216 | `1930ecbb5cc9` |
+| `RJ-MANUAL-BENEFICIOS.txt` | Manual de Benefícios (Dec. 27.815/2001) — **redação vigente**; apresentação v3 (Port. SUT 323/2020), última atualização SUPTRIB/MB nº 05/26, de 13/07/2026. Verbete *Prestação de serviço de transporte*: Conv. ICMS 106/1996 — crédito presumido — prazo indeterminado | transversal | rj | 22 | 33.138 | `0f068df99a3a` |
+| `RJ-MANUAL-BENEFICIOS-2001.txt` | Manual de Benefícios — **redação original de 25/01/2001**, camada superada. Guarda a descrição do benefício, que a redação vigente não repete | transversal | rj | 135 | 24.042 | `9ae007b202f5` |
+| `RJ-LEI-8645-2019-FOT.txt` | Lei estadual RJ nº 8.645, de 09/12/2019 — institui o FOT; compilada c/ a Lei 11.071/2025 | transversal | rj | 40 | 2.597 | `b123ee5869c1` |
+| `RJ-LEI-11071-2025-FOT.txt` | Lei estadual RJ nº 11.071, de 22/12/2025 — altera a Lei 8.645/2019: escalonamento do FOT e vigência até 31/12/2032 | transversal | rj | 26 | 1.334 | `f26529ce15b9` |
+| `RJ-POR-SUCIEF-65-2019.txt` | Portaria SUCIEF nº 65, de 15/08/2019 — códigos da tabela 5.2 da EFD vinculados ao Manual. **RJ805149 = Conv. ICMS 106/1996 — crédito presumido**, início 01/04/2019, sem data-fim | transversal | rj | 17 | 8.615 | `13f0e8e7e958` |
+| `RJ-RES-SEFAZ-720-2014-ANEXO-XIII.txt` | Resolução SEFAZ RJ nº 720/2014, Parte II — **Anexo XIII**: armazém geral (Cap. II, arts. 7º a 19) | transversal | rj | 1.082 | 33.990 | `9a08ea1af502` |
+| `RJ-RES-SEFAZ-720-2014-ANEXO-XVIII.txt` | Resolução SEFAZ RJ nº 720/2014, Parte II — **Anexo XVIII**: escrituração de benefícios. Art. 10 (E115) e art. 12 (estorno RJ018003 + crédito presumido RJ028001) | transversal | rj | 94 | 4.127 | `697e6f1ffde8` |
+| `RJ-RES-SEFAZ-720-2014-ANEXO-XXIII.txt` | Resolução SEFAZ RJ nº 720/2014, Parte II — **Anexo XXIII**: depósito no FOT na EFD (RJ050019). Alínea `c` do inc. II do art. 2º **REVOGADA** pela Res. SEFAZ 892/2026 | transversal | rj | 19 | 838 | `44d57c55152a` |
+| `RJ-RES-SEFAZ-720-2014-ANEXO-XXV.txt` | Resolução SEFAZ RJ nº 720/2014, Parte II — **Anexo XXV**: contribuinte com decisão judicial suspendendo a exigibilidade | transversal | rj | 17 | 620 | `91919d5a1073` |
+| `RJ-RES-SEFAZ-875-2026.txt` | Resolução SEFAZ RJ nº 875, de 20/03/2026 — ferramenta de cálculo do FOT e **Anexo Único** de classificação dos benefícios (≈190 atos; só Decreto e Lei estaduais — **nenhum convênio**) | transversal | rj | 36 | 9.491 | `48e305fbf244` |
+| `CONV-ICMS-100-2001.txt` | Convênio ICMS 100/01 — autoriza dez UFs a revogar o crédito presumido no transporte **dutoviário**. **O RJ não está na lista** | trc | nacional | 1 | 1.397 | `9a02c1c1991c` |
+| `CONV-ICMS-190-2017.txt` | Convênio ICMS 190/17 — remissão e reinstituição de benefícios instituídos **em desacordo** com a alínea `g` do inc. XII do § 2º do art. 155 da CF | transversal | nacional | 243 | 10.192 | `eeb578f91d9f` |
+| `LC-160-2017.txt` | Lei Complementar nº 160, de 07/08/2017 — moldura da remissão/reinstituição de benefícios **unilaterais**. Art. 3º, § 2º: prazos-limite | transversal | federal | 80 | 2.419 | `87860c24590d` |
 
-**Resumo:** 46 normas — 35 transversais, 11 de TRC. Por jurisdição: 34 federais, 6 nacionais, 6 do RJ.
+**Resumo:** 60 normas — 48 transversais, 12 de TRC. Por jurisdição: 35 federais, 8 nacionais, 17 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -693,6 +710,170 @@ LC 214/2025, sob pena de rejeição 326.
 
 A `NT-CTE-2025.001` permanece no acervo, agora marcada como **superada pela 2026.002 e mantida por
 referência histórica** — a nova declara-se, na introdução, evolução daquela.
+
+## Incorporação de 05/08/2026 — a sede do crédito outorgado do Rio de Janeiro
+
+Seis arquivos, cinco normas. Encerra-se a dívida mais antiga do eixo estadual: **onde a legislação
+fluminense hospeda o crédito presumido de 20% do Convênio ICMS 106/96**.
+
+A resposta não estava no RICMS, nem em decreto autônomo, nem em lei específica — estava no
+**Manual de Diferimento, Ampliação de Prazo de Recolhimento, Suspensão e de Incentivos e Benefícios
+de Natureza Tributária**, aprovado pelo `RJ-DEC-27815-2001`, cujo art. 1º o aprova e cujo art. 2º
+delega ao Secretário de Fazenda os atos de atualização (a nota do decreto registra que a Resolução
+SEFCON nº 5.720/2001 subdelegou ao Superintendente de Tributação). O Manual não tem artigos: é
+organizado em **verbetes alfabéticos**, e o localizador correto é o verbete
+*Prestação de serviço de transporte*, da letra "P".
+
+**O Manual entra em duas camadas, e as duas são necessárias.** A vigente,
+`RJ-MANUAL-BENEFICIOS`, colhida no portal da SEFAZ, traz a nota de apresentação v3 (Portaria SUT
+nº 323/2020) e a de **última atualização — SUPTRIB/MB nº 05/26, de 13 de julho de 2026**. Nela o
+verbete é enxuto:
+
+> Prestação de serviço de transporte. Convênio ICMS 106/1996. Crédito Presumido. Prazo indeterminado.
+
+Quatro linhas, sem nota de alteração — ao contrário dos verbetes vizinhos, que trazem marcações do
+tipo "(Item alterado pela Atualização CELT/MB nº 02/23)". O verbete nunca foi tocado. **A linha do
+prazo responde a pergunta que estava aberta: indeterminado**, sem data-limite.
+
+A camada de 2001, `RJ-MANUAL-BENEFICIOS-2001`, é o anexo original do decreto, hospedado na ALERJ em
+documento do Word, gravado pela última vez em 25/01/2001. **É mais extensa que a vigente**, e por
+isso não é descartável: guarda a descrição do benefício, que a redação de hoje não repete —
+o crédito de 20% adotado opcionalmente em substituição ao sistema de tributação, a vedação de
+aproveitar outros créditos, a inaplicabilidade ao transporte aéreo e a obrigação de a opção alcançar
+todos os estabelecimentos no território nacional, consignada no livro RUDFTO. Está **desatualizada e
+assim marcada**: não traz o § 3º acrescido pelo Convênio ICMS 85/03, e remete apenas ao Convênio
+95/99.
+
+**Um caminho de captura novo.** O Manual de 2001 é o primeiro arquivo do acervo erguido de
+**documento do Word (.doc)**, convertido por LibreOffice em modo texto. Não passa pelo
+`limpar_html.py`; passa direto ao `normalizar.py`.
+
+Completam o lote as duas leis do FOT — `RJ-LEI-8645-2019-FOT`, que o institui, e
+`RJ-LEI-11071-2025-FOT`, que o escalona e prorroga até 31/12/2032 — e a
+`RJ-POR-SUCIEF-65-2019`, que vincula o benefício ao código de escrituração
+**RJ805149 — "Convênio ICMS 106 de 1996 – Crédito Presumido"**, com início em 01/04/2019 e **sem
+data-fim**. Registre-se que, na coluna de norma daquela tabela, o RJ805149 remete **apenas ao
+Convênio** — sem decreto ou resolução estadual, ao contrário de quase todos os códigos vizinhos.
+É mais uma confirmação de que não há ato estadual concessivo autônomo.
+
+Provas de conteúdo executadas e aprovadas: **Decreto 27.815** — a cláusula de aprovação do Manual.
+**Manual vigente** — o verbete, a nota da atualização de 13/07/2026 e a da apresentação v3.
+**Manual de 2001** — o verbete com a descrição e o fecho "Convênio ICMS 106/96 Alterado pelo
+Convênio ICMS 95/99 Prazo indeterminado". **Lei 8.645** — o Fundo e o percentual. **Lei 11.071** —
+a alteração e o termo final. **Portaria SUCIEF 65** — o código RJ805149 e a tabela 5.2.
+
+## Incorporação de 05/08/2026 (segundo lote) — o FOT, os anexos da escrituração e a moldura da LC 160
+
+Oito arquivos novos e uma substituição.
+
+**Os quatro anexos da Resolução SEFAZ nº 720/2014** fecham a lacuna que a incorporação da Resolução
+876/2026 havia aberto: o acervo guardava o ato **alterador** e não o **alterado**. O
+`RJ-RES-SEFAZ-720-2014-ANEXO-XVIII` traz o mecanismo em dois tempos da escrituração de crédito
+presumido — estorno total dos créditos relacionados pelo código **RJ018003** e lançamento do crédito
+pelo **RJ028001**, com o código do benefício no campo `DESCR_COMPL_AJ` e no registro E115 (art. 10).
+É o dispositivo que a Consulta SEFAZ-RJ nº 043/25 invoca, e agora está lido na fonte. O
+`ANEXO-XXIII` disciplina o depósito no FOT na EFD pelo código **RJ050019**, e traz, já incorporada,
+a **revogação da alínea `c` do inciso II do art. 2º pela Resolução SEFAZ nº 892/2026** — o registro
+E113, exigido pela Resolução 876/2026, deixou de sê-lo com efeitos retroativos a 1º de abril de
+2026. O `ANEXO-XIII` traz o armazém geral, e o `ANEXO-XXV`, o contribuinte com decisão judicial
+suspendendo a exigibilidade.
+
+**A Resolução SEFAZ nº 875/2026 e o seu Anexo Único, com um achado.** O Anexo classifica os
+benefícios para efeito do FOT, em tabela de sete colunas — tipo de ato, número, data, ementa,
+**data-limite da fruição**, **oneroso?** e dispositivo. São cerca de 190 atos. **As espécies
+listadas são apenas duas: Decreto (142) e Lei (48). Nenhum convênio.** E a data-limite é 31/12/2032
+em 174 das linhas.
+
+Isso identifica o universo da tabela: são os **benefícios estaduais unilaterais reinstituídos** —
+exatamente o alcance da LC 160/2017 e do Convênio ICMS 190/17. **O crédito presumido do Convênio
+106/96 não consta do Anexo Único, e não poderia constar**, por não ser benefício unilateral.
+A ausência confirma a leitura, em vez de contrariá-la.
+
+**A moldura, agora lida.** A `LC-160-2017`, art. 1º, incisos I e II, delibera sobre remissão e
+reinstituição de benefícios *"instituídos em desacordo com o disposto na alínea 'g' do inciso XII do
+§ 2º do art. 155 da Constituição Federal"*; o `CONV-ICMS-190-2017`, cláusula primeira, repete a
+delimitação. O crédito do 106/96 foi instituído **em acordo** — por convênio celebrado nos termos da
+LC 24/75, com ratificação nacional pelo Ato COTEPE-ICMS 01/97. Logo os prazos escalonados do art.
+3º, § 2º da LC 160 não o alcançam, e **o prazo indeterminado do Manual permanece íntegro**. Deixa de
+ser tese declarada e passa a conclusão com dispositivo lido.
+
+**O `CONV-ICMS-100-2001` encerra a questão do dutoviário.** A cláusula primeira vigente, após a
+adesão de São Paulo pelo Convênio ICMS 174/25, autoriza dez unidades federadas a revogar o crédito
+presumido no transporte dutoviário: Alagoas, Amazonas, Ceará, Espírito Santo, Mato Grosso, Mato
+Grosso do Sul, Paraná, Rio Grande do Norte, São Paulo e Sergipe. **Busca por "Rio de Janeiro" no
+arquivo: zero ocorrências.** No Rio, o crédito alcança também o dutoviário. A página traz ainda duas
+redações anteriores, que o `camadas.py` separa.
+
+**Substituição.** O `CONV-ICMS-106-1996` foi recapturado. A versão anterior tinha 397 palavras; a
+nova tem 1.059, e traz as notas de alteração que faltavam — a renumeração do parágrafo único para
+§ 1º e o acréscimo do § 2º pelo Convênio 95/99, com efeitos de 01.01.00, e o acréscimo do § 3º pelo
+Convênio 85/03, com efeitos de 03.11.03.
+
+Provas de conteúdo executadas e aprovadas: **Anexo XVIII** — RJ018003, RJ028001, RJ10080000 e o
+registro E115. **Anexo XXIII** — "REVOGADO", a remissão à Resolução 892/2026 e o código RJ050019.
+**Anexo XIII** — o armazém geral, sessenta e sete ocorrências, e o art. 11. **Resolução 875** — o
+Anexo Único e as colunas "ONEROSO?" e "DATA LIMITE DA FRUIÇÃO". **Convênio 100/01** — a lista das
+dez unidades e a ausência do Rio. **Convênio 190/17 e LC 160** — a expressão "em desacordo".
+**Convênio 106/96** — o § 3º e a remissão ao Convênio 85/03.
+
+### Os instrumentos reprovaram duas vezes, e foram corrigidos
+
+**O `recortar_portal` truncou o Manual em 86 palavras.** A rotina testava primeiro a regra da ANTT —
+`<div id="conteudo">` — e só depois o `<main>` do HTML5. O portal da SEFAZ-RJ usa `<main>`, mas o seu
+**rodapé institucional também carrega um `<div id="conteudo">`**, que na página do Manual fica no fim
+do arquivo (posição 660.484 de 687.745). O recorte casou com o rodapé e devolveu o endereço, o
+telefone e o menu do portal — **86 palavras no lugar de 33.138**. Corrigido: o recorte passa a
+**rotear pelo host** da página salva, e não pela ordem das regras. O ensaio de resposta conhecida
+foi o Decreto 50.248, já publicado: sob a regra nova ele sai com 4.003 palavras contra 3.996, e as
+sete de diferença são cosméticas e confinadas ao preâmbulo — o hífen de `SEI-040007` **preservado**
+(a versão anterior o perdia) e o `D E C R E T A :` espaçado da fonte. O arquivo foi **regerado** sob
+a regra única, e a sua assinatura mudou de `b8fc87ea3469` para `4a68968bbaf1`. Sob o recorte novo,
+os Anexos XIII, XVIII e XXIII também emagreceram — 34.065→33.990, 4.210→4.127 e 921→838 —, e as
+palavras que saíram eram trilha de navegação acima do título do ato.
+
+**O `conferir` acusou perda onde havia conserto.** O Manual de 2001, vindo do Word, tem **230 hifens
+de sílaba (U+00AD)** partindo palavras em dois tokens — `exclusi`+`vamente`, `pro`+`pulsão`,
+`multimoto`+`res`. O `reparar()` os remove, e a conferência lia 24.272 → 24.042 como perda de 230
+palavras, quando eram 230 palavras **remendadas**. Corrigido: a conferência passa a comparar o bruto
+**depois** de `reparar()`, que é reparo declarado e auditado, e não alteração de conteúdo. É a mesma
+patologia da conferência em NFD, corrigida em 03/08/2026: o instrumento é que media mal.
+
+### Sentinela de dado pessoal no `validar.py`
+
+Quatro das páginas capturadas no portal da SEFAZ foram salvas **com sessão aberta**, e trazem no
+cabeçalho o nome e o CPF do usuário logado. O repositório é público. O `limpar_html.py` já descartava
+esse bloco por recortar o `<main>` — a varredura sobre os 60 arquivos não achou **nenhum CPF, nenhum
+e-mail e nenhum vestígio de sessão** —, mas instrumento que confia na boa execução de outro
+instrumento é instrumento frágil. Acrescentou-se ao `validar.py` uma varredura: **CPF e vestígio de
+sessão reprovam**; CNPJ e e-mail apenas se relatam, porque há CNPJ **dentro do texto normativo** —
+um no Anexo XIII, em exemplo de escrituração, e três no Anexo Único da Resolução 875, em ementas de
+atos concessivos. Apagá-los corromperia a norma.
+
+### Fora do acervo, e por quê
+
+A **Resolução SEFAZ nº 892/2026** só foi obtida em reprodução de agregador comercial, que é fonte
+secundária. Não entra como norma. Não faz falta: a revogação que ela promove está registrada no
+texto oficial do próprio Anexo XXIII, que é primário e já traz a alínea como REVOGADA. Fica no
+regime de prova, ao lado da Consulta SEFAZ-RJ nº 043/25 e da Solução COSIT nº 6 — que são
+interpretação da administração, e não norma.
+
+### O que continua faltando, e por quê
+
+**A faixa do FOT aplicável ao RJ805149.** O Decreto 47.057/2020, na redação do 50.248/2026, atribui
+quatro faixas — W (18,18%, oneroso), X (não oneroso, escalonado de 20% em 2026 a 60% em 2032),
+Y (10%) e Z (20%). O benefício **está abrangido** (art. 1º, § 2º, I: benefícios do Manual) e **não
+consta das exceções** (alíneas `a` a `h` e inciso II; zero ocorrências de "106/96" no decreto), e
+não é oneroso. Por subsunção, faixa **X**. Mas **nenhum texto o diz**, e o Anexo Único da Resolução
+875, agora lido, não o classifica. Fica como **tese fundamentada e declarada**, com o cenário
+alternativo ao lado — nunca como conclusão. Caminhos para encerrar: a página de consulta pública da
+ferramenta de cálculo, que o art. 2º da Resolução 875 manda a SEFAZ manter, ou consulta tributária
+formal.
+
+**A Portaria SUT nº 323/2020**, que aprova a versão 3 da Apresentação do Manual, não foi localizada
+em endereço oficial. O acervo funciona sem ela; com ela, ficaria completo.
+
+**O FECP perante o crédito outorgado** — se os 20% incidem também sobre os dois pontos do Fundo.
+Nenhuma manifestação primária específica. Segue para consulta formal.
 
 ## Fontes
 

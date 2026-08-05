@@ -92,16 +92,49 @@ def recortar_dou(h):
 # Sem o recorte entram "EMENTÁRIO PUBLICAÇÕES DO DIA", "Carregando..." e a
 # caixa de busca no meio do texto normativo.
 def recortar_portal(h):
-    m = re.search(r'(?i)<div[^>]*id=["\']?conteudo["\']?', h)
+    """Recorta o miolo do ato, roteando pelo HOST da página salva.
+
+    POR QUE ROTEAR PELO HOST. A versão anterior testava primeiro a regra da ANTT
+    — <div id="conteudo"> — e só depois o <main> do HTML5. O portal da SEFAZ-RJ
+    usa <main>, MAS o seu rodapé institucional também carrega um
+    <div id="conteudo">. Na página do Manual de Benefícios esse rodapé fica no
+    fim do arquivo (posição 660.484 de 687.745), de sorte que a regra da ANTT
+    casava com o RODAPÉ e o recorte devolvia 86 palavras no lugar de 33.359 —
+    o endereço, o telefone e o menu do portal. Defeito medido em 05/08/2026.
+    A ordem das regras não é critério: o host é.
+    """
+    m = re.search(r'saved from url=\(\d+\)(\S+)', h[:4000])
+    host = ''
     if m:
+        mh = re.match(r'https?://([^/]+)', m.group(1))
+        host = mh.group(1).lower() if mh else ''
+
+    def por_conteudo():
+        m = re.search(r'(?i)<div[^>]*id=["\']?conteudo["\']?', h)
+        if not m:
+            return None
         resto = h[m.start():]
         fim = re.search(r'(?is)<div[^>]*id="(?:divVejaTambem|loading|formPdf)"', resto)
-        return (resto[:fim.start()] if fim else resto), 'ANTT'
-    m = re.search(r'(?is)<main[^>]*>', h)
-    if m:
+        return resto[:fim.start()] if fim else resto
+
+    def por_main():
+        m = re.search(r'(?is)<main[^>]*>', h)
+        if not m:
+            return None
         resto = h[m.end():]
         fim = re.search(r'(?is)</main>', resto)
-        return (resto[:fim.start()] if fim else resto), 'main'
+        return resto[:fim.start()] if fim else resto
+
+    if 'antt.gov.br' in host:
+        r = por_conteudo()
+        if r is not None:
+            return r, 'ANTT'
+    r = por_main()
+    if r is not None:
+        return r, 'main'
+    r = por_conteudo()
+    if r is not None:
+        return r, 'conteudo (heurística)'
     return h, None
 
 
