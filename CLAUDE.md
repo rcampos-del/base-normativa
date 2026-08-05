@@ -139,9 +139,11 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
 - **O RAT não é número fixo.** A alíquota de 1%, 2% ou 3% depende do enquadramento por atividade
   econômica, que mora no `DEC-3048-1999`, e o FAP a **reduz em até 50% ou aumenta em até 100%**
   (art. 10 da `LEI-10666-2003`). Sem os dois, o custo de folha é faixa, não número.
-- **`LEI-10666-2003.txt` tem 13 linhas para 1.327 palavras.** A página grafa `Art. 1o` com letra
-  `o` e o `normalizar.py` não quebra nesse padrão — defeito conhecido, pendente do commit de
-  renormalização. O conteúdo está íntegro; a leitura por linha é que não serve. Usar `camadas.py`.
+- **O `normalizar.py` já aceita as três grafias do ordinal.** Corrigido em 04/08/2026, com
+  renormalização geral: dezoito arquivos reescritos, zero alteração de conteúdo, dezenove
+  inalterados. A `LEI-10666-2003.txt` passou de 13 para 43 linhas. As Resoluções CGSN e a LC 123,
+  que conservavam a quebra da fonte, foram reagrupadas no formato canônico — uma linha por
+  dispositivo.
 
 - **Duas citações que o assistente errou em 04/08/2026 e que ficam advertidas.** A base
   previdenciária do transportador autônomo — 20% do valor bruto do frete — está no **art. 28,

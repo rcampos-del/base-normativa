@@ -15,8 +15,12 @@ RUIDO = re.compile(r'\d\d/\d\d/\d{4},\s*\d\d:\d\d\s+\S+\s+https?://\S+\s+\d+/\d+
 # limites de dispositivo — o ponto de quebra
 QUEBRAS = [
     # só quebra em artigo de verdade: não pode vir depois de '(' nem de palavra (remissão)
-    (re.compile(r'(?<![\(\w\-àâãáéêíóôõúçÀÂÃÁÉÊÍÓÔÕÚÇ])(Art\.\s*\d+[º°]?(?:-[A-Z])?)(?=\s*[\.\-º°A-ZÀ-Ú])'), r'\n\n\1'),
-    (re.compile(r'\s(§\s*\d+[º°]?(?:-[A-Z])?\s)'),                    r'\n\1'),     # parágrafo
+    # A classe do ordinal aceita as TRÊS grafias — º, ° e a letra `o`. Sem a
+    # letra, artigos escritos "Art. 1o" não quebravam linha: a Lei 10.666 saiu
+    # com 13 linhas para 1.327 palavras em 04/08/2026. Defeito medido em
+    # 03/08/2026, corrigido em 04/08/2026.
+    (re.compile(r'(?<![\(\w\-àâãáéêíóôõúçÀÂÃÁÉÊÍÓÔÕÚÇ])(Art\.\s*\d+[ºo°]?(?:-[A-Z])?)(?=\s*[\.\-ºo°A-ZÀ-Ú])'), r'\n\n\1'),
+    (re.compile(r'\s(§\s*\d+[ºo°]?(?:-[A-Z])?\s)'),                   r'\n\1'),     # parágrafo
     (re.compile(r'\s(Parágrafo único\.)'),                            r'\n\1'),
     (re.compile(r'\s((?:[IVXLC]+)\s+-\s)'),                           r'\n\1'),     # inciso
     (re.compile(r'\s(([a-z])\)\s)'),                                  r'\n\1'),     # alínea
