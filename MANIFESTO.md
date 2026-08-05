@@ -1,6 +1,8 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
+(incorporação da Nota Técnica CT-e 2026.002 v1.01, que corrige a data de exigência dos campos da RTC).
+Antes, no mesmo dia,
 (incorporação de oito normas — o eixo setorial do TRC e a lei que faltava ao PIS cumulativo).
 Antes, no mesmo dia,
 (recaptura em HTML de dez normas — resíduo de impressão removido; ver seção própria).
@@ -71,6 +73,7 @@ Para conferir a integridade a qualquer momento:
 | `RES-ANTT-6068-2025.txt` | Resolução ANTT nº 6.068. de 17/07/2025 — altera a Resolução nº 5.982 e vincula a manutenção do registro à contratação dos **seguros obrigatórios** | trc | federal | 19 | 684 | `27107a27b5d5` |
 | `RES-ANTT-6084-2026.txt` | Resolução ANTT nº 6.084. de 16/07/2026 — **tabela vigente dos pisos mínimos de frete**; capturada do DOU. Atualiza os coeficientes do Anexo II da Resolução nº 5.867/2020 | trc | federal | 6 | 2.184 | `104864adf351` |
 | `RJ-RES-SEFAZ-876-2026.txt` | Resolução SEFAZ-RJ nº 876. de 24/03/2026 — altera o **Anexo XXIII da Parte II da Resolução SEFAZ nº 720/2014**: escrituração do FOT na EFD sob a fórmula do Decreto RJ 50.248/2026 | transversal | rj | 16 | 511 | `0a3468be0a11` |
+| `NT-CTE-2026.002.txt` | Nota Técnica CT-e nº 2026.002. **versão 1.01. de 16/07/2026** — Reforma Tributária do Consumo. aplicável a CT-e. CT-e Simplificado (mod. 57) e CT-e OS (mod. 67). Campos do grupo IBS/CBS. inscrição Suframa do emitente. validações de devolução. **alíquota da CBS de 0.90% para emissão em 2026 (art. 346 da LC 214/25)** e antecipação de pagamento. **A versão 1.01 alterou a data de exigência do preenchimento dos campos da RTC: a regra 001 traz HOMOLOGAÇÃO em 01/07/2026 e PRODUÇÃO em "implementação futura"** | trc | nacional | 7 | 3.544 | `df2c67bf4170` |
 | `NT-CTE-2025.001.txt` | Nota Técnica CT-e 2025.001 v1.00, de 28/03/2025 — **DESATUALIZADA** | trc | nacional | 11 | 5.809 | `3af4c6200b5e` |
 | `RJ-LEI-2657-1996.txt` | Lei estadual RJ nº 2.657, de 26/12/1996 — Lei do ICMS-RJ (art. 14: interna a 20%, Lei 10.253/2023) | transversal | rj | 2.012 | 58.163 | `5c2f0f08021b` |
 | `RJ-LC-210-2023.txt` | Lei Complementar estadual RJ nº 210, de 21/07/2023 — FECP (c/ LC 217/2023) | transversal | rj | 53 | 2.475 | `7dbf8ae93cb4` |
@@ -78,7 +81,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 45 normas — 35 transversais, 10 de TRC. Por jurisdição: 34 federais, 5 nacionais, 6 do RJ.
+**Resumo:** 46 normas — 35 transversais, 11 de TRC. Por jurisdição: 34 federais, 6 nacionais, 6 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -655,6 +658,41 @@ Encerra-se a dívida que a mantinha em aberto.
 foi obtida — o portal não devolveu página salvável. Permanece no acervo a versão 2025.001 v1.00,
 **desatualizada e assim marcada**, com obrigação em vigor desde 3 de agosto de 2026 apoiada em
 versão que não temos.
+
+## Incorporação de 04/08/2026 (quinto lote) — a Nota Técnica do CT-e, e uma correção urgente
+
+Uma norma: a **Nota Técnica CT-e nº 2026.002, versão 1.01, de 16 de julho de 2026**, do Projeto
+Conhecimento de Transporte Eletrônico (CGIBS, Receita Federal e ENCAT). Veio em **documento
+impresso** — o portal do CT-e não devolve página salvável —, e é a única norma do acervo obtida
+por esse caminho desde a criação do `limpar_html.py`.
+
+Limpeza documentada, sem tocar o texto normativo: 12 quebras de página, 11 cabeçalhos de página
+(três linhas fixas, com e sem recuo) e 11 rodapés de contador removidos, e 8 sequências de
+pontilhado do sumário reduzidas a espaço. Zero palavra perdida na conferência. **A primeira
+tentativa removeu apenas 1 dos 11 cabeçalhos**, porque a rotina foi escrita para linha sem recuo e
+as páginas seguintes trazem o cabeçalho recuado; corrigida a expressão, os onze saíram.
+
+**A correção que esta norma impõe, e que é grave.** O assistente vinha afirmando, desde a pesquisa
+da manhã e em três mensagens ao sócio, que **o CT-e sem os campos de IBS/CBS passara a ser
+rejeitado em produção desde 3 de agosto de 2026**. A afirmação apoiava-se no cronograma da versão
+1.00 desta Nota Técnica, colhido em fonte secundária. **A versão 1.01, de 16 de julho, alterou
+exatamente essa data.** Lê-se no histórico de alterações e na regra de validação 001:
+
+> HOMOLOGAÇÃO: 01/07/2026 — **PRODUÇÃO: implementação futura**
+
+Ou seja: a rejeição por falta do grupo IBS/CBS **está implantada apenas em homologação**, e a data
+de produção **não foi fixada**. Não há, nesta data, rejeição em produção por esse motivo. O que
+permanece com data certa é o **Ato Conjunto RFB/CGIBS nº 4, de 30/07/2026**, que trata de coisa
+diversa — quais modelos de documento fiscal passam a ser exigíveis, e não do preenchimento dos
+campos da reforma. **O assistente confundiu as duas obrigações.** Fica consignado como erro, e a
+advertência ao cliente há de ser corrigida na mesma medida em que foi dada.
+
+Registre-se, ainda em favor da leitura correta, o que continua valendo: quando o grupo CBS for
+informado em documento emitido em 2026, **a alíquota deve ser de 0,90%**, na forma do art. 346 da
+LC 214/2025, sob pena de rejeição 326.
+
+A `NT-CTE-2025.001` permanece no acervo, agora marcada como **superada pela 2026.002 e mantida por
+referência histórica** — a nova declara-se, na introdução, evolução daquela.
 
 ## Fontes
 

@@ -84,15 +84,15 @@ Mesmo procedimento, com dois cuidados que o RJ ensinou:
 
 ## Estado atual
 
-45 normas: **35 transversais** e **10 de TRC**. *(atualizado em 04/08/2026)*
+46 normas: **35 transversais** e **11 de TRC**. *(atualizado em 04/08/2026)*
 
 | jurisdição | total | transversal | trc |
 |---|---:|---:|---:|
 | federal | 34 | 27 | 7 |
-| nacional | 5 | 3 | 2 |
+| nacional | 6 | 3 | 3 |
 | rj | 6 | 5 | 1 |
 
-Leitura prática: um cliente de **outro setor no RJ** já encontra **35 das 45 normas prontas e auditadas**. Só faltam as específicas do setor dele.
+Leitura prática: um cliente de **outro setor no RJ** já encontra **35 das 46 normas prontas e auditadas**. Só faltam as específicas do setor dele.
 
 > **Nota de classificação — o FGTS e a Lei 8.212.** Ambas entram como `transversal` e
 > `03-ordinaria`, pela regra de classificar a norma e não o dispositivo. A Lei 8.212 contém

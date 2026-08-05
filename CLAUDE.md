@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 45 normas, **35 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 46 normas, **35 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -163,6 +163,13 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   10% do imposto de renda e os 20% da base previdenciária.
 - **A alíquota do PIS cumulativo está na `LEI-9715-1998`, art. 8º, I** — 0,65% sobre o faturamento.
   Não está na Lei 9.718, que só trata da COFINS a 3%. Erro fácil de cometer.
+
+- **NÃO afirmar que o CT-e é rejeitado em produção por falta dos campos de IBS/CBS.** A NT CT-e
+  2026.002 **v1.01** alterou a data: regra 001 com HOMOLOGAÇÃO em 01/07/2026 e **PRODUÇÃO em
+  "implementação futura"**. Não confundir com o Ato Conjunto RFB/CGIBS 4/2026, que trata de quais
+  modelos passam a ser exigíveis — obrigação diversa. O que vale com data certa: informado o grupo
+  CBS em documento de 2026, a alíquota tem de ser **0,90%** (art. 346 da LC 214/25), sob pena de
+  rejeição 326.
 
 ## Estilo
 
