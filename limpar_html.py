@@ -85,6 +85,26 @@ def recortar_dou(h):
     return h[ini.start():corte], True
 
 
+# Portais que embrulham o ato em página inteira. Dois casos medidos em
+# 04/08/2026: o sistema de legislação da ANTT, que põe o ato em
+# <div id="texto-compilado"> e cerca de ementário e busca; e o portal da
+# SEFAZ-RJ, que usa <main> do HTML5 entre barra de acessibilidade e rodapé.
+# Sem o recorte entram "EMENTÁRIO PUBLICAÇÕES DO DIA", "Carregando..." e a
+# caixa de busca no meio do texto normativo.
+def recortar_portal(h):
+    m = re.search(r'(?i)<div[^>]*id=["\']?conteudo["\']?', h)
+    if m:
+        resto = h[m.start():]
+        fim = re.search(r'(?is)<div[^>]*id="(?:divVejaTambem|loading|formPdf)"', resto)
+        return (resto[:fim.start()] if fim else resto), 'ANTT'
+    m = re.search(r'(?is)<main[^>]*>', h)
+    if m:
+        resto = h[m.end():]
+        fim = re.search(r'(?is)</main>', resto)
+        return (resto[:fim.start()] if fim else resto), 'main'
+    return h, None
+
+
 def converter(h):
     contas = {}
 
@@ -97,6 +117,10 @@ def converter(h):
     h, dou = recortar_dou(h)
     if dou:
         contas['miolo do DOU recortado'] = 1
+    else:
+        h, portal = recortar_portal(h)
+        if portal:
+            contas[f'miolo recortado ({portal})'] = 1
     some(r'(?is)<head[^>]*>.*?</head>', 'cabeçalho do documento descartado')
     some(r'(?is)<script[^>]*>.*?</script>', 'script descartado')
     some(r'(?is)<style[^>]*>.*?</style>', 'estilo descartado')

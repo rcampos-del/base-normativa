@@ -6,7 +6,7 @@ Escritório: Nahid, De Vitto & Campos Advogados. Sócios tributaristas.
 Projeto: consultoria em Reforma Tributária, entregue por setor.
 
 **Primeiro setor atacado: transporte rodoviário de cargas (TRC).** O acervo, porém, é
-multissetorial: das 37 normas, **32 são transversais** e servem a qualquer setor. Ver
+multissetorial: das 45 normas, **35 são transversais** e servem a qualquer setor. Ver
 `TAXONOMIA.md` antes de acrescentar norma nova.
 
 ## Regra inegociável
@@ -157,6 +157,12 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   `l8212cons.htm`. O art. 28, § 11 — base do TAC — está lá, com a mesma numeração.
 - **`LEI-10637-2002` e `LEI-10833-2003` vêm da PÁGINA-BASE**, não da compilada. O `fontes.tsv`
   registrava errado até 04/08/2026.
+
+- **O custo do TAC agora fecha com o vale-pedágio.** A `LEI-10209-2001` diz que ele **não integra o
+  frete** — é o que o art. 39, § 1º, do `DEC-9580-2018` pressupõe. Descontar antes de aplicar os
+  10% do imposto de renda e os 20% da base previdenciária.
+- **A alíquota do PIS cumulativo está na `LEI-9715-1998`, art. 8º, I** — 0,65% sobre o faturamento.
+  Não está na Lei 9.718, que só trata da COFINS a 3%. Erro fácil de cometer.
 
 ## Estilo
 

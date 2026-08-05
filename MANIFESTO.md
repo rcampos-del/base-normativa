@@ -1,6 +1,8 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
+(incorporação de oito normas — o eixo setorial do TRC e a lei que faltava ao PIS cumulativo).
+Antes, no mesmo dia,
 (recaptura em HTML de dez normas — resíduo de impressão removido; ver seção própria).
 No mesmo dia,
 (renormalização geral — dezoito arquivos reescritos sem alteração de conteúdo; ver seção própria).
@@ -61,6 +63,14 @@ Para conferir a integridade a qualquer momento:
 | `RES-CGSN-186-2026.txt` | Resolução CGSN nº 186, de 09/04/2026 — opção pelo Simples e pelo regime regular de IBS/CBS para 2027 (janela 01-30/09/2026) | transversal | nacional | 21 | 875 | `9f8e11ffc204` |
 | `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 211 | 6.207 | `29692daccb49` |
 | `CONV-ICMS-106-1996.txt` | Convênio ICMS 106/96 (CONFAZ) — crédito outorgado de 20% ao transporte | trc | nacional | 7 | 397 | `ab5f1f4728c8` |
+| `LEI-9715-1998.txt` | Lei nº 9.715. de 25/11/1998 — **a alíquota do PIS/PASEP cumulativo**. Art. 8º. I: **0.65% sobre o faturamento**. com marca de produção de efeitos pela LC 214/2025. Fecha o parâmetro que a semente do banco gravara como pendente. com valor nulo. por falta de norma no acervo | transversal | federal | 61 | 1.586 | `00d0cc138bc4` |
+| `LEI-10209-2001.txt` | Lei nº 10.209. de 23/03/2001 — **vale-pedágio obrigatório no transporte rodoviário de carga**. O valor **não integra o frete** e é de responsabilidade do embarcador; o art. 8º impõe indenização equivalente a **duas vezes o valor do frete** em caso de infração (Vide ADIN 6031). É o dispositivo a que remete o art. 39. § 1º. do RIR | trc | federal | 63 | 1.762 | `b84261253c1d` |
+| `LEI-13703-2018.txt` | Lei nº 13.703. de 08/08/2018 — **Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas**. Lei que a ANTT regulamenta pela tabela de coeficientes | trc | federal | 84 | 2.716 | `472150bf2b62` |
+| `LC-225-2026.txt` | Lei Complementar nº 225. de 2026 — **devedor contumaz**. Citada por cinco arquivos do acervo — Decreto 12.955. Leis 9.249. 9.430 e 10.637 — e até aqui ausente dele | transversal | federal | 587 | 10.445 | `51b6c1efaf36` |
+| `RES-ANTT-5982-2022.txt` | Resolução ANTT nº 5.982. de 23/06/2022 — **RNTR-C**: inscrição e manutenção no Registro Nacional de Transportadores Rodoviários de Cargas. nas categorias TAC. ETC e CTC. Sustenta o Parecer nº 02 | trc | federal | 159 | 3.261 | `7f3ab55d94e6` |
+| `RES-ANTT-6068-2025.txt` | Resolução ANTT nº 6.068. de 17/07/2025 — altera a Resolução nº 5.982 e vincula a manutenção do registro à contratação dos **seguros obrigatórios** | trc | federal | 19 | 684 | `27107a27b5d5` |
+| `RES-ANTT-6084-2026.txt` | Resolução ANTT nº 6.084. de 16/07/2026 — **tabela vigente dos pisos mínimos de frete**; capturada do DOU. Atualiza os coeficientes do Anexo II da Resolução nº 5.867/2020 | trc | federal | 6 | 2.184 | `104864adf351` |
+| `RJ-RES-SEFAZ-876-2026.txt` | Resolução SEFAZ-RJ nº 876. de 24/03/2026 — altera o **Anexo XXIII da Parte II da Resolução SEFAZ nº 720/2014**: escrituração do FOT na EFD sob a fórmula do Decreto RJ 50.248/2026 | transversal | rj | 16 | 511 | `0a3468be0a11` |
 | `NT-CTE-2025.001.txt` | Nota Técnica CT-e 2025.001 v1.00, de 28/03/2025 — **DESATUALIZADA** | trc | nacional | 11 | 5.809 | `3af4c6200b5e` |
 | `RJ-LEI-2657-1996.txt` | Lei estadual RJ nº 2.657, de 26/12/1996 — Lei do ICMS-RJ (art. 14: interna a 20%, Lei 10.253/2023) | transversal | rj | 2.012 | 58.163 | `5c2f0f08021b` |
 | `RJ-LC-210-2023.txt` | Lei Complementar estadual RJ nº 210, de 21/07/2023 — FECP (c/ LC 217/2023) | transversal | rj | 53 | 2.475 | `7dbf8ae93cb4` |
@@ -68,7 +78,7 @@ Para conferir a integridade a qualquer momento:
 | `RJ-DEC-50248-2026-FOT.txt` | Decreto estadual RJ nº 50.248, de 23/03/2026 — altera o FOT; escalonamento 20%→60% | transversal | rj | 98 | 3.996 | `b8fc87ea3469` |
 | `RJ-DEC-27427-2000-LIVRO-IX.txt` | RICMS-RJ (Dec. 27.427/2000), só o Livro IX — prestação de transporte (art. 82-C) | trc | rj | 333 | 15.326 | `795a9cb2b9ec` |
 
-**Resumo:** 37 normas — 32 transversais, 5 de TRC. Por jurisdição: 27 federais, 5 nacionais, 5 do RJ.
+**Resumo:** 45 normas — 35 transversais, 10 de TRC. Por jurisdição: 34 federais, 5 nacionais, 6 do RJ.
 
 ## Incorporação de 29/07/2026 — o eixo do Simples Nacional
 
@@ -586,6 +596,65 @@ inclusive nos onze arquivos que já haviam entrado por HTML.
 **O vício das preposições da Lei 9.430 NÃO tem conserto.** A página compilada foi capturada e
 medida: **332 ocorrências de `pela` contra 1 de `pelo`**, com `pela sujeito passivo` seis vezes.
 Está nas duas páginas do Planalto. Encerra-se a dívida que previa recaptura como remédio: não há.
+
+## Incorporação de 04/08/2026 (quarto lote) — o eixo setorial e a lacuna do PIS
+
+Oito normas, todas por página salva. **Quatro do Planalto, três da ANTT — duas do sistema próprio
+de legislação e uma do Diário Oficial — e uma do portal da SEFAZ-RJ.** O acervo passa de trinta e
+sete a **quarenta e cinco normas**, e as setoriais dobram, de cinco para dez.
+
+**A que fecha uma lacuna do banco.** A `LEI-9715-1998` traz, no art. 8º, inciso I, a alíquota de
+**zero vírgula sessenta e cinco por cento sobre o faturamento** — a contribuição para o PIS no
+regime cumulativo, que é o do lucro presumido. A semente de hoje gravara esse parâmetro como
+**pendente, com valor nulo**, precisamente porque a norma não estava no acervo e a regra da casa
+proíbe afirmar de memória. Agora pode ser preenchido, e o comparador fecha a linha. O dispositivo
+traz marca de produção de efeitos pela LC 214/2025.
+
+**A que cinco arquivos já citavam.** A `LC-225-2026` — devedor contumaz — era invocada pelo
+Decreto 12.955 e pelas Leis 9.249, 9.430 e 10.637, e não estava no acervo. Foi erro do assistente
+tê-la relacionado, no comando de pesquisa de hoje, entre as normas já presentes; ficou consignado
+no Registro nº 004 e agora se resolve.
+
+**O eixo do transportador autônomo, completo.** A `LEI-10209-2001` fecha o vale-pedágio: o valor
+**não integra o frete**, a responsabilidade é do embarcador, e o art. 8º impõe indenização de
+**duas vezes o valor do frete** em caso de infração. É a lei a que remete o art. 39, § 1º, do
+Regulamento do Imposto sobre a Renda, que já estava no acervo apontando para o vazio. Somam-se a
+`LEI-13703-2018`, dos pisos mínimos, e a `RES-ANTT-6084-2026`, com a tabela vigente de
+coeficientes; e as Resoluções ANTT nº 5.982 e nº 6.068, que regem o registro nacional de
+transportadores e o vinculam aos seguros obrigatórios — base do Parecer nº 02.
+
+**O instrumento aprendeu dois portais novos, e reprovou duas vezes antes.** O sistema de
+legislação da ANTT embrulha o ato em ementário, busca e um "Carregando..." final; o portal da
+SEFAZ-RJ, entre barra de acessibilidade e caixa de busca. Sem recorte, entravam no texto normativo
+linhas como "EMENTÁRIO PUBLICAÇÕES DO DIA" e "COPIAR LINK TAGS IMPRESSÃO PDF". Acrescentou-se ao
+`limpar_html.py` o recorte por contêiner: `<div id="conteudo">` na ANTT e o elemento `<main>` do
+HTML5 na SEFAZ. **A primeira tentativa mirou `id="texto-compilado"`, que naquela página não é o
+contêiner e sim uma âncora de link** — o recorte não pegou e o ementário continuou entrando. Achado
+o contêiner certo, a Resolução nº 5.982 caiu de 3.473 para 3.261 palavras e a nº 6.068 de 700 para
+684, e o texto passou a começar no título do ato. **Reprovado, antes e depois, no ensaio de
+resposta conhecida da Lei nº 9.430**, que devolveu assinatura idêntica à publicada nas duas vezes:
+o recorte novo não toca em página do Planalto.
+
+Provas de conteúdo executadas e aprovadas: **Lei 9.715** — art. 8º, I. **Lei 10.209** — a cláusula
+de que o vale-pedágio não integra o frete e o art. 8º, com a indenização em duas vezes o valor e a
+remissão à ADIN 6031. **Lei 13.703** — o piso mínimo, vinte e nove ocorrências. **LC 225** —
+devedor contumaz, trinta e nove ocorrências. **Resolução 5.982** — o registro nacional, trinta
+ocorrências. **Resolução 6.068** — os seguros obrigatórios. **Resolução 6.084** — a tabela de
+coeficientes. **Resolução SEFAZ 876** — a alteração do Anexo XXIII da Parte II da Resolução nº 720,
+de 2014.
+
+**Fora do acervo, como prova.** A Solução de Consulta COSIT nº 6, de 27 de janeiro de 2026,
+chegou em documento impresso e **não entra no acervo normativo**: não é norma, é interpretação da
+administração. Guarda-se no regime da Consulta SEFAZ-RJ 043/25 — junto das provas, e não das
+normas. Lida no oficial, ela afasta a Lei nº 14.789 do crédito outorgado do Convênio ICMS nº 106,
+por não se tratar de subvenção para investimento, e sim de **método alternativo de apuração**
+adotado opcionalmente pelo contribuinte, invocando a ADI nº 1.502-8/DF do Supremo Tribunal Federal.
+Encerra-se a dívida que a mantinha em aberto.
+
+**O que continua faltando, e por quê.** A Nota Técnica vigente do conhecimento de transporte não
+foi obtida — o portal não devolveu página salvável. Permanece no acervo a versão 2025.001 v1.00,
+**desatualizada e assim marcada**, com obrigação em vigor desde 3 de agosto de 2026 apoiada em
+versão que não temos.
 
 ## Fontes
 
