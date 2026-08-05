@@ -152,6 +152,12 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   incl. Lei 13.169/2015); os 15% do inciso I são de seguros privados e instituições da LC 105.
   Ambas foram apanhadas ao ler o texto para semear o banco.
 
+- **`LEI-8212-1991.txt` é o texto COMPILADO desde 04/08/2026.** Traz só a redação vigente; nenhum
+  artigo falta, mas não há camadas anteriores. Para história dessa lei, ir à página consolidada
+  `l8212cons.htm`. O art. 28, § 11 — base do TAC — está lá, com a mesma numeração.
+- **`LEI-10637-2002` e `LEI-10833-2003` vêm da PÁGINA-BASE**, não da compilada. O `fontes.tsv`
+  registrava errado até 04/08/2026.
+
 ## Estilo
 
 Português. Citação no formato "art. 169, § 1º, I, da LC 214/2025". Separar sempre

@@ -1,6 +1,8 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **04/08/2026**
+(recaptura em HTML de dez normas — resíduo de impressão removido; ver seção própria).
+No mesmo dia,
 (renormalização geral — dezoito arquivos reescritos sem alteração de conteúdo; ver seção própria).
 No mesmo dia,
 (incorporação da Lei 12.546/2011 — primeira norma erguida de **página HTML salva**,
@@ -28,28 +30,28 @@ Para conferir a integridade a qualquer momento:
 
 | Arquivo | Norma | Setor | Jurisdição | Linhas | Palavras | SHA-256 (12) |
 |---|---|---|---|---:|---:|---|
-| `EC-132-2023.txt` | Emenda Constitucional nº 132, de 20/12/2023 — ADCT arts. 128-129 (transição do ICMS 2029-2033) | transversal | federal | 623 | 14.770 | `4742874996d7` |
+| `EC-132-2023.txt` | Emenda Constitucional nº 132, de 20/12/2023 — ADCT arts. 128-129 (transição do ICMS 2029-2033) | transversal | federal | 623 | 14.099 | `9944e85d8476` |
 | `LEI-5172-1966.txt` | Lei nº 5.172, de 25/10/1966 — **Código Tributário Nacional**, compilado. Normas gerais de direito tributário. Alterado pela LC 227/2026 (ITBI: arts. 35, 38 e 41; COSIP: art. 82-A, Título V-A) e pela LC 214/2025 (art. 9º, IV e IV, `b`) | transversal | federal | 1.019 | 16.768 | `e84bded927cc` |
 | `LC-214-2025.txt` | Lei Complementar nº 214, de 16/01/2025 — compilada (c/ LC 227). Espinha dorsal do IBS/CBS | transversal | federal | 6.097 | 126.519 | `3109e52ba74f` |
-| `LC-227-2026.txt` | Lei Complementar nº 227, de 13/01/2026 — CGIBS; alterou a LC 214 | transversal | federal | 3.004 | 61.623 | `dc36fa1b24cc` |
-| `LC-192-2022.txt` | Lei Complementar nº 192, de 11/03/2022 — ICMS monofásico de combustíveis | transversal | federal | 107 | 3.734 | `b5d0ae61a73a` |
+| `LC-227-2026.txt` | Lei Complementar nº 227, de 13/01/2026 — CGIBS; alterou a LC 214 | transversal | federal | 3.004 | 59.545 | `e21bafd8e035` |
+| `LC-192-2022.txt` | Lei Complementar nº 192, de 11/03/2022 — ICMS monofásico de combustíveis | transversal | federal | 107 | 3.614 | `038193b4abc4` |
 | `LC-224-2025.txt` | Lei Complementar nº 224, de 26/12/2025 — redução linear dos incentivos e benefícios federais (art. 4º, § 4º: crédito presumido limitado a 90%; presunção do lucro presumido +10% acima de R$ 5 milhões); teto global de 2% do PIB (art. 5º); alterou a LRF (arts. 14 e 14-A) | transversal | federal | 184 | 3.773 | `dec32aa34701` |
 | `LEI-7689-1988.txt` | Lei nº 7.689, de 15/12/1988 — institui a **CSLL**. Fato gerador, base e **alíquota de 9% para as demais pessoas jurídicas — art. 3º, III, incluído pela Lei 13.169/2015**, que é a que alcança a transportadora. O artigo tem três camadas empilhadas e, dentro da vigente, incisos com várias redações sucessivas: os 15% do inciso I (red. LC 224/2025) valem para seguros privados e instituições da LC 105, não para pessoa jurídica comum | transversal | federal | 90 | 3.058 | `babe00dde50a` |
 | `LEI-8036-1990.txt` | Lei nº 8.036, de 11/05/1990 — **FGTS**, compilada. Depósito de 8% sobre a remuneração (art. 15) e exclusão expressa do autônomo da condição de trabalhador (art. 15, § 2º); multa rescisória de 40% (art. 18, § 1º); encargos do atraso (art. 22) e multa administrativa de 30% do débito (art. 23, § 2º, `b`) | transversal | federal | 743 | 24.785 | `9912ea9a0525` |
-| `LEI-8212-1991.txt` | Lei nº 8.212, de 24/07/1991 — **Lei Orgânica da Seguridade Social** (custeio), compilada. Contribuição patronal de 20% (art. 22, I e III) e RAT (art. 22, II); **base de 20% da nota fiscal na contratação de transporte rodoviário de carga prestado por condutor autônomo (art. 28, § 11)** e salário-de-contribuição do condutor autônomo em 20% do frete bruto (art. 28, § 11); retenção de 11% na cessão de mão de obra (art. 31); contribuições em reclamatória trabalhista (art. 43) | transversal | federal | 1.429 | 48.938 | `6a04c3516967` |
-| `LEI-9249-1995.txt` | Lei nº 9.249, de 26/12/1995 — **IRPJ e CSLL**; página-base do Planalto, com as redações sucessivas empilhadas. Alíquota de 15% e adicional de 10% (art. 3º); **percentuais de presunção do lucro presumido (art. 15): transporte de carga a 8% pelo caput e os demais transportes a 16% (§ 1º, II, `a`)**; base da CSLL (art. 20, I a III); juros sobre capital próprio com IRRF de 17,5% (art. 9º, § 2º, red. LC 224/2025); dividendos e o crédito do beneficiário no exterior (arts. 10 e 10-A, red. Lei 15.270/2025); extinção de punibilidade e devedor contumaz (art. 34, §§ 3º-4º, LC 225/2026) | transversal | federal | 280 | 8.578 | `21df2b230aaf` |
+| `LEI-8212-1991.txt` | Lei nº 8.212, de 24/07/1991 — **texto compilado** (troca decidida em 04/08/2026) — **Lei Orgânica da Seguridade Social** (custeio), compilada. Contribuição patronal de 20% (art. 22, I e III) e RAT (art. 22, II); **base de 20% da nota fiscal na contratação de transporte rodoviário de carga prestado por condutor autônomo (art. 28, § 11)** e salário-de-contribuição do condutor autônomo em 20% do frete bruto (art. 28, § 11); retenção de 11% na cessão de mão de obra (art. 31); contribuições em reclamatória trabalhista (art. 43) | transversal | federal | 816 | 23.961 | `964cbae0cac7` |
+| `LEI-9249-1995.txt` | Lei nº 9.249, de 26/12/1995 — **IRPJ e CSLL**; página-base do Planalto, com as redações sucessivas empilhadas. Alíquota de 15% e adicional de 10% (art. 3º); **percentuais de presunção do lucro presumido (art. 15): transporte de carga a 8% pelo caput e os demais transportes a 16% (§ 1º, II, `a`)**; base da CSLL (art. 20, I a III); juros sobre capital próprio com IRRF de 17,5% (art. 9º, § 2º, red. LC 224/2025); dividendos e o crédito do beneficiário no exterior (arts. 10 e 10-A, red. Lei 15.270/2025); extinção de punibilidade e devedor contumaz (art. 34, §§ 3º-4º, LC 225/2026) | transversal | federal | 280 | 8.577 | `85dbcb5d4401` |
 | `LEI-8706-1993.txt` | Lei nº 8.706, de 14/09/1993 — cria o **SEST e o SENAT**. Contribuição compulsória do **transportador autônomo: 1,5% ao SEST e 1,0% ao SENAT sobre o salário de contribuição previdenciária** (art. 7º, II) — 2,5% que se somam ao art. 28, § 11, da Lei 8.212 no custo total do TAC | trc | federal | 54 | 1.213 | `ba09d8453ee9` |
 | `LEI-9250-1995.txt` | Lei nº 9.250, de 26/12/1995 — **IRPF**; página-base do Planalto. Fecha o circuito da `LEI-15270-2025.txt`: traz os **arts. 6º-A, 16-A e 16-B**, acrescidos por ela — retenção mínima sobre lucros e dividendos, tributação mínima de altas rendas e o redutor quando a soma das alíquotas efetivas ultrapassa o teto —, todos em camada única | transversal | federal | 490 | 16.231 | `a89afb39a2dd` |
-| `LEI-9430-1996.txt` | Lei nº 9.430, de 27/12/1996 — legislação tributária federal; página-base do Planalto (`l9430.htm`), **não** o texto compilado, que tem página própria e não foi capturado. Apuração trimestral e estimativa (arts. 1º-2º); lucro presumido (art. 25) e arbitrado (art. 27); multas de ofício, com a qualificação de 100%/150% da Lei 14.689/2023 (art. 44, § 1º, VI-VII); retenção na fonte por órgãos federais (art. 64); compensação e o limite mensal (arts. 74 e 74-A); **inaptidão do CNPJ por prática reiterada das infrações do *split payment* (art. 81, VIII, incluído pela LC 227/2026, que remete aos arts. 471-D e 471-E da LC 214/2025)**; representação fiscal para fins penais (art. 83, c/ LC 225/2026). **Dupla camada** e **defeito de fonte** — ver Limitações | transversal | federal | 1.124 | 35.501 | `f7a35e7dd9c5` |
-| `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 566 | 18.003 | `f2b6ac1d2976` |
+| `LEI-9430-1996.txt` | Lei nº 9.430, de 27/12/1996 — legislação tributária federal; página-base do Planalto (`l9430.htm`), **não** o texto compilado, que tem página própria e não foi capturado. Apuração trimestral e estimativa (arts. 1º-2º); lucro presumido (art. 25) e arbitrado (art. 27); multas de ofício, com a qualificação de 100%/150% da Lei 14.689/2023 (art. 44, § 1º, VI-VII); retenção na fonte por órgãos federais (art. 64); compensação e o limite mensal (arts. 74 e 74-A); **inaptidão do CNPJ por prática reiterada das infrações do *split payment* (art. 81, VIII, incluído pela LC 227/2026, que remete aos arts. 471-D e 471-E da LC 214/2025)**; representação fiscal para fins penais (art. 83, c/ LC 225/2026). **Dupla camada** e **defeito de fonte** — ver Limitações | transversal | federal | 1.123 | 35.483 | `df09c244aeb4` |
+| `LEI-10637-2002.txt` | Lei nº 10.637, de 30/12/2002 — PIS não cumulativo | transversal | federal | 566 | 17.514 | `5536dd10ce68` |
 | `LEI-9718-1998.txt` | Lei nº 9.718, de 27/11/1998 — **PIS/COFINS no regime CUMULATIVO**, o que se aplica ao lucro presumido (art. 10, II, da Lei 10.833); página-base do Planalto. Base de cálculo no faturamento (art. 2º) e **COFINS elevada a 3% (art. 8º), com marca de "Vide LC 214/2025 — produção de efeitos"**. É a contraparte que faltava para comparar a CBS: o não cumulativo já estava no acervo, o cumulativo não | transversal | federal | 301 | 11.647 | `1543d8c7084d` |
 | `LEI-10666-2003.txt` | Lei nº 10.666, de 08/05/2003, compilada — o **FAP**. O art. 10 permite que a alíquota de 1%, 2% ou 3% do RAT seja **reduzida em até 50% ou aumentada em até 100%**, conforme o desempenho da empresa na respectiva atividade econômica. Sem ele, o custo de folha do simulador é faixa, não número | transversal | federal | 43 | 1.327 | `baf18b343aba` |
-| `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 1.176 | 39.807 | `ad3b46fb1b6e` |
+| `LEI-10833-2003.txt` | Lei nº 10.833, de 29/12/2003 — COFINS não cumulativo (art. 3º, §§ 19-20) | transversal | federal | 1.174 | 38.715 | `412f123cf2b8` |
 | `LEI-12546-2011.txt` | Lei nº 12.546, de 14/12/2011 — **desoneração da folha (CPRB)**, compilada. **Transporte rodoviário de cargas, CNAE 4930-2, no art. 8º, IX** (incluído pela Lei 13.670/2018), com **alíquota de 1,5% sobre a receita bruta** (art. 8º-A, que põe 2,5% como regra e excetua os incisos VI, IX, X e XI); a substituição integral terminou em 31/12/2024 (art. 8º, caput, red. Lei 14.973/2024) e o art. 9º-A instituiu substituição **parcial e escalonada** — 2025: 80% da alíquota sobre receita + 25% da folha; **2026: 60% + 50%**; 2027: 40% + 75% —, com retorno integral à folha em 1º/01/2028 (art. 9º-B); exclusão da receita de transporte internacional de carga (art. 9º, II, `b`) e opção irretratável no pagamento de janeiro (art. 9º, § 13) | transversal | federal | 374 | 12.036 | `0f9aafcd742a` |
 | `LEI-14973-2024.txt` | Lei nº 14.973, de 16/09/2024 — a **reoneração gradual da folha**. É a lei que reescreveu os arts. 7º e 8º da Lei 12.546 ("Até 31 de dezembro de 2024") e acrescentou os arts. 9º-A e 9º-B, com o escalonamento de 2025 a 2027 e o retorno integral à folha em 2028. O art. 4º condiciona a opção a **manter quadro funcional médio de ao menos 75%** do ano anterior | transversal | federal | 289 | 9.120 | `a4b50b56aee8` |
 | `LEI-15270-2025.txt` | Lei nº 15.270, de 26/11/2025 — IRPF: redução do imposto até R$ 5.000,00/mês (art. 3º-A da Lei 9.250), retenção de 10% sobre dividendos acima de R$ 50.000,00/mês (art. 6º-A), tributação mínima de altas rendas acima de R$ 600.000,00/ano (art. 16-A) e redutor do art. 16-B. O art. 5º destina o excedente de arrecadação ao cálculo da alíquota de referência da CBS | transversal | federal | 148 | 3.910 | `e63d9b614ecf` |
 | `LEI-15371-2026.txt` | Lei nº 15.371, de 31/03/2026 — **salário-paternidade**; capturada do **DOU**, não do Planalto. Altera a Lei 8.212 (art. 7º da lei nova) e a Lei 8.213, institui o benefício e o incentivo fiscal, e **entra em vigor em 1º/01/2027** (art. 14). É a camada de 2027 que o compilado da Lei 8.212 não incorpora | transversal | federal | 144 | 3.114 | `b918a6e55bd0` |
-| `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 1.583 | 47.763 | `d4fd8fa494ae` |
+| `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 1.581 | 47.823 | `8896c261d603` |
 | `DEC-12955-2026.txt` | Decreto nº 12.955, de 29/04/2026 — Regulamento da CBS | transversal | federal | 5.606 | 130.507 | `6ccde9b698aa` |
 | `LEI-14789-2023.txt` | Lei nº 14.789, de 29/12/2023 — **subvenções para investimento**. Substitui a exclusão da base pelo **crédito fiscal de 25% sobre as receitas de subvenção** (arts. 1º e 6º), computáveis só as receitas relacionadas a depreciação, amortização, exaustão, locação ou arrendamento de bens de capital (art. 8º). Decide se o crédito outorgado do transporte entra na base do IRPJ — ver a Solução de Consulta COSIT 6/2026 | transversal | federal | 148 | 3.001 | `e58982474499` |
 | `RES-CGIBS-6-2026.txt` | Resolução CGIBS nº 6, de 30/04/2026 — Regulamento do IBS | transversal | nacional | 6.934 | 143.186 | `bc41cb73a72c` |
@@ -57,7 +59,7 @@ Para conferir a integridade a qualquer momento:
 | `DEC-3048-1999.txt` | Decreto nº 3.048, de 06/05/1999, compilado — **Regulamento da Previdência Social**. É onde vivem o enquadramento do RAT por atividade econômica e as regras de custeio que a Lei 8.212 remete a regulamento; segunda maior peça do acervo | transversal | federal | 3.862 | 131.023 | `fd0317d2bfc0` |
 | `DEC-9580-2018.txt` | Decreto nº 9.580, de 22/11/2018 — **Regulamento do Imposto sobre a Renda (RIR/2018)**, 1.050 artigos. Costura em um só texto o que as leis dispersam: **base de cálculo do lucro presumido a 8% (art. 591)** e, no rendimento do **transportador autônomo, 10% do total no transporte de carga e 60% no de passageiros, com o vale-pedágio obrigatório expressamente fora (Lei 10.209/2001)** — dispositivo que dá tratamento de IRPF ao TAC | transversal | federal | 8.334 | 197.573 | `0ce0c0d986dd` |
 | `RES-CGSN-186-2026.txt` | Resolução CGSN nº 186, de 09/04/2026 — opção pelo Simples e pelo regime regular de IBS/CBS para 2027 (janela 01-30/09/2026) | transversal | nacional | 21 | 875 | `9f8e11ffc204` |
-| `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 211 | 6.423 | `c9752eab66e8` |
+| `LEI-11442-2007.txt` | Lei nº 11.442, de 05/01/2007 — Transporte Rodoviário de Cargas (TAC, ETC, CTC) | trc | federal | 211 | 6.207 | `29692daccb49` |
 | `CONV-ICMS-106-1996.txt` | Convênio ICMS 106/96 (CONFAZ) — crédito outorgado de 20% ao transporte | trc | nacional | 7 | 397 | `ab5f1f4728c8` |
 | `NT-CTE-2025.001.txt` | Nota Técnica CT-e 2025.001 v1.00, de 28/03/2025 — **DESATUALIZADA** | trc | nacional | 11 | 5.809 | `3af4c6200b5e` |
 | `RJ-LEI-2657-1996.txt` | Lei estadual RJ nº 2.657, de 26/12/1996 — Lei do ICMS-RJ (art. 14: interna a 20%, Lei 10.253/2023) | transversal | rj | 2.012 | 58.163 | `5c2f0f08021b` |
@@ -534,6 +536,56 @@ legível por dispositivo, e não por largura de página.
 Acompanha a este lote o arquivo `atualizar-normas-v2.sql`, que refaz o espelho. **Sem ele, o
 sistema citaria número conferido contra versão que já não existe** — exatamente o que a coluna
 `sha256` foi criada para impedir.
+
+## Recaptura em HTML de 04/08/2026 — dez normas, e um defeito que ninguém medira
+
+**O que se procurava.** Corrigir, nos arquivos vindos de documento impresso, o ordinal sobrescrito
+que o `pdftotext` desloca. **O que se achou** foi mais grave: **resíduo de impressão dentro do
+texto normativo**. Sete arquivos dos lotes de 16 a 21 de julho — anteriores ao `limpar_pdf.py` —
+carregavam **227 carimbos de data-hora e 243 endereços de internet** entre os dispositivos. Não
+corrompiam palavra: acrescentavam texto estranho, que sairia junto em qualquer citação literal.
+
+| Arquivo | Antes | Agora | Carimbos | URLs |
+|---|---:|---:|---|---|
+| `LC-227-2026` | 61.623 | 59.545 | 104 → 0 | 104 → 0 |
+| `LEI-10833-2003` | 39.807 | 38.715 | 54 → 0 | 55 → 1 |
+| `EC-132-2023` | 14.770 | 14.094 | 29 → 0 | 29 → 0 |
+| `LEI-10637-2002` | 18.003 | 17.514 | 25 → 0 | 25 → 0 |
+| `LEI-11442-2007` | 6.423 | 6.207 | 9 → 0 | 9 → 0 |
+| `LC-192-2022` | 3.734 | 3.614 | 6 → 0 | 6 → 0 |
+
+A única URL remanescente é **do próprio texto legal** — o art. 32 da Lei 10.833 manda a Receita
+divulgar ato no seu sítio, e o endereço está na norma. Fica.
+
+**Erro de proveniência, anterior a esta sessão, corrigido.** O `fontes.tsv` registrava a Lei 10.637
+e a Lei 10.833 como capturadas da página compilada. Não foram: o carimbo preservado dentro do
+arquivo publicado dizia `20/07/2026, 12:34 L10637` — título da **página-base**. As duas URLs foram
+retificadas.
+
+**Troca de artefato na Lei 8.212, decidida pelo sócio.** O acervo trazia a página **consolidada**
+(`l8212cons.htm`, 48.938 palavras); passa a trazer a **compilada** (`l8212compilado.htm`, 23.961).
+Mediu-se o custo antes de aplicar: **nenhum artigo se perde** — o confronto dos cabeçalhos devolveu
+conjunto vazio. Perde-se apenas a redação superada: o art. 31 vai de sete camadas para uma, o
+art. 43 de duas para uma. **Os dispositivos que a semente do banco cita continuam lá**, conferidos
+um a um: art. 22, incisos I, II e III, e **art. 28, § 11** — a base previdenciária do transportador
+autônomo, com a mesma numeração.
+
+**Três recapturas de ganho puro.** A `LEI-9249-1995` conserta o ordinal deslocado (`o § 2 O valor`
+→ `§ 2o O valor`). A `LEI-9430-1996` conserta dezoito ordinais. A `LC-123-2006` desfaz colagens que
+o documento impresso produzira: `anocalendário` (2 → 0), e as variáveis das fórmulas dos anexos,
+`XP` (40 → 0) e `Nx` (20 → 0).
+
+**O instrumento reprovou de novo, e foi corrigido.** A primeira passagem pela Emenda Constitucional
+132 produziu palavras coladas — `docaputdeste`, `ocaputpoderão`. A causa: aquela página **usa margem
+de estilo no lugar do espaço**, escrevendo `do<strong style="margin-left:4px">caput</strong>deste`.
+O `limpar_html.py` passou a converter em espaço a marcação que carrega `margin-left` ou
+`margin-right`. Reprovado no ensaio de resposta conhecida da Lei 9.430 — devolveu as mesmas 35.483
+palavras — e então aplicado. Varreu-se em seguida todo o acervo à procura de colagens: **zero**,
+inclusive nos onze arquivos que já haviam entrado por HTML.
+
+**O vício das preposições da Lei 9.430 NÃO tem conserto.** A página compilada foi capturada e
+medida: **332 ocorrências de `pela` contra 1 de `pelo`**, com `pela sujeito passivo` seis vezes.
+Está nas duas páginas do Planalto. Encerra-se a dívida que previa recaptura como remédio: não há.
 
 ## Fontes
 

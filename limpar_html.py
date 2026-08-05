@@ -105,6 +105,12 @@ def converter(h):
     for t in BLOCOS:
         some(rf'(?is)</?{t}(\s[^>]*)?/?>', f'<{t}> vira quebra', '\n')
 
+    # ANTES da remoção geral: marcação que carrega margem de estilo separa
+    # palavras VISUALMENTE, sem espaço no texto. Na Emenda Constitucional 132 o
+    # Planalto escreve `do<strong style="margin-left:4px">caput</strong>deste`,
+    # e removê-la sem espaço produzia `docaputdeste`. Medido em 04/08/2026.
+    some(r'(?is)<[a-z]+[^>]*margin-(?:left|right)[^>]*>', 'marcação com margem -> espaço', ' ')
+
     # Marcação restante — sobretudo `sup`, `font`, `span`, `a`, `u`, `strike` —
     # sai SEM espaço no lugar: no Planalto ela cai DENTRO da palavra. O ensaio
     # de 04/08/2026 mostrou o preço de errar isso: trocando por espaço, `1º`

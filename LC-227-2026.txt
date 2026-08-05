@@ -1,6 +1,6 @@
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos LEI COMPLEMENTAR Nº 227, DE 13 DE JANEIRO DE 2026 Mensagem de veto Institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS); dispõe sobre o processo administrativo tributário do Imposto sobre Bens e Serviços (IBS) e sobre a distribuição do produto da arrecadação do IBS aos entes federativos; institui normais gerais relativas ao Imposto sobre Transmissão Causa mortis e Doação de Quaisquer Bens ou Direitos (ITCMD); altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), a Lei nº 1.079, de 10 de abril de 1950, a Lei nº 9.430, de 27 de dezembro de 1996, a Lei nº 10.893, de 13 julho de 2004, a Lei nº 14.113, de 25 de dezembro de 2020, a Lei Complementar nº 63, de 11 de janeiro de 1990, a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), a Lei Complementar nº 123, de 14 de dezembro de 2006, a Lei Complementar nº 141, de 13 de janeiro de 2012, a Lei Complementar nº 192, de 11 de março de 2022, a Lei Complementar nº 214, de 16 de janeiro de 2025, o Decreto-Lei nº 37, de 18 de novembro de 1966, e o Decreto nº 70.235, de 6 de março de 1972; e revoga dispositivos da Lei nº 10.833, de 29 de dezembro de 2003, e da Medida Provisória nº 2.158-35, de 24 de agosto de 2001. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
 
-LIVRO I DAADMINISTRAÇÃO E DAGESTÃO DO IMPOSTO SOBRE BENS E SERVIÇOS (IBS)
+LIVRO I DA ADMINISTRAÇÃO E DA GESTÃO DO IMPOSTO SOBRE BENS E SERVIÇOS (IBS)
 
 TÍTULO I DO COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS (CGIBS)
 
@@ -19,7 +19,7 @@ Art. 2º Os Estados, o Distrito Federal e os Municípios exercerão, de forma in
 I - editar regulamento único e uniformizar a interpretação e a aplicação da legislação do imposto;
 II - arrecadar o imposto, efetuar as compensações, realizar as retenções previstas na legislação específica e distribuir o produto da arrecadação aos Estados, ao Distrito Federal e aos Municípios; e
 III - decidir o contencioso administrativo.
-§ 1º Além do previsto no caput deste artigo, compete ao CGIBS: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 1/104
+§ 1º Além do previsto no caput deste artigo, compete ao CGIBS:
 I - atuar juntamente com o Poder Executivo federal, com vistas a harmonizar normas, interpretações, obrigações acessórias e procedimentos relativos às regras comuns aplicáveis ao IBS e à Contribuição Social sobre Bens e Serviços (CBS);
 II - compartilhar com a Secretaria Especial da Receita Federal do Brasil (RFB) e com a Procuradoria-Geral da Fazenda Nacional (PGFN), ambas do Ministério da Fazenda, de modo cooperativo e recíproco, informações de interesse fiscal e de cobrança relativas ao IBS e à CBS;
 III - exercer a gestão compartilhada, em conjunto com a RFB, do sistema de registro do início e do resultado das fiscalizações do IBS e da CBS de que trata o inciso II do caput do art. 325 da Lei Complementar nº 214, de 16 de janeiro de 2025;
@@ -48,7 +48,7 @@ b) de outras carreiras das secretarias de economia, fazenda, finanças ou tribut
 XVII - estruturar o plano de cargos e salários e contratar empregados públicos, mediante concurso público, sob regime celetista, para o exercício de atividades do CGIBS que não estejam contempladas nas atribuições das carreiras da administração tributária, das procuradorias e das outras carreiras a que se refere o inciso XVI deste parágrafo;
 XVIII - contratar serviços terceirizados para execução de atividades administrativas e de apoio;
 XIX - estruturar o plano de vantagens remuneratórias ou indenizatórias aos membros do Conselho Superior do CGIBS e aos servidores de carreira cedidos ao CGIBS, observado o disposto no art. 37, caput, inciso XI, e §§ 12 e 18, este último conforme redação dada pela Emenda Constitucional nº 132, de 20 de dezembro de 2023;
-XX - instituir e manter a Escola Nacional de Tributação com intuito de promover, supervisionar ou financiar o desenvolvimento de estudos, pesquisas e programas educacionais, nas modalidades de aperfeiçoamento, de atualização, de reciclagem e de especialização, inclusive por meio de cursos de pós-graduação lato sensu e stricto sensu: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 2/104
+XX - instituir e manter a Escola Nacional de Tributação com intuito de promover, supervisionar ou financiar o desenvolvimento de estudos, pesquisas e programas educacionais, nas modalidades de aperfeiçoamento, de atualização, de reciclagem e de especialização, inclusive por meio de cursos de pós-graduação lato sensu e stricto sensu:
 a) dos servidores em exercício no CGIBS;
 b) dos servidores em exercício nas administrações tributárias e financeiras e nas Procuradorias dos Estados, do Distrito Federal e dos Municípios; e
 c) do público amplo, vedado o financiamento e permitida a cobrança de tarifas;
@@ -80,7 +80,7 @@ b) por delegação do ente federativo com competência para fiscalizá-los.
 § 1º O disposto na alínea “a” do inciso II do caput deste artigo aplica-se também quando houver indícios de operações destinadas aos entes federativos, nos termos do regulamento.
 § 2º Os entes federativos registrarão o interesse no desenvolvimento de fiscalização do IBS em sistema eletrônico.
 § 3º O registro de que trata o
-§ 2º deste artigo deve assinalar o sujeito passivo, o tipo de operação e o período objeto da fiscalização, bem como os motivos que a fundamentem. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 3/104
+§ 2º deste artigo deve assinalar o sujeito passivo, o tipo de operação e o período objeto da fiscalização, bem como os motivos que a fundamentem.
 
 Art. 4º Compete ao CGIBS coordenar, com vistas à integração entre os entes federativos, as atividades de fiscalização do cumprimento das obrigações principal e acessórias relativas ao IBS, realizadas pelas administrações tributárias dos Estados, do Distrito Federal e dos Municípios, vedada a segregação de fiscalização entre esferas federativas por atividade econômica, porte do sujeito passivo ou qualquer outro critério.
 § 1º O valor integrante do crédito tributário relativo ao IBS que corresponda a multa punitiva e aos juros de mora sobre ela incidentes pertence aos entes federativos que promoverem a fiscalização, nos termos do caput deste artigo.
@@ -103,7 +103,7 @@ II - os Estados, o Distrito Federal e os Municípios não participarão da distr
 
 Art. 5º Compete ao CGIBS coordenar, com vistas à integração entre os entes federativos, as atividades de cobrança e de representação administrativa, realizadas pelas administrações tributárias, e de cobrança extrajudicial e judicial e de representação administrativa e judicial, realizadas pelas Procuradorias dos Estados, do Distrito Federal e dos Municípios.
 § 1º As atividades de cobrança administrativa e de representação administrativa a que se refere o caput deste artigo serão exercidas exclusivamente por servidores efetivos integrantes das carreiras das administrações tributárias dos Estados, do Distrito Federal e dos Municípios, observadas as competências previstas em lei específica do ente federativo.
-§ 2º As atividades de cobrança extrajudicial e judicial e de representação judicial a que se refere o caput deste artigo serão exercidas exclusivamente por servidores efetivos integrantes de carreira específica de procurador, instituída em lei estadual, distrital ou municipal. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 4/104
+§ 2º As atividades de cobrança extrajudicial e judicial e de representação judicial a que se refere o caput deste artigo serão exercidas exclusivamente por servidores efetivos integrantes de carreira específica de procurador, instituída em lei estadual, distrital ou municipal.
 § 3º Na hipótese em que o ente federativo municipal não disponha de procuradoria, as atividades de cobrança extrajudicial e judicial e de representação judicial serão realizadas na forma prevista na legislação específica do Município.
 § 4º As atividades de cobrança e de representação de que trata este artigo, bem como o indeferimento e a exclusão do Simples Nacional na hipótese do inciso V do caput do art. 17 da Lei Complementar nº 123, de 14 de dezembro de 2006, poderão ser delegadas entre os entes federativos, observadas as diretrizes de coordenação estabelecidas pelo CGIBS, hipótese em que o ente delegatário atuará em nome dos entes federativos delegantes.
 § 5º (VETADO).
@@ -136,7 +136,7 @@ b) nas hipóteses previstas no regimento interno, se o ato é praticado em favor
 VI - receber presente de quem tenha interesse em decisão do ocupante de cargo, função ou emprego ou de colegiado do qual este participe; e
 VII - prestar serviços, ainda que eventuais, a empresa cuja atividade seja controlada, fiscalizada ou regulada pelo ente ao qual o ocupante de cargo, função ou emprego esteja vinculado, com exceção do exercício da docência.
 § 4º Não se considera prestação de serviço, para os efeitos do inciso II do
-§ 3º deste artigo, a existência de vínculo funcional entre o servidor indicado ou cedido ao CGIBS e o ente federativo que o indicou ou cedeu. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 5/104
+§ 3º deste artigo, a existência de vínculo funcional entre o servidor indicado ou cedido ao CGIBS e o ente federativo que o indicou ou cedeu.
 § 5º Configura conflito de interesses após o exercício de cargo, função ou emprego no âmbito do CGIBS:
 I - a qualquer tempo, divulgar ou fazer uso de informação privilegiada obtida em razão das atividades exercidas; e
 II - no período de 6 (seis) meses, contado da data da dispensa, exoneração, destituição, demissão ou aposentadoria:
@@ -168,7 +168,7 @@ IV - serão realizadas por meio de um único processo eleitoral, organizado pela
 § 5º Para a eleição prevista no § 2º, em relação aos representantes referidos na alínea “a” do inciso II do § 1º, as chapas, em número mínimo de 2 (duas), serão apresentadas pela Confederação Nacional de Municípios (CNM), ressalvado o disposto no
 § 7º deste artigo, mediante regras de habilitação estabelecidas pela própria associação e aprovação da sua instância máxima de deliberação, contendo 14 (quatorze) nomes titulares, observado o seguinte:
 I - os nomes indicados e os respectivos Municípios comporão uma única chapa, não podendo constar de outra chapa;
-II - cada titular terá 2 (dois) suplentes, obrigatoriamente de Municípios distintos e observado o disposto no inciso I deste parágrafo; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 6/104
+II - cada titular terá 2 (dois) suplentes, obrigatoriamente de Municípios distintos e observado o disposto no inciso I deste parágrafo;
 III - em caso de impossibilidade de atuação do titular, caberá ao primeiro suplente sua imediata substituição;
 IV - vencerá a eleição a chapa que obtiver mais de 50% (cinquenta por cento) dos votos válidos, ressalvado o disposto no
 § 7º deste artigo;
@@ -200,7 +200,7 @@ III - pena demissória decorrente de processo administrativo disciplinar no ente
 IV - sanção disciplinar no âmbito do CGIBS, assegurados o contraditório e a ampla defesa, por:
 a) conflito de interesses, nos termos do
 § 3º do art. 7º desta Lei Complementar;
-b) falta grave, assim entendida aquela tipificada em resolução do CGIBS e que demonstre inequívoca inidoneidade para o exercício do mandato; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 7/104
+b) falta grave, assim entendida aquela tipificada em resolução do CGIBS e que demonstre inequívoca inidoneidade para o exercício do mandato;
 V - perda de vínculo com a esfera federativa representada, na forma do regimento interno.
 § 3º O suplente substituirá o titular em suas ausências e seus impedimentos, na forma do regimento interno.
 § 4º Em caso de vacância, a função será exercida pelo respectivo suplente durante o período remanescente.
@@ -235,7 +235,7 @@ XIII - indicar representantes das carreiras das administrações tributárias pa
 XIV - aprovar a avaliação quinquenal de que trata o inciso V do
 § 1º do art. 2º desta Lei Complementar;
 XV - aprovar a aplicação de sanção disciplinar ou o afastamento preventivo de empregado público;
-XVI - aprovar os planos elaborados pela Diretoria Executiva para o exercício das atividades sob sua responsabilidade, acompanhar a sua execução e avaliar os resultados alcançados, conforme periodicidade definida no regimento interno; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 8/104
+XVI - aprovar os planos elaborados pela Diretoria Executiva para o exercício das atividades sob sua responsabilidade, acompanhar a sua execução e avaliar os resultados alcançados, conforme periodicidade definida no regimento interno;
 XVII - aprovar a indicação de servidores a que se refere o inciso XVI do
 § 1º do art. 2º desta Lei Complementar para atuarem no CGIBS;
 XVIII - estabelecer diretrizes operacionais e regras para o registro e o controle administrativo das informações relativas às atividades sujeitas à tributação;
@@ -272,7 +272,7 @@ Art. 15. O Segundo Vice-Presidente substitui, na forma do regimento interno do C
 
 Subseção II Da Eleição do Presidente e dos Vice-Presidentes
 
-Art. 16. O Presidente e os Vice-Presidentes serão eleitos dentre os membros titulares do Conselho Superior do CGIBS, para o exercício da função pelo prazo de 2 (dois) anos, na forma prevista no regimento interno e obedecidas as condições desta Lei Complementar. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 9/104
+Art. 16. O Presidente e os Vice-Presidentes serão eleitos dentre os membros titulares do Conselho Superior do CGIBS, para o exercício da função pelo prazo de 2 (dois) anos, na forma prevista no regimento interno e obedecidas as condições desta Lei Complementar.
 § 1º Vagando a Presidência ou qualquer das cadeiras da Vice-Presidência, observado o
 § 3º deste artigo, será realizada nova eleição.
 § 2º É vedada a reeleição para o mesmo cargo na eleição imediatamente subsequente, ressalvada a hipótese de a eleição anterior ter ocorrido para o exercício de mandato com período igual ou inferior a 12 (doze) meses.
@@ -309,7 +309,7 @@ c) as entidades de representação dos contribuintes;
 VIII - receber, analisar e responder, em meio eletrônico, as manifestações encaminhadas pela sociedade;
 IX - coordenar a integração das ações das diversas diretorias no relacionamento com o público interno e externo; e
 X - realizar as atividades de ouvidoria, inclusive o recebimento, a análise e o encaminhamento às demais instâncias do CGIBS dos pedidos de simplificação e desburocratização de serviços, das reclamações e das sugestões.
-Parágrafo único. Além dos servidores dos entes federativos em atuação no CGIBS, atuarão na atividade de ouvidoria 3 (três) representantes da sociedade civil escolhidos conforme critérios estabelecidos no regimento interno. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 10/104
+Parágrafo único. Além dos servidores dos entes federativos em atuação no CGIBS, atuarão na atividade de ouvidoria 3 (três) representantes da sociedade civil escolhidos conforme critérios estabelecidos no regimento interno.
 
 Subseção V Da Corregedoria
 
@@ -341,7 +341,7 @@ I - fiscalizar os atos dos administradores e verificar o cumprimento dos seus de
 II - opinar sobre o relatório anual da administração, fazendo constar do seu parecer as informações complementares que julgar necessárias ou úteis à deliberação do Conselho Superior do CGIBS;
 III - comunicar à chefia da unidade responsável os atos ilícitos de que vier a ter conhecimento e, caso as providências necessárias para a proteção dos interesses do CGIBS não sejam tomadas, representar ao Conselho Superior do CGIBS e sugerir as providências cabíveis;
 IV - analisar periodicamente o balancete e as demais demonstrações fiscais e financeiras do CGIBS;
-V - examinar e opinar sobre as demonstrações fiscais e financeiras do exercício financeiro do CGIBS; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 11/104
+V - examinar e opinar sobre as demonstrações fiscais e financeiras do exercício financeiro do CGIBS; e
 VI - fornecer aos Estados, ao Distrito Federal ou aos Municípios, sempre que solicitadas, informações sobre matérias de sua competência, nos termos do regimento interno.
 
 Seção IV Da Diretoria Executiva
@@ -371,7 +371,7 @@ VIII - propor diretrizes para as atividades administrativas relacionadas às hip
 IX - planejar, gerir e supervisionar a execução das atividades relativas aos atos necessários ao controle centralizado das inscrições em dívida ativa, mediante sistema único;
 X - planejar, gerir e supervisionar a execução das atividades relativas à concepção, à implementação, à coordenação, ao controle e à avaliação de mecanismos, de instrumentos e de sistemas de informática a serem utilizados pelo CGIBS;
 XI - preparar e encaminhar para aprovação do Conselho Superior do CGIBS as minutas dos atos decisórios que lhe competirem;
-XII - coordenar a execução de planos, de programas, de projetos, de operações e de ações relacionados ao controle fiscal sobre as atividades econômicas sujeitas à tributação, bem como o desenvolvimento de métodos, técnicas e procedimentos para o monitoramento e o controle fiscal de setores ou atividades econômicas, inclusive por meio de auditoria digital; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 12/104
+XII - coordenar a execução de planos, de programas, de projetos, de operações e de ações relacionados ao controle fiscal sobre as atividades econômicas sujeitas à tributação, bem como o desenvolvimento de métodos, técnicas e procedimentos para o monitoramento e o controle fiscal de setores ou atividades econômicas, inclusive por meio de auditoria digital;
 XIII - coordenar a execução das atividades relacionadas à padronização dos procedimentos de fiscalização e análise dos pedidos de restituição;
 XIV - planejar, gerir e promover os intercâmbios entre as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, bem como com órgãos externos, tais como o Ministério Público, a União e o Poder Judiciário, com vistas ao combate aos crimes contra a ordem tributária;
 XV - planejar, gerir e supervisionar a execução das atividades pertinentes à uniformização da interpretação e da aplicação da legislação do IBS;
@@ -405,7 +405,7 @@ Art. 28. O Diretor-Executivo será eleito pelo Conselho Superior do CGIBS.
 Art. 29. Incumbe ao Diretor-Executivo:
 I - convocar e presidir as reuniões da Diretoria Executiva;
 II - planejar, gerir, supervisionar e coordenar as atividades a serem executadas pelas diretorias técnicas e administrativas, inclusive dirimir eventuais conflitos de competência entre elas;
-III - fazer a interlocução com o Conselho Superior do CGIBS; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 13/104
+III - fazer a interlocução com o Conselho Superior do CGIBS;
 IV - promover a integração com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios; e
 V - desempenhar outras atribuições previstas no regimento interno do CGIBS.
 
@@ -441,7 +441,7 @@ VIII - realizar as estimativas de projeções de receita e impacto na arrecadaç
 Art. 33. Compete à Diretoria de Tributação:
 I - elaborar a proposta de regulamento único do IBS;
 II - elaborar as propostas dos atos normativos conjuntos com o Poder Executivo federal, em matéria de interesse comum do IBS e da CBS;
-III - gerir e coordenar as atividades inerentes à uniformização da interpretação e da aplicação da legislação tributária do IBS; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 14/104
+III - gerir e coordenar as atividades inerentes à uniformização da interpretação e da aplicação da legislação tributária do IBS;
 IV - divulgar e disponibilizar a legislação tributária, preferencialmente por meio eletrônico;
 V - manifestar-se, por meio de notas técnicas, sobre o mérito das proposições legislativas em tramitação no Congresso Nacional que versem sobre administração tributária, tributação, fiscalização, arrecadação, crédito tributário e cobrança, em matérias de interesse do CGIBS;
 VI - emitir pareceres em soluções de consultas sobre tributação, fiscalização, arrecadação, crédito tributário e cobrança administrativa;
@@ -479,7 +479,7 @@ I - exercer a consultoria e o assessoramento jurídico do CGIBS, ressalvadas as 
 II - coordenar as atividades de cobrança judicial, a serem desempenhadas pelas Procuradorias dos Estados, do Distrito Federal e dos Municípios;
 III - coordenar as atividades de cobrança extrajudicial de débitos inscritos em dívida ativa, após o prazo de que trata o
 § 4º do art. 2º desta Lei Complementar;
-IV - exercer a representação judicial e a defesa de agentes públicos do CGIBS quanto a atos praticados no exercício regular de suas atribuições constitucionais, legais ou regulamentares, no interesse público, desde que haja solicitação expressa do interessado e se trate de ato praticado no exercício de cargo, emprego ou função no CGIBS e em razão dele, mesmo que o agente 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 15/104 não mais o ocupe no momento de sua representação judicial, e desde que o ato não contrarie entendimento do CGIBS à época em que foi praticado;
+IV - exercer a representação judicial e a defesa de agentes públicos do CGIBS quanto a atos praticados no exercício regular de suas atribuições constitucionais, legais ou regulamentares, no interesse público, desde que haja solicitação expressa do interessado e se trate de ato praticado no exercício de cargo, emprego ou função no CGIBS e em razão dele, mesmo que o agente não mais o ocupe no momento de sua representação judicial, e desde que o ato não contrarie entendimento do CGIBS à época em que foi praticado;
 V - realizar a inscrição em dívida ativa, no caso de delegação ao CGIBS, nos termos do inciso VII do
 § 1º do art. 2º desta Lei Complementar.
 
@@ -513,7 +513,7 @@ II - demonstrativos da execução das:
 a) receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar;
 b) despesas, por categoria econômica e grupo de natureza da despesa, discriminando a dotação inicial, a dotação para o exercício e as despesas empenhadas e liquidadas, no bimestre e no exercício; e
 c) despesas, por função e subfunção; e
-III - demonstrativos dos restos a pagar. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 16/104
+III - demonstrativos dos restos a pagar.
 
 Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gestão fiscal de que tratam os arts. 54 e 55 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), adaptado às especificidades do CGIBS, com os seguintes demonstrativos:
 I - despesa total com pessoal;
@@ -552,7 +552,7 @@ Parágrafo único. A prestação de contas anual referente ao exercício finance
 CAPÍTULO VI DO ORÇAMENTO DO CGIBS
 
 Art. 45. As receitas e as despesas orçamentárias do CGIBS constarão de demonstrativos próprios sujeitos à aprovação do Conselho Superior do CGIBS e ao controle interno e externo nos termos desta Lei Complementar.
-§ 1º A receita orçamentária de que trata o caput deste artigo não se refere à parcela das receitas custodiadas pelo CGIBS que pertencem aos sujeitos passivos ou aos Estados, ao Distrito Federal e aos Municípios. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 17/104
+§ 1º A receita orçamentária de que trata o caput deste artigo não se refere à parcela das receitas custodiadas pelo CGIBS que pertencem aos sujeitos passivos ou aos Estados, ao Distrito Federal e aos Municípios.
 § 2º As despesas orçamentárias do CGIBS não constarão dos demonstrativos e dos relatórios dos Estados, do Distrito Federal e dos Municípios previstos na Lei nº 4.320, de 17 de março de 1964, e na Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).
 
 Art. 46. Constituem receitas do CGIBS:
@@ -585,7 +585,7 @@ II - poderão ser abertos créditos especiais, mediante aprovação pelos Podere
 
 Art. 48. O CGIBS será financiado:
 I - pela retenção de valor equivalente ao percentual fixado nos termos do inciso I do caput do art. 47 desta Lei Complementar sobre o produto da arrecadação corrente do IBS destinado mensalmente a cada ente federativo; e
-II - por outras receitas, nos termos dos incisos II e III do caput do art. 46 desta Lei Complementar. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 18/104
+II - por outras receitas, nos termos dos incisos II e III do caput do art. 46 desta Lei Complementar.
 § 1º Observados os critérios previstos no art. 47 desta Lei Complementar, a retenção de que trata o inciso I do caput deste artigo independe de autorização legislativa no orçamento dos Estados, do Distrito Federal e dos Municípios.
 § 2º O orçamento do CGIBS poderá prever a destinação de montante equivalente a até 0,05% (cinco centésimos por cento) da arrecadação corrente do IBS a programas de incentivo à cidadania fiscal por meio de estímulo à exigência, pelos consumidores, da emissão de documentos fiscais, conforme dispuser o regulamento único do imposto.
 § 3º Caso a retenção de que trata o inciso I do caput deste artigo resulte em montante superior ao previsto no orçamento do CGIBS, o Conselho Superior do CGIBS deliberará sobre a destinação do excedente, podendo ser reservada parcela para o financiamento do orçamento de exercícios financeiros subsequentes.
@@ -619,7 +619,7 @@ d) 0,5% (cinco décimos por cento) no exercício financeiro de 2032.
 
 Art. 52. O orçamento do CGIBS para os exercícios financeiros de 2025 a 2028 será composto dos montantes previstos no art. 484 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescidos das demais receitas previstas para o CGIBS no período.
 § 1º O orçamento do CGIBS para os exercícios financeiros de 2026 a 2028 será proposto pelo Conselho Superior do CGIBS e aprovado nos termos dos §§ 2º a 4º do art. 47 desta Lei Complementar, não se aplicando o limite de valor previsto no referido artigo.
-§ 2º Nos exercícios financeiros de 2029 a 2032, o valor da receita do IBS destinada à manutenção do CGIBS, prevista na proposta de orçamento do CGIBS de que trata o inciso II do caput do art. 47, não poderá ser superior à aplicação do percentual previsto nas alíneas “a” a “d” do inciso II do caput do art. 51 desta Lei Complementar sobre a estimativa de arrecadação do IBS para o respectivo exercício. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 19/104
+§ 2º Nos exercícios financeiros de 2029 a 2032, o valor da receita do IBS destinada à manutenção do CGIBS, prevista na proposta de orçamento do CGIBS de que trata o inciso II do caput do art. 47, não poderá ser superior à aplicação do percentual previsto nas alíneas “a” a “d” do inciso II do caput do art. 51 desta Lei Complementar sobre a estimativa de arrecadação do IBS para o respectivo exercício.
 § 3º Compete ao Conselho Superior do CGIBS a aprovação da proposta orçamentária do CGIBS para o exercício financeiro de 2025 e de seus créditos suplementares e especiais.
 § 4º O CGIBS publicará no Diário Oficial da União, por meio de resolução, o orçamento do CGIBS para o exercício financeiro de 2025 no prazo de até 120 (cento e vinte) dias, contado da data da eleição do Presidente do CGIBS. Produção de efeitos
 § 5º O orçamento do CGIBS para o ano de 2026 será proposto pelo Conselho Superior em até 120 (cento e vinte) dias contados da data de eleição do Presidente do CGIBS, não se aplicando o prazo previsto no caput do art. 47 desta Lei Complementar. Produção de efeitos
@@ -656,7 +656,7 @@ VIII - da motivação;
 IX - da oficialidade;
 X - da cooperação;
 XI - da eficiência;
-XII - do formalismo moderado; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 20/104
+XII - do formalismo moderado;
 XIII - da razoável duração do processo;
 XIV - da segurança jurídica;
 XV - do devido processo legal; e
@@ -696,7 +696,7 @@ Art. 62. Na contagem dos prazos processuais previstos neste Título, serão cons
 I - superior a 60 (sessenta) minutos, ininterruptos ou não, se ocorrida entre 6h00 e 23h00; ou
 II - entre 23h00 e 24h00.
 
-Art. 63. Consideram-se realizados os atos processuais por meio eletrônico no dia e na hora do seu envio ao sistema, o que deverá ser comprovado ao interessado mediante fornecimento de protocolo eletrônico. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 21/104
+Art. 63. Consideram-se realizados os atos processuais por meio eletrônico no dia e na hora do seu envio ao sistema, o que deverá ser comprovado ao interessado mediante fornecimento de protocolo eletrônico.
 Parágrafo único. Quando o ato processual tiver que ser praticado por meio de petição eletrônica, serão considerados tempestivos os efetivados até as 24h do último dia.
 
 Subseção III Das Intimações
@@ -733,7 +733,7 @@ III - subscrito resposta a consulta formulada pelo sujeito passivo relativa a ma
 IV - interesse econômico ou financeiro, por si ou por seu cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau;
 V - sido ou ainda seja contabilista, advogado, consultor ou empregado do sujeito passivo;
 VI - vínculo, como sócio ou como empregado, com a sociedade de advogados, de contabilistas ou economistas, ou com a empresa de assessoria fiscal ou tributária, a que esteja vinculado o mandatário constituído por quem figure como parte no processo administrativo tributário; ou
-VII - vínculo, na condição de sócio ou membro de conselho, de direção ou de administração de pessoa jurídica parte no processo, por si, por seu cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 22/104 § 10. O julgador deverá apresentar ao Presidente da Câmara ou Turma de Julgamento, no início de cada novo mandato, lista de empresas com as quais manteve ou mantém algum tipo de relação que possa enquadrar-se nas hipóteses previstas no
+VII - vínculo, na condição de sócio ou membro de conselho, de direção ou de administração de pessoa jurídica parte no processo, por si, por seu cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau. § 10. O julgador deverá apresentar ao Presidente da Câmara ou Turma de Julgamento, no início de cada novo mandato, lista de empresas com as quais manteve ou mantém algum tipo de relação que possa enquadrar-se nas hipóteses previstas no
 § 9º deste artigo e atualizá-la sempre que necessário. § 11. O impedimento poderá também ser declarado durante a sessão de julgamento, hipótese em que o processo será redistribuído para outra Câmara ou Turma de Julgamento, devendo essa circunstância ser consignada em ata. § 12. As irregularidades, as incorreções e as omissões diferentes das referidas neste artigo não importarão nulidade e serão sanadas quando resultarem em prejuízo para o sujeito passivo, exceto se este lhes houver dado causa ou quando não influírem na solução do litígio. § 13. Na hipótese de ocorrer erro na identificação do sujeito passivo em lançamento de ofício que contenha múltiplos autuados, não será declarada a nulidade da exigência fiscal se pelo menos um deles estiver corretamente identificado, excluindo-se do polo passivo aquele erroneamente qualificado.
 
 CAPÍTULO II DO CONTENCIOSO ADMINISTRATIVO TRIBUTÁRIO
@@ -766,7 +766,7 @@ c) não contenham elementos essenciais à identificação do sujeito passivo, in
 § 4º Não caberá recurso da decisão colegiada a que se refere o
 § 3º deste artigo que decidir pela intempestividade.
 § 5º Verificadas as irregularidades da representação a que se referem o inciso II e a alínea “c” do inciso III do
-§ 1º deste artigo, o contribuinte será intimado para saná-las em 5 (cinco) dias, sob pena de preclusão e nulidade dos atos praticados e dos 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 23/104 que lhes forem consequentes.
+§ 1º deste artigo, o contribuinte será intimado para saná-las em 5 (cinco) dias, sob pena de preclusão e nulidade dos atos praticados e dos que lhes forem consequentes.
 
 Seção II Das Diligências
 
@@ -804,7 +804,7 @@ V - as súmulas editadas pelo CGIBS, nos termos do
 VI - as decisões da Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS de que trata o art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025.
 Parágrafo único. Ressalvado o disposto neste artigo, é vedado às autoridades julgadoras, no âmbito do processo administrativo tributário, afastar a aplicação ou deixar de observar a legislação tributária sob o fundamento de inconstitucionalidade ou ilegalidade.
 
-Seção V 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 24/104 Das Espécies Recursais
+Seção V Das Espécies Recursais
 
 Subseção I Disposições Preliminares
 
@@ -841,7 +841,7 @@ VI - no processo administrativo sujeito ao rito sumário, nos termos do art. 76 
 § 4º O valor de que trata o inciso I do
 § 3º deste artigo deverá ser único e estabelecido em caráter nacional.
 § 5º Na hipótese prevista no inciso III do
-§ 3º deste artigo, a representação fazendária deverá manifestar-se previamente à decisão. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 25/104
+§ 3º deste artigo, a representação fazendária deverá manifestar-se previamente à decisão.
 § 6º Ato do CGIBS poderá estabelecer outras hipóteses de não cabimento do recurso de ofício, em razão da controvérsia da matéria ou da natureza da infração.
 
 Subseção III Do Recurso Voluntário
@@ -878,7 +878,7 @@ II - o sujeito passivo.
 
 Seção VII Do Incidente de Uniformização Relativo à Legislação Específica do IBS
 
-Art. 81. É cabível a proposição de incidente de uniformização perante a Câmara Superior do IBS em relação à legislação específica do IBS: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 26/104
+Art. 81. É cabível a proposição de incidente de uniformização perante a Câmara Superior do IBS em relação à legislação específica do IBS:
 I - de matérias repetitivas, quando houver julgamentos reiterados sobre a mesma questão de direito;
 II - da decisão de segunda instância que deixar de aplicar os provimentos vinculantes previstos no art. 74 desta Lei Complementar.
 § 1º O julgamento do incidente de uniformização de matérias repetitivas fixará tese sobre a matéria, e caberá à Câmara Superior do IBS editar súmula que terá caráter de provimento vinculante a partir de sua publicação no Diário Eletrônico do CGIBS.
@@ -918,7 +918,7 @@ Art. 88. Compete aos Estados, ao Distrito Federal e aos Municípios, de forma in
 § 2º As partes deverão ser intimadas da inclusão do processo administrativo em pauta de julgamento com, no mínimo, 10 (dez) dias de antecedência.
 
 Art. 89. O contencioso administrativo será estruturado, no âmbito das competências do CGIBS, nas seguintes instâncias:
-I - primeira instância de julgamento; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 27/104
+I - primeira instância de julgamento;
 II - segunda instância; e
 III - instância de uniformização da jurisprudência do IBS relativa à legislação específica do IBS.
 § 1º As instâncias de que tratam os incisos I e II do caput deste artigo serão organizadas por unidade federativa estadual e distrital.
@@ -954,7 +954,7 @@ III - pelo Presidente, que votará apenas em caso de empate.
 § 6º Será selecionado igual número de suplentes para atuar na ausência do membro efetivo.
 § 7º O funcionamento das Câmaras de Julgamento de primeira instância será disciplinado em ato do CGIBS.
 
-Seção III 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 28/104 Da Segunda Instância de Julgamento
+Seção III Da Segunda Instância de Julgamento
 
 Art. 93. Compete à segunda instância do contencioso administrativo do IBS julgar os seguintes recursos contra decisão de primeira instância:
 I - recurso de ofício; e
@@ -988,7 +988,7 @@ Art. 96. A instância de uniformização da jurisprudência relativa à legisla�
 I - por 4 (quatro) servidores indicados pelas administrações tributárias dos Estados e do Distrito Federal;
 II - por 4 (quatro) servidores indicados pelas administrações tributárias dos Municípios e do Distrito Federal;
 III - por 8 (oito) representantes dos contribuintes; e
-IV - pelo Presidente, que votará apenas em caso de empate. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 29/104
+IV - pelo Presidente, que votará apenas em caso de empate.
 § 2º Os representantes dos contribuintes serão nomeados, na forma estabelecida em ato do CGIBS, dentre pessoas indicadas por entidades representativas de categorias econômicas e aprovadas em processo seletivo público para avaliação de conhecimentos e de experiência em matéria tributária.
 § 3º A presidência da Câmara Superior do IBS será exercida, de forma alternada, por servidor indicado pelas administrações tributárias dos Estados e do Distrito Federal ou dos Municípios, na forma estabelecida em ato do CGIBS.
 § 4º Os integrantes da Câmara Superior do IBS serão escolhidos dentre servidores que tenham integrado as Câmaras Julgadoras de segunda instância dos contenciosos administrativos tributários estadual, distrital e municipal por, no mínimo, 2 (dois) mandatos.
@@ -1023,7 +1023,7 @@ Art. 101. Perderá o mandato o membro julgador que:
 I - empregar meios ilícitos para procrastinar o exame e o julgamento de processos, ou praticar, no exercício da função, quaisquer atos de favorecimento; ou
 II - incorrer em falta grave, prevista em ato do CGIBS.
 § 1º Para os fins deste artigo, observado o devido processo administrativo em que sejam assegurados a ampla defesa e o contraditório, caberá:
-I - ao Presidente da Câmara Superior submeter a proposta de perda de mandato do membro julgador ao Presidente do CGIBS; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 30/104
+I - ao Presidente da Câmara Superior submeter a proposta de perda de mandato do membro julgador ao Presidente do CGIBS;
 II - ao Presidente do CGIBS decidir sobre a proposta de perda de mandato do membro julgador.
 § 2º Não caberá recurso da decisão a que se refere o inciso II do
 § 1º deste artigo.
@@ -1055,7 +1055,7 @@ I - o valor do IBS extinto e que não tenha sido apropriado como crédito relati
 a) tributada pelo regime regular do IBS e sujeita à alíquota-padrão ou à alíquota reduzida em 30% (trinta por cento) ou em 60% (sessenta por cento);
 b) tributada pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 14 de dezembro de 2006; e
 c) tributada nos termos dos regimes específicos de tributação relativos a: 1. bens imóveis; 2. bares e restaurantes; 3. hotelaria, parques de diversão e parques temáticos; 4. transporte coletivo de passageiros intermunicipal e interestadual rodoviário, ferroviário ou hidroviário; 5. transporte aéreo regional coletivo de passageiros ou de carga; e 6. fundo de investimento contribuinte do IBS no regime regular;
-II - o valor do IBS extinto no âmbito dos demais regimes específicos de tributação e destinado ao Estado, ao Distrito Federal ou ao Município nos termos do art. 113 desta Lei Complementar; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 31/104
+II - o valor do IBS extinto no âmbito dos demais regimes específicos de tributação e destinado ao Estado, ao Distrito Federal ou ao Município nos termos do art. 113 desta Lei Complementar; e
 III - o valor do IBS extinto e destinado ao Estado, ao Distrito Federal ou ao Município contratante, nas operações e nas importações tributadas nos termos do art. 149-C da Constituição Federal.
 § 1º Para fins do disposto neste artigo:
 I - considera-se como IBS extinto relativo a cada operação:
@@ -1079,7 +1079,7 @@ II - as receitas de IBS extinto advindas da anulação de créditos em decorrên
 § 2º do art. 112 desta Lei Complementar.
 § 5º O disposto no inciso I do
 § 4º deste artigo não se aplica às aquisições realizadas por MEI, que, para fins dos critérios de alocação da receita de que trata este artigo, serão consideradas como consumo final.
-§ 6º A apropriação de crédito de IBS relativo à operação sujeita a regime específico de tributação em que não seja possível aferir diretamente o pagamento pelo fornecedor será feita com base no valor do IBS registrado em documento fiscal eletrônico hábil, idôneo e reconhecido pelo CGIBS e pela RFB. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 32/104
+§ 6º A apropriação de crédito de IBS relativo à operação sujeita a regime específico de tributação em que não seja possível aferir diretamente o pagamento pelo fornecedor será feita com base no valor do IBS registrado em documento fiscal eletrônico hábil, idôneo e reconhecido pelo CGIBS e pela RFB.
 
 Art. 107. O valor da receita inicial de cada ente federativo apurado na forma do art. 106 desta Lei Complementar será ajustado por meio:
 I - da dedução de valor destinado à devolução geral do IBS às pessoas físicas, nos termos da Lei Complementar nº 214, de 16 de janeiro de 2025, o qual será calculado pela aplicação de percentual sobre a receita apurada na forma do art. 106 desta Lei Complementar; e
@@ -1111,7 +1111,7 @@ I - o valor do IBS extinto relativo às operações em que os produtores rurais 
 § 2º deste artigo, sejam adquirentes de bens e serviços utilizados em sua atividade;
 II - o valor do IBS extinto relativo às operações em que os transportadores autônomos de carga pessoas físicas que não sejam contribuintes do IBS, referidos no inciso II do
 § 2º deste artigo, sejam adquirentes de bens e serviços utilizados em sua atividade; e
-III - os valores arrecadados a título de multas e juros de mora de que trata o inciso III do caput deste artigo. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 33/104
+III - os valores arrecadados a título de multas e juros de mora de que trata o inciso III do caput deste artigo.
 § 4º A receita destinada a cada Estado e Município e ao Distrito Federal após os ajustes de que trata este artigo corresponde ao produto da arrecadação do IBS apurada com base nas alíquotas de referência a que se refere o
 § 1º do art. 131 do ADCT.
 
@@ -1146,7 +1146,7 @@ II - reduzir o percentual a que se referem o inciso I do caput do art. 107 e o i
 III - devolver o montante retido em excesso aos entes federativos.
 § 6º O valor devolvido nos termos do inciso III do
 § 5º deste artigo será adicionado:
-I - ao valor de que trata o art. 107 desta Lei Complementar, no caso da dedução a que se refere o inciso I do caput do referido artigo; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 34/104
+I - ao valor de que trata o art. 107 desta Lei Complementar, no caso da dedução a que se refere o inciso I do caput do referido artigo; e
 II - ao valor de que trata o art. 108 desta Lei Complementar, no caso da dedução a que se refere o inciso I do caput do referido artigo.
 § 7º Excepcionalmente, em 2027 e 2028, o CGIBS poderá:
 I - apurar o montante da Receita-Base de cada Estado ou Município ou do Distrito Federal, com base na receita agregada e nos critérios previstos nesta Lei Complementar, dispensada a apuração por operação nos termos previstos neste Capítulo; e
@@ -1163,14 +1163,14 @@ c) nas operações de administração de consórcio e nos respectivos serviços 
 d) nas operações realizadas por meio de fundos de investimentos que não sejam contribuintes do IBS no regime regular, inclusive os Fundos de Investimento em Direitos Creditórios (FIDC): 1. o valor a ser distribuído aos entes federativos corresponde ao IBS extinto nas operações que destinem bens e serviços ao fundo de investimento; e 2. o valor apurado nos termos do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos cotistas do fundo de investimento, na proporção do valor das cotas de cada cotista no final do período de apuração;
 e) nas operações relativas a serviços de gestão e administração de recursos prestados ao investidor, exceto fundo de investimento, o montante de IBS extinto pelos sujeitos passivos será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos investidores, na proporção do IBS incidente sobre essas operações;
 f) nas operações relacionadas ao Fundo de Garantia do Tempo de Serviço (FGTS) o IBS extinto será distribuído aos Estados, ao Distrito Federal e aos Municípios proporcionalmente à participação de cada ente na receita do IBS apurada com base nas alíquotas de referência, nos termos do art. 108 desta Lei Complementar, nos 12 (doze) meses anteriores ao período de apuração;
-g) nas operações decorrentes de serviços de arranjos de pagamento: 1. será apurada a diferença entre o montante do IBS extinto pelos participantes do arranjo de pagamento e o valor do crédito de IBS apropriado pelos tomadores de serviços, nos termos do regime específico de serviços financeiros; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 35/104 2. o valor apurado nos termos do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos tomadores de serviços nas operações que não gerem crédito de IBS, na proporção da remuneração paga ao arranjo de pagamento por cada tomador de serviço;
+g) nas operações decorrentes de serviços de arranjos de pagamento: 1. será apurada a diferença entre o montante do IBS extinto pelos participantes do arranjo de pagamento e o valor do crédito de IBS apropriado pelos tomadores de serviços, nos termos do regime específico de serviços financeiros; e 2. o valor apurado nos termos do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos tomadores de serviços nas operações que não gerem crédito de IBS, na proporção da remuneração paga ao arranjo de pagamento por cada tomador de serviço;
 h) nas operações de liquidação antecipada de recebíveis de arranjos de pagamento: 1. será apurada a diferença entre o montante do IBS extinto em decorrência do desconto aplicado na liquidação antecipada, inclusive pelo FIDC e pelos demais fundos de investimento que sejam contribuintes do IBS, e o valor do crédito de IBS apropriado pelos tomadores dos serviços de liquidação antecipada de recebíveis, nos termos do regime específico de serviços financeiros; e 2. o valor apurado na forma do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos tomadores dos serviços de liquidação antecipada de recebíveis nas operações que não tenham gerado crédito de IBS, na proporção do valor do IBS incidente sobre essas operações;
 i) nas operações relacionadas às atividades das entidades administradoras de mercados organizados, infraestruturas de mercado e depositárias centrais: 1. será apurada a diferença entre o montante do IBS extinto pelos sujeitos passivos e o valor do crédito de IBS apropriado pelos adquirentes dos serviços, nos termos do regime específico de serviços financeiros; e 2. o valor apurado na forma do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos adquirentes dos serviços nas operações que não tenham gerado creditamento, na proporção do valor do IBS incidente sobre essas operações;
 j) nas operações de seguros e resseguros e nos respectivos serviços de intermediação: 1. será apurada a diferença entre o montante do IBS extinto pelos sujeitos passivos e o valor do crédito de IBS apropriado pelos adquirentes dos serviços de seguro, resseguro e intermediação de seguros e resseguros, nos termos do regime específico de serviços financeiros; e 2. o valor apurado na forma do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos adquirentes dos serviços de seguro e resseguro nas operações que não gerem direito a creditamento, na proporção do valor do prêmio pago;
 k) nas operações relacionadas a previdência complementar e a seguro de pessoas com cobertura por sobrevivência e nos respectivos serviços de intermediação, o montante do IBS extinto pelos sujeitos passivos será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos participantes ou segurados, na proporção da soma: 1. das contribuições ou prêmios para a entidade de previdência complementar ou seguradora, deduzida da parcela destinada à constituição de provisões ou reservas técnicas; e 2. dos encargos do fundo decorrentes da estruturação e da manutenção de planos de previdência e seguro de pessoas com cobertura por sobrevivência;
 l) nas operações de capitalização e nos respectivos serviços de intermediação: 1. será apurada a diferença entre o montante do IBS extinto pelos sujeitos passivos e o valor do crédito de IBS apropriado pelos adquirentes de títulos de capitalização e de serviços de intermediação de títulos de capitalização, nos termos do regime específico de serviços financeiros; e 2. o valor apurado na forma do item 1 desta alínea será distribuído na proporção do valor arrecadado com o pagamento dos títulos de capitalização, nas operações que não tenham gerado crédito de IBS, aos Estados, ao Distrito Federal e aos Municípios: 2.1. do domicílio principal dos adquirentes dos títulos de capitalização; ou 2.2. do local onde o título de capitalização foi comercializado, quando, nos termos de norma do órgão regulador competente, o subscritor não for obrigado a se identificar por ocasião da aquisição;
 m) nas operações de serviços de ativos virtuais: 1. será apurada a diferença entre o montante do IBS extinto pelos sujeitos passivos e o valor do crédito de IBS apropriado pelos adquirentes de serviços de ativos virtuais, nos termos do regime específico de serviços financeiros; e 2. o valor apurado na forma do item 1 desta alínea será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos adquirentes dos serviços de ativos virtuais nas operações em que não tenha sido apropriado crédito, na proporção do valor do IBS incidente sobre essas operações; e
-n) nas operações que destinem bens e serviços, exceto serviços de administração e operacionalização, aos fundos garantidores e executores de políticas públicas previstos em lei, salvo o FGTS: 1. no caso de fundo que tenha como cotistas exclusivamente a administração pública direta, as autarquias e as fundações públicas de um único ente federativo, será aplicado o regime previsto no art. 149-C da Constituição Federal; 2. nos casos não abarcados no item 1, e desde que o fundo tenha seu patrimônio dividido em cotas, o IBS extinto será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos cotistas do fundo, na proporção do valor das cotas de cada cotista; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 36/104 3. nos casos não abarcados no item 1, e desde que o fundo não tenha o seu patrimônio dividido em cotas, o IBS extinto será distribuído aos Estados, ao Distrito Federal e aos Municípios proporcionalmente à participação de cada ente na receita do IBS apurada com base nas alíquotas de referência, nos termos do art. 108 desta Lei Complementar, nos 12 (doze) meses anteriores ao período de apuração;
+n) nas operações que destinem bens e serviços, exceto serviços de administração e operacionalização, aos fundos garantidores e executores de políticas públicas previstos em lei, salvo o FGTS: 1. no caso de fundo que tenha como cotistas exclusivamente a administração pública direta, as autarquias e as fundações públicas de um único ente federativo, será aplicado o regime previsto no art. 149-C da Constituição Federal; 2. nos casos não abarcados no item 1, e desde que o fundo tenha seu patrimônio dividido em cotas, o IBS extinto será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos cotistas do fundo, na proporção do valor das cotas de cada cotista; e 3. nos casos não abarcados no item 1, e desde que o fundo não tenha o seu patrimônio dividido em cotas, o IBS extinto será distribuído aos Estados, ao Distrito Federal e aos Municípios proporcionalmente à participação de cada ente na receita do IBS apurada com base nas alíquotas de referência, nos termos do art. 108 desta Lei Complementar, nos 12 (doze) meses anteriores ao período de apuração;
 III - nas operações e, caso venham a ser permitidas, nas importações de serviços prestados por planos de assistência à saúde, bem como nos serviços de intermediação vinculados aos planos de assistência à saúde:
 a) será apurada a diferença entre o montante do IBS extinto pelos sujeitos passivos e o valor do crédito apropriado pelos contribuintes que forem tributados pelo regime regular; e
 b) o valor apurado na forma da alínea “a” deste inciso será distribuído aos Estados, ao Distrito Federal e aos Municípios do domicílio principal dos titulares dos planos de assistência à saúde, na proporção dos prêmios e das contraprestações correspondentes à cobertura do titular e de seus dependentes relativos às operações que não tenham gerado crédito de IBS;
@@ -1195,7 +1195,7 @@ Art. 114. De 1º de janeiro de 2029 a 31 de dezembro de 2077, o valor retido nos
 
 Art. 115. Para fins do cálculo da receita média de referência de cada Estado e Município e do Distrito Federal, serão consideradas:
 I - para os Estados:
-a) a arrecadação com o ICMS, após a aplicação do disposto na alínea “a” do inciso IV do caput do art. 158 da Constituição Federal; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 37/104
+a) a arrecadação com o ICMS, após a aplicação do disposto na alínea “a” do inciso IV do caput do art. 158 da Constituição Federal; e
 b) a receita com contribuições destinadas ao financiamento de fundos estaduais em funcionamento em 30 de abril de 2023 e estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado relativo ao ICMS, após a aplicação, quando couber, do disposto na alínea “a” do inciso IV do caput do art. 158 da Constituição Federal;
 II - para o Distrito Federal:
 a) a arrecadação com o ICMS; e
@@ -1230,7 +1230,7 @@ II - da média dos valores anuais de que trata a alínea “b” do inciso I do 
 Art. 116. Competem ao CGIBS a realização dos cálculos e a distribuição aos Estados, ao Distrito Federal e aos Municípios dos valores de que trata este Capítulo.
 § 1º O cálculo da participação de cada ente federativo nos valores de que trata este artigo será divulgado pelo CGIBS até o dia 31 de agosto de 2027, mediante:
 I - publicação no Diário Oficial da União do coeficiente de participação de cada Estado e Município e do Distrito Federal; e
-II - divulgação, nos termos previstos em ato do CGIBS, do detalhamento, para cada ente federativo: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 38/104
+II - divulgação, nos termos previstos em ato do CGIBS, do detalhamento, para cada ente federativo:
 a) dos valores a que se referem as alíneas “a” e “b” dos incisos I, II e III do caput do art. 115 desta Lei Complementar, utilizados nos cálculos de seu coeficiente de participação, com especificação das fontes de onde foram obtidos; e
 b) dos cálculos realizados.
 § 2º Na apuração da receita média de referência dos entes federativos de que trata este Capítulo, serão utilizadas as informações do Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi), sem prejuízo da utilização de dados fiscais informados nos balanços oficiais dos entes federativos.
@@ -1261,7 +1261,7 @@ II - a receita média de referência ajustada a que se refere o inciso II do cap
 § 2º De 2029 a 2033, para fins do cálculo da média da receita do IBS a que se refere o inciso I do caput deste artigo, os valores da receita relativos a meses do ano-calendário anterior serão multiplicados pela razão entre:
 I - a alíquota de referência do ano corrente da respectiva esfera da Federação; e
 II - a alíquota de referência do ano anterior da respectiva esfera da Federação, considerando-se, para o ano de 2028, a alíquota de 0,05% (cinco centésimos por cento).
-§ 3º Para fins do disposto neste artigo, entende-se por receita média de referência ajustada de cada Estado o menor valor entre: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 39/104
+§ 3º Para fins do disposto neste artigo, entende-se por receita média de referência ajustada de cada Estado o menor valor entre:
 I - a receita média de referência do Estado apurada na forma do art. 115 desta Lei Complementar; e
 II - 3 (três) vezes o resultado da multiplicação entre:
 a) a receita média de referência do conjunto dos Estados dividida pela média da população do conjunto dos Estados entre 2019 e 2026; e
@@ -1302,7 +1302,7 @@ c) do montante correspondente à devolução específica de IBS a pessoas físic
 Seção II deste Capítulo.
 § 2º Do montante apurado na forma do caput deste artigo, será deduzida a parcela destinada ao Fundo de Combate à Pobreza do Estado, no percentual previsto na respectiva legislação.
 § 3º Do montante apurado na forma do
-§ 2º deste artigo, será deduzida a parcela pertencente aos Municípios do Estado, nos termos da alínea “b” do inciso IV do caput do art. 158 da Constituição Federal, a qual será distribuída nos termos do art. 128 desta 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 40/104 Lei Complementar.
+§ 2º deste artigo, será deduzida a parcela pertencente aos Municípios do Estado, nos termos da alínea “b” do inciso IV do caput do art. 158 da Constituição Federal, a qual será distribuída nos termos do art. 128 desta Lei Complementar.
 § 4º Do montante apurado na forma do
 § 3º deste artigo e do valor destinado ao Fundo de Combate à Pobreza do Estado, serão deduzidos:
 I - o percentual previsto no inciso II do caput do art. 212-A da Constituição Federal destinado ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb); e
@@ -1345,7 +1345,7 @@ c) do montante correspondente à devolução específica de IBS a pessoas físic
 § 1º Caso a soma dos valores de que trata o inciso II do caput deste artigo relativos a cada período de apuração exceda, no período, à Receita-Base do Distrito Federal no período de apuração, acrescida dos valores de que trata o inciso I do caput deste artigo, o montante excedente deverá ser deduzido nos períodos de determinação subsequentes da receita distribuída nos termos da
 
 Seção II deste Capítulo.
-§ 2º Do montante apurado na forma do caput deste artigo, será deduzida a parcela destinada ao Fundo de Combate e Erradicação da Pobreza do Distrito Federal, no percentual previsto na respectiva legislação. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 41/104
+§ 2º Do montante apurado na forma do caput deste artigo, será deduzida a parcela destinada ao Fundo de Combate e Erradicação da Pobreza do Distrito Federal, no percentual previsto na respectiva legislação.
 § 3º Do montante apurado na forma do
 § 2º deste artigo e do valor destinado ao Fundo de Combate e Erradicação da Pobreza do Distrito Federal serão deduzidos:
 I - o percentual previsto no inciso II do caput do art. 212-A da Constituição Federal, destinado ao Fundeb;
@@ -1386,7 +1386,7 @@ II - o percentual destinado ao financiamento do CGIBS.
 § 3º O CGIBS deverá distribuir, de forma segregada, os recursos de que trata este artigo.
 
 Art. 123. Da receita destinada a cada Estado, nos termos da alínea “b” do inciso I do caput do art. 121 desta Lei Complementar, a cada período de determinação do montante do produto da arrecadação a ser distribuído, será deduzida parcela destinada ao Fundo de Combate à Pobreza do Estado, no percentual previsto na respectiva legislação.
-§ 1º Do montante apurado na forma do caput deste artigo e do valor destinado ao Fundo de Combate à Pobreza do Estado, será deduzido o percentual destinado ao financiamento do CGIBS. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 42/104
+§ 1º Do montante apurado na forma do caput deste artigo e do valor destinado ao Fundo de Combate à Pobreza do Estado, será deduzido o percentual destinado ao financiamento do CGIBS.
 § 2º Os valores apurados na forma do caput deste artigo e os valores destinados ao Fundo de Combate à Pobreza, após a dedução a que se refere o
 § 1º deste artigo, serão transferidos ao Estado no prazo estabelecido no
 § 3º do art. 104 desta Lei Complementar.
@@ -1429,7 +1429,7 @@ Seção III Da Destinação da Receita Distribuída aos Municípios nos Termos d
 Art. 128. O CGIBS transferirá aos Municípios o valor a eles pertencente nos termos da alínea “b” do inciso IV do caput do art. 158 da Constituição Federal, e retido nos termos do
 § 3º do art. 118 desta Lei Complementar, observados os seguintes critérios de distribuição previstos no
 § 2º do art. 158 da Constituição Federal:
-I - 80% (oitenta por cento) na proporção da população; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 43/104
+I - 80% (oitenta por cento) na proporção da população;
 II - 10% (dez por cento) com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos, de acordo com o que dispuser lei estadual;
 III - 5% (cinco por cento) com base em indicadores de preservação ambiental, de acordo com o que dispuser lei estadual;
 IV - 5% (cinco por cento) em montantes iguais para todos os Municípios do Estado.
@@ -1471,7 +1471,7 @@ TÍTULO IV DISPOSIÇÕES RELATIVAS À TRANSIÇÃO DO ICMS
 
 CAPÍTULO I DA CARACTERIZAÇÃO, DA HOMOLOGAÇÃO E DA UTILIZAÇÃO DO SALDO CREDOR DO ICMS
 
-Seção I 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 44/104 Dos Saldos Credores
+Seção I Dos Saldos Credores
 
 Art. 132. Os saldos credores relativos ao ICMS existentes em 31 de dezembro de 2032 serão reconhecidos pelos Estados e pelo Distrito Federal e utilizados pelos contribuintes nos termos deste Capítulo.
 § 1º Para efeito do disposto neste artigo, considera-se saldo credor o valor do imposto previsto no caput deste artigo que:
@@ -1510,7 +1510,7 @@ Seção IV Da Compensação do Saldo Credor do ICMS com o IBS
 Art. 136. Os Estados e o Distrito Federal informarão ao CGIBS, em até 30 (trinta) dias contados da homologação, o valor do saldo credor homologado, a identificação do seu titular e a data de conclusão da compensação a que se refere o art. 137 desta Lei Complementar, observada a seguinte segregação:
 I - créditos das entradas de mercadorias destinadas ao ativo permanente, de que trata o
 § 5º do art. 20 da Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir); e
-II - demais créditos. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 45/104
+II - demais créditos.
 
 Art. 137. O saldo credor informado ao CGIBS, na forma prevista no art. 136 desta Lei Complementar, será utilizado para compensação com o IBS:
 I - quanto aos créditos de que trata o inciso I do caput do art. 136 desta Lei Complementar, pelo prazo remanescente em relação ao previsto no
@@ -1550,7 +1550,7 @@ Art. 142. O contribuinte que possuir em estoque, ao final do dia 31 de dezembro 
 
 Art. 143. O valor a que se refere o art. 142 desta Lei Complementar corresponderá ao montante do ICMS:
 I - retido por substituição tributária, no caso em que o contribuinte tenha adquirido a mercadoria diretamente daquele que efetuou a retenção;
-II - recolhido a título de substituição tributária, no caso em que o próprio contribuinte tenha apurado o imposto devido por ocasião da entrada da mercadoria; ou 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 46/104
+II - recolhido a título de substituição tributária, no caso em que o próprio contribuinte tenha apurado o imposto devido por ocasião da entrada da mercadoria; ou
 III - incidido sobre as operações com a mercadoria, informado nos campos próprios do documento fiscal, no caso em que o contribuinte tenha adquirido a mercadoria de contribuinte substituído ou de contribuinte que tenha apurado o imposto devido a título de substituição tributária por ocasião da entrada da mercadoria.
 § 1º Se não for possível estabelecer correspondência entre a mercadoria em estoque e seu recebimento, a apuração do montante a que se refere o caput deste artigo será efetuada com base no valor retido do ICMS, correspondente à média das entradas dos últimos 3 (três) meses, até o limite da quantidade informada no inventário realizado em 31 de dezembro de 2032.
 § 2º Para os efeitos do disposto neste artigo, também se considera em estoque a mercadoria cuja saída do estabelecimento remetente tenha ocorrido até o dia 31 de dezembro de 2032 e cuja entrada no estabelecimento destinatário ocorra após essa data, desde que o ICMS tenha sido retido ou recolhido por substituição tributária.
@@ -1582,7 +1582,7 @@ I - excesso de meação ou de quinhão: a divisão de patrimônio comum, na part
 II - pessoas vinculadas:
 a) cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau;
 b) pessoa jurídica que tenha como diretor ou administrador cônjuge, companheiro ou parente, consanguíneo ou afim, até o terceiro grau, de sucessor ou donatário; ou
-c) pessoa jurídica com relação a pessoa física sócia, titular ou cotista; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 47/104
+c) pessoa jurídica com relação a pessoa física sócia, titular ou cotista;
 III - bem ou direito: qualquer bem móvel ou imóvel, na definição da legislação civil, com expressão econômica, tais como os semoventes, os títulos de crédito, as aplicações financeiras, as quotas ou ações de sociedades, as quotas de fundos de investimento, os direitos autorais, os direitos oriundos de propriedade industrial e os direitos da personalidade na sua dimensão patrimonial;
 IV - transmissão causa mortis: a realizada aos sucessores do de cujus na data de seu óbito, ainda que presumido, inclusive a reversão gratuita da titularidade dos bens e direitos objeto de trust no exterior em favor do beneficiário por força do falecimento do instituidor;
 V - sucessor: o herdeiro, o legatário, o beneficiário, o fiduciário e o fideicomissário ou qualquer outra pessoa física ou jurídica que seja destinatária dos bens e direitos;
@@ -1609,7 +1609,7 @@ II - doação.
 § 2º Ocorrem tantos fatos geradores distintos quantos sejam os sucessores ou donatários, em relação a cada ente federativo competente para exigir o ITCMD, ainda que os bens ou direitos sejam indivisíveis, respeitada a fração ideal de cada adquirente.
 § 3º A ocorrência do fato gerador na transmissão causa mortis independe da instauração de inventário ou arrolamento, judicial ou extrajudicial.
 
-CAPÍTULO III DA IMUNIDADE E DA NÃO INCIDÊNCIA 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 48/104
+CAPÍTULO III DA IMUNIDADE E DA NÃO INCIDÊNCIA
 
 Art. 149. É imune ao ITCMD:
 I - a transmissão causa mortis ou por doação em que figure como sucessor ou donatário:
@@ -1639,7 +1639,7 @@ Art. 150. O ITCMD não incide:
 I - sobre a renúncia à herança ou ao legado, desde que:
 a) seja feita sem ressalva ou condição, em benefício do monte; e
 b) não tenha o renunciante praticado qualquer ato que demonstre aceitação da herança ou do legado;
-II - na extinção de usufruto ou de qualquer outro direito real que resulte na consolidação da propriedade plena sob titularidade do instituidor do direito; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 49/104
+II - na extinção de usufruto ou de qualquer outro direito real que resulte na consolidação da propriedade plena sob titularidade do instituidor do direito;
 III - sobre benefício devido em razão de contrato de previdência privada complementar, aberta ou fechada, de seguro, de pecúlio ou de similares negócios jurídicos onerosos com elementos de aleatoriedade, ainda que o beneficiário seja um terceiro;
 IV - sobre a extinção do fideicomisso, independentemente de a consolidação da propriedade reverter-se em proveito do fiduciário ou do fideicomissário;
 V - sobre a transmissão do bem ou do direito ao trustee diante da presunção da sua onerosidade, salvo se a transmissão for gratuita;
@@ -1671,7 +1671,7 @@ j) do registro em órgão público, nas demais transmissões sujeitas a registro
 I - transmissão causa mortis, se decorrente do falecimento do instituidor; ou
 II - doação, se ocorrida durante a vida do instituidor.
 § 2º A transmissão a que se refere o
-§ 1º deste artigo poderá ser reputada ocorrida em momento anterior caso o instituidor abdique, em caráter irrevogável, a direito sobre parcela do patrimônio do trust. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 50/104
+§ 1º deste artigo poderá ser reputada ocorrida em momento anterior caso o instituidor abdique, em caráter irrevogável, a direito sobre parcela do patrimônio do trust.
 § 3º O disposto nos §§ 1º e 2º deste artigo aplica-se aos demais contratos no exterior com características similares às do trust, bem como aos contratos de fidúcia no País que vierem a ser instituídos com características similares às do trust.
 
 CAPÍTULO V DA BASE DE CÁLCULO
@@ -1709,7 +1709,7 @@ Art. 157. São contribuintes do ITCMD:
 I - na transmissão causa mortis, o sucessor; e
 II - na transmissão por doação, o donatário.
 
-CAPÍTULO VIII 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 51/104 DA SUJEIÇÃO ATIVA
+CAPÍTULO VIII DA SUJEIÇÃO ATIVA
 
 Art. 158. É competente para instituir o imposto, relativamente a bens imóveis e respectivos direitos:
 I - situados no Brasil, o Estado, ou o Distrito Federal, da situação do bem, ainda que o de cujus ou o doador tenha domicílio ou residência no exterior; e
@@ -1742,7 +1742,7 @@ Art. 162. A RFB deverá disponibilizar, mediante convênio, acesso controlado e 
 § 2º Após a disponibilização de que trata o caput deste artigo, fica vedado aos Estados e ao Distrito Federal a exigência ao contribuinte de cópias de declarações entregues à RFB.
 
 Art. 163. Os órgãos ou entidades de direito público ou privado perante os quais se processe o registro de transmissão sujeita à incidência do ITCMD são obrigados a prestar às administrações tributárias dos Estados e do Distrito Federal as informações relacionadas aos referidos atos, especialmente:
-I - as juntas comerciais; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 52/104
+I - as juntas comerciais;
 II - os serviços notariais e de registro, por meio de seus titulares;
 III - a Secretaria Nacional de Trânsito (Senatran);
 IV - os órgãos e as entidades executivos de trânsito da União, dos Estados, do Distrito Federal e dos Municípios;
@@ -1778,7 +1778,7 @@ IV - outros parâmetros técnicos usualmente observados na avaliação de imóve
 § 3º As administrações tributárias dos Municípios e do Distrito Federal deverão divulgar os critérios utilizados para estimar o valor venal a que se refere o caput deste artigo, o qual poderá ser contestado pelo contribuinte mediante a apresentação de avaliação contraditória em procedimento específico, nos termos da legislação específica municipal ou distrital.
 § 4º Os serviços registrais e notariais deverão compartilhar as informações das operações realizadas com bens imóveis com as administrações tributárias dos Municípios e do Distrito Federal, sob pena de multa prevista em lei específica municipal ou distrital.” (NR) “
 
-Art. 41. O imposto compete ao Município da situação do bem, ou ao Distrito Federal.” (NR) “TÍTULO V-A 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 53/104 DA CONTRIBUIÇÃO PARA O CUSTEIO, A EXPANSÃO E A MELHORIA DO SERVIÇO DE ILUMINAÇÃO PÚBLICA E DE SISTEMAS DE MONITORAMENTO PARA SEGURANÇA E PRESERVAÇÃO DE LOGRADOUROS PÚBLICOS
+Art. 41. O imposto compete ao Município da situação do bem, ou ao Distrito Federal.” (NR) “TÍTULO V-A DA CONTRIBUIÇÃO PARA O CUSTEIO, A EXPANSÃO E A MELHORIA DO SERVIÇO DE ILUMINAÇÃO PÚBLICA E DE SISTEMAS DE MONITORAMENTO PARA SEGURANÇA E PRESERVAÇÃO DE LOGRADOUROS PÚBLICOS
 
 Art. 82-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto nos incisos I e III do caput do art. 150 da Constituição Federal.
 § 1º Para os fins do disposto no caput deste artigo, considera-se:
@@ -1804,7 +1804,7 @@ III - a partir de 1º de janeiro de 2027, o valor correspondente ao Imposto Sele
 
 Art. 168. A Lei Complementar nº 123, de 14 de dezembro de 2006, passa a vigorar com as seguintes alterações: “
 
-Art. 22. O CGSN definirá o sistema de repasses do total arrecadado, inclusive encargos legais, para o: ............................................................................................................................................................. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 54/104
+Art. 22. O CGSN definirá o sistema de repasses do total arrecadado, inclusive encargos legais, para o: .............................................................................................................................................................
 IV - Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS), do valor correspondente ao Imposto sobre Bens e Serviços (IBS), ressalvado o disposto nos incisos V e VI deste caput;
 V - Município, ou o Distrito Federal, do estabelecimento, do valor correspondente a 50% (cinquenta por cento) do valor do IBS recolhido pelo MEI; e
 VI - Estado, ou o Distrito Federal, do estabelecimento, do valor correspondente a 50% (cinquenta por cento) do valor do IBS recolhido pelo MEI. ..................................................................................................................................................... ” (NR) “
@@ -1826,7 +1826,7 @@ II - (revogado); ...............................................................
 
 Art. 169. A Lei Complementar nº 123, de 14 de dezembro de 2006, passa a vigorar com as seguintes alterações: Produção de efeitos “
 
-Art. 18. ..................................................................................................................................... ............................................................................................................................................................. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 55/104
+Art. 18. ..................................................................................................................................... .............................................................................................................................................................
 § 4º O contribuinte deverá considerar, destacadamente, para fim de pagamento, as receitas decorrentes de: .............................................................................................................................................................
 VIII - operações com serviços e com bens imateriais, inclusive direitos, sobre as quais incidem o IBS e a CBS e não incidem o ISS e o ICMS, que serão tributadas na forma do Anexo III desta Lei Complementar, e sobre as quais deverá ser deduzida a parcela correspondente ao ISS; e
 IX - operações com os demais bens materiais, no caso em que incidem o IBS e a CBS, mas não incide o ICMS, que serão tributadas na forma do Anexo I desta Lei Complementar, observado o disposto no inciso II, e sobre as quais deverá ser deduzida a parcela correspondente ao ICMS. ..................................................................................................................................................... ” (NR) “
@@ -1848,7 +1848,7 @@ I - hipótese de sonegação, fraude, simulação, conluio, resistência ou emba
 
 Art. 170. A Lei Complementar nº 141, de 13 de janeiro de 2012, passa a vigorar com as seguintes alterações: “
 
-Art. 6º Os Estados e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo 12% (doze por cento) da arrecadação dos impostos a que se refere o art. 155, dos recursos de que tratam o art. 157 e a alínea “a” do inciso I e o inciso II do caput do art. 159 e da receita distribuída aos Estados e ao Distrito Federal, no exercício de sua competência estadual, referente ao imposto de que trata o art. 156-A, todos da Constituição Federal, deduzidas as parcelas que forem transferidas aos respectivos Municípios. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 56/104 ..................................................................................................................................................... ” (NR) “
+Art. 6º Os Estados e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo 12% (doze por cento) da arrecadação dos impostos a que se refere o art. 155, dos recursos de que tratam o art. 157 e a alínea “a” do inciso I e o inciso II do caput do art. 159 e da receita distribuída aos Estados e ao Distrito Federal, no exercício de sua competência estadual, referente ao imposto de que trata o art. 156-A, todos da Constituição Federal, deduzidas as parcelas que forem transferidas aos respectivos Municípios. ..................................................................................................................................................... ” (NR) “
 
 Art. 7º Os Municípios e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo 15% (quinze por cento) da arrecadação dos impostos a que se refere o art. 156, dos recursos de que tratam o art. 158 e a alínea “b” do inciso I do caput e o
 § 3º do art. 159 e da receita distribuída aos Municípios e ao Distrito Federal, no exercício de sua competência municipal, referente ao imposto de que trata o art. 156-A, todos da Constituição Federal. ..................................................................................................................................................... ” (NR)
@@ -1880,7 +1880,7 @@ Parágrafo único. No período referido no caput deste artigo, não serão reali
 
 Art. 5º-B. Se não houver prazo expressamente previsto neste Decreto, será de 10 (dez) dias úteis o prazo para a realização de ato a cargo do sujeito passivo ou da Fazenda Pública.” “
 
-Art. 7º ...................................................................................................................................... 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 57/104 .............................................................................................................................................................
+Art. 7º ...................................................................................................................................... .............................................................................................................................................................
 § 2º Para os efeitos do disposto no § 1º, os atos referidos nos incisos I e II do caput deste artigo valerão pelo prazo de 90 (noventa) dias, prorrogável, sucessivamente, por igual período, com qualquer outro ato escrito que indique o prosseguimento dos trabalhos.” (NR) “
 
 Art. 10. ..................................................................................................................................... .............................................................................................................................................................
@@ -1909,7 +1909,7 @@ Art. 4º .......................................................................
 
 Art. 5º ......................................................................................................................................
 I - fornecimento não oneroso ou a valor inferior ao de mercado de bens e serviços:
-a) adquiridos pelo contribuinte, que tenham permitido a apropriação de créditos de IBS e de CBS, para: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 58/104 1. o próprio contribuinte, caso este seja pessoa física; 2. as pessoas físicas que sejam sócias, acionistas, administradoras e membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei; 3. os empregados do contribuinte; e 4. os cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, das pessoas físicas referidas nos itens 1 a 3 desta alínea;
+a) adquiridos pelo contribuinte, que tenham permitido a apropriação de créditos de IBS e de CBS, para: 1. o próprio contribuinte, caso este seja pessoa física; 2. as pessoas físicas que sejam sócias, acionistas, administradoras e membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei; 3. os empregados do contribuinte; e 4. os cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, das pessoas físicas referidas nos itens 1 a 3 desta alínea;
 b) produzidos ou prestados pelo contribuinte para: 1. as pessoas físicas de que tratam os itens 2 e 3 da alínea “a” deste inciso; e 2. os cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, das pessoas físicas referidas no item 1 desta alínea; e
 c) nas demais hipóteses previstas nesta Lei Complementar; .............................................................................................................................................................
 § 8º Não se aplica o disposto nas alíneas “a” e “b” do inciso I do caput deste artigo ao fornecimento às pessoas físicas neles referidas de bens e serviços utilizados preponderantemente na atividade econômica do contribuinte, conforme os critérios previstos nos incisos IV e V do
@@ -1932,7 +1932,7 @@ II - não havendo previsão de cumulação, prevalecerá a maior redução.” �
 Art. 10. ..................................................................................................................................... .............................................................................................................................................................
 § 3º Nas operações de execução continuada ou fracionada, considera-se ocorrido o fato gerador na primeira entre as seguintes ocorrências:
 I - quando se torna exigível a parte da contraprestação correspondente a cada pagamento; ou
-II - pagamento da obrigação decorrente do fornecimento. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 59/104
+II - pagamento da obrigação decorrente do fornecimento.
 § 4º ...........................................................................................................................................
 I - .............................................................................................................................................
 a) ............................................................................................................................................. ............................................................................................................................................................. 2. as alíquotas serão aquelas vigentes e aplicáveis à operação na data da emissão do documento fiscal eletrônico que corresponda ao pagamento ou na data do pagamento, o que ocorrer primeiro; .............................................................................................................................................................
@@ -1957,7 +1957,7 @@ II - o local do estabelecimento principal do adquirente, definido nos termos do
 § 8º (Revogado).
 § 9º Nas aquisições de energia elétrica realizadas de forma multilateral, considera-se local da operação o do estabelecimento do agente ou de seus representados que figurem na posição devedora da liquidação financeira apurada pela Câmara de Comercialização de Energia Elétrica. ..................................................................................................................................................... ” (NR) “
 
-Art. 12. ..................................................................................................................................... ............................................................................................................................................................. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 60/104
+Art. 12. ..................................................................................................................................... .............................................................................................................................................................
 § 3º (VETADO).
 § 4º ........................................................................................................................................... .............................................................................................................................................................
 III - (VETADO); e .............................................................................................................................................................
@@ -1983,7 +1983,7 @@ I - emitir documentos fiscais eletrônicos relativos às operações do forneced
 II - apurar o IBS e a CBS decorrentes das mencionadas operações de acordo com o disposto nos incisos I ou II do
 § 10 deste artigo, conforme o caso; e
 III - pagar o IBS e a CBS com base no valor e nas demais informações da operação intermediada pela plataforma, mantida a obrigação do fornecedor em relação a eventuais diferenças. § 14. Na hipótese da alínea “b” do inciso II do caput deste artigo, caso a plataforma emita o documento fiscal no prazo de 30 (trinta) dias contado da data em que o fornecedor deveria tê-lo emitido e pague o IBS e a CBS conforme regulamento, com base no valor e nas demais informações da operação por ela intermediada, os acréscimos de que trata o
-§ 2º do art. 29 desta Lei Complementar e a penalidade por falta de emissão do documento fiscal serão exigidos exclusivamente do fornecedor. § 15. Nas hipóteses dos §§ 12, 13 e 14 deste artigo, a plataforma digital fica autorizada a calcular os débitos de IBS e de CBS pelas alíquotas de referência no caso de indisponibilidade de informação quanto às regras tributárias aplicáveis ao fornecedor e eventual diferença do IBS e da CBS devidos na operação deverá ser: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 61/104
+§ 2º do art. 29 desta Lei Complementar e a penalidade por falta de emissão do documento fiscal serão exigidos exclusivamente do fornecedor. § 15. Nas hipóteses dos §§ 12, 13 e 14 deste artigo, a plataforma digital fica autorizada a calcular os débitos de IBS e de CBS pelas alíquotas de referência no caso de indisponibilidade de informação quanto às regras tributárias aplicáveis ao fornecedor e eventual diferença do IBS e da CBS devidos na operação deverá ser:
 I - paga pelo fornecedor, caso as alíquotas incidentes sejam maiores que as alíquotas de referência; ou
 II - devolvida caso as alíquotas incidentes sejam menores que as alíquotas de referência.” (NR) “
 
@@ -2003,7 +2003,7 @@ d) fundo de investimento que, embora não constituído como FII ou Fiagro, atend
 III - os demais fundos de investimento cujo patrimônio seja constituído exclusivamente por aplicações em participações societárias, certificados, direitos, títulos, valores mobiliários e demais ativos financeiros permitidos pela Comissão de Valores Mobiliários, observado o disposto no
 § 6º-A e no
 § 8º-A deste artigo. § 5º-B. Não descaracteriza o cumprimento das exigências de que tratam os incisos do
-§ 5º-A deste artigo a posse temporária pelo fundo de investimento de bens obtidos em decorrência de procedimentos judiciais ou extrajudiciais relativos à recuperação de ativos integrantes de sua carteira. ............................................................................................................................................................. § 6º-A. São contribuintes do IBS e da CBS no regime regular: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 62/104
+§ 5º-A deste artigo a posse temporária pelo fundo de investimento de bens obtidos em decorrência de procedimentos judiciais ou extrajudiciais relativos à recuperação de ativos integrantes de sua carteira. ............................................................................................................................................................. § 6º-A. São contribuintes do IBS e da CBS no regime regular:
 I - os FII e os Fiagro que realizem operações com bens imóveis, inclusive operações com direitos reais sobre bens imóveis, que:
 a) não atendam às condições estabelecidas no inciso I ou no inciso II do
 § 5º-A deste artigo; ou
@@ -2023,7 +2023,7 @@ IV - pela transmissora de energia elétrica, na prestação de serviço de trans
 § 2º No serviço de transmissão de energia elétrica e de conexão aos sistemas de transmissão, considera-se ocorrido o fornecimento no momento definido nos termos do
 § 3º do art. 10 desta Lei Complementar. ..................................................................................................................................................... ” (NR) “
 
-Art. 29. ..................................................................................................................................... 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 63/104
+Art. 29. .....................................................................................................................................
 § 1º Caso o pagamento efetuado pelo contribuinte seja maior do que o saldo a recolher, a parcela excedente, até o montante dos débitos do período de apuração que tenham sido extintos pelas modalidades previstas nos incisos III a V do caput do art. 27 desta Lei Complementar entre o final do período de apuração e o processamento do pagamento efetuado pelo contribuinte, será transferida ao contribuinte em até 3 (três) dias úteis. .............................................................................................................................................................
 § 5º Incidem juros de mora, nos termos do inciso II do
 § 2º deste artigo, sobre as multas punitivas inadimplidas.” (NR) “
@@ -2049,7 +2049,7 @@ III - por outra pessoa ou entidade sem personalidade jurídica, nos casos em que
 Art. 33. O procedimento simplificado do split payment será opcional e obedecerá ao disposto neste artigo. ............................................................................................................................................................. § 2º-A. A originação de transação de pagamento relativa à operação com bem ou com serviço sem a identificação dos valores do IBS e da CBS, nos termos do inciso II do
 § 1º do art. 32 desta Lei Complementar, implica opção pelo procedimento simplificado de que trata este artigo.
 § 3º Os valores do IBS e da CBS recolhidos por meio do procedimento simplificado de que trata este artigo serão utilizados para pagamento, em ordem cronológica do documento fiscal:
-I - de débitos não extintos do contribuinte decorrentes de operações ocorridas no período de apuração em que o adquirente não seja contribuinte do IBS e da CBS no regime regular; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 64/104
+I - de débitos não extintos do contribuinte decorrentes de operações ocorridas no período de apuração em que o adquirente não seja contribuinte do IBS e da CBS no regime regular; e
 II - de outros débitos não extintos do contribuinte, no final do período de apuração, caso remanesçam valores não utilizados nos termos do inciso I do
 § 3º deste artigo.
 § 4º O Comitê Gestor do IBS (CGIBS) e a RFB transferirão ao fornecedor, em até 3 (três) dias úteis contados da conclusão da apuração, os valores do IBS e da CBS recolhidos por meio do procedimento simplificado no período de apuração e não utilizados nos termos do
@@ -2076,7 +2076,7 @@ Art. 57. .......................................................................
 I - ............................................................................................................................................. .............................................................................................................................................................
 g) bens e serviços relacionados à aquisição ou à manutenção dos bens de que trata este inciso;
 II - os bens e serviços adquiridos pelo contribuinte e fornecidos de forma não onerosa ou a valor inferior ao de mercado para: .............................................................................................................................................................
-c) os empregados do contribuinte; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 65/104 .............................................................................................................................................................
+c) os empregados do contribuinte; e .............................................................................................................................................................
 § 3º ........................................................................................................................................... .............................................................................................................................................................
 IV - ........................................................................................................................................... .............................................................................................................................................................
 f) serviços de planos de assistência à saúde destinados a empregados e seus dependentes em decorrência de acordo ou convenção coletiva de trabalho, sendo os créditos na aquisição desses serviços equivalentes aos respectivos débitos do fornecedor apurados e extintos de acordo com o disposto no regime específico de planos de assistência à saúde; .............................................................................................................................................................
@@ -2101,7 +2101,7 @@ Art. 60. .......................................................................
 Art. 64. .....................................................................................................................................
 § 1º Considera-se consumo no País de serviço ou de bem imaterial, inclusive direitos, o fornecimento realizado por residente ou domiciliado no exterior:
 I - cujo local da operação seja no País, nos termos dos incisos II a IX do caput do art. 11 desta Lei Complementar; ou
-II - em que o adquirente ou o destinatário tenham residência ou domicílio no País, nos demais casos. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 66/104 .............................................................................................................................................................
+II - em que o adquirente ou o destinatário tenham residência ou domicílio no País, nos demais casos. .............................................................................................................................................................
 § 5º ...........................................................................................................................................
 I - ............................................................................................................................................. .............................................................................................................................................................
 b) (revogada); .............................................................................................................................................................
@@ -2125,7 +2125,7 @@ II - o fornecimento dos seguintes bens e serviços, desde que vinculados direta 
 I - cujo local da operação não seja no País, nos termos dos incisos II a IX do caput do art. 11 desta Lei Complementar; ou
 II - em que o adquirente e o destinatário sejam residentes ou domiciliados no exterior, nos demais casos.
 § 2º (Revogado).
-§ 3º (Revogado). ............................................................................................................................................................. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 67/104
+§ 3º (Revogado). .............................................................................................................................................................
 § 6º (Revogado). ..................................................................................................................................................... ” (NR) “
 
 Art. 81-A. A exportação de bens materiais, inclusive nos casos em que não haja saída física do território nacional de que trata o art. 81, será comprovada mediante registro pelo órgão competente ou documentação e procedimentos estabelecidos na legislação aduaneira, nos termos do regulamento.
@@ -2154,7 +2154,7 @@ I - o consumo total de bens e serviços pelas famílias destinatárias, ressalva
 
 Art. 126. ................................................................................................................................... .............................................................................................................................................................
 § 6º O disposto no
-§ 1º deste artigo não se aplica às remessas internacionais sujeitas ao Regime de Tributação Simplificada (RTS), exceto na hipótese de produtos acabados pertencentes a classes de medicamentos importados por pessoa física para uso próprio ou individual.” (NR) 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 68/104 “
+§ 1º deste artigo não se aplica às remessas internacionais sujeitas ao Regime de Tributação Simplificada (RTS), exceto na hipótese de produtos acabados pertencentes a classes de medicamentos importados por pessoa física para uso próprio ou individual.” (NR) “
 
 Art. 142. ................................................................................................................................... .............................................................................................................................................................
 II - fornecimento de serviços de segurança da informação e segurança cibernética desenvolvidos por sociedade que tenha sócio brasileiro com o mínimo de 20% (vinte por cento) do seu capital social, relacionados no Anexo XI desta Lei Complementar, com a especificação das respectivas classificações da NBS.” (NR) “
@@ -2184,7 +2184,7 @@ II - na hipótese do inciso II do caput deste artigo, a automóvel cujo preço d
 § 3º (Revogado). ..................................................................................................................................................... ” (NR) “
 
 Art. 152. ................................................................................................................................... .............................................................................................................................................................
-II - na hipótese do inciso II do caput do art. 149 desta Lei Complementar, em intervalos não inferiores a 3 (três) anos. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 69/104 ..................................................................................................................................................... ” (NR) “
+II - na hipótese do inciso II do caput do art. 149 desta Lei Complementar, em intervalos não inferiores a 3 (três) anos. ..................................................................................................................................................... ” (NR) “
 
 Art. 156. São reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços de pesquisa e desenvolvimento por Instituição Científica, Tecnológica e de Inovação (ICT) sem fins lucrativos, bem como por fundações de apoio credenciadas na forma da lei, para: ..................................................................................................................................................... ” (NR) “
 
@@ -2210,7 +2210,7 @@ Art. 183. ......................................................................
 § 2º ...........................................................................................................................................
 I - participantes de arranjos de pagamento e entidades que realizam a administração de programas de fidelização que não são instituições de pagamento; ..................................................................................................................................................... ” (NR) “
 
-Art. 192. ................................................................................................................................... 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 70/104 .............................................................................................................................................................
+Art. 192. ................................................................................................................................... .............................................................................................................................................................
 V - perdas incorridas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil nas operações com serviços financeiros de que tratam os incisos I a III do caput do art. 182 desta Lei Complementar, e perdas na cessão desses créditos e na concessão de descontos, desde que sejam realizadas a valor de mercado, obedecidas, ainda, em todos os casos, as mesmas regras de dedutibilidade da legislação do imposto de renda aplicáveis a essas perdas para os períodos de apuração iniciados a partir de 1º de janeiro de 2027; e ..................................................................................................................................................... ” (NR) “
 
 Art. 197. Não poderão apropriar créditos na forma prevista nos arts. 194 a 196 desta Lei Complementar:
@@ -2247,7 +2247,7 @@ I - o IBS e a CBS; e
 II - o imposto a que se refere o art. 156, inciso III, da Constituição Federal.” (NR) “
 
 Art. 214. ................................................................................................................................... .............................................................................................................................................................
-§ 3º A base de cálculo do IBS e da CBS devidos pelos contribuintes sujeitos ao regime específico desta Seção corresponderá ao valor bruto da remuneração efetivamente recebida do credenciado, do instituidor do arranjo ou de outros participantes, garantido o direito ao crédito correspondente às parcelas a eles pagas, desde que os débitos de IBS e CBS tenham sido regularmente extintos. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 71/104 .............................................................................................................................................................
+§ 3º A base de cálculo do IBS e da CBS devidos pelos contribuintes sujeitos ao regime específico desta Seção corresponderá ao valor bruto da remuneração efetivamente recebida do credenciado, do instituidor do arranjo ou de outros participantes, garantido o direito ao crédito correspondente às parcelas a eles pagas, desde que os débitos de IBS e CBS tenham sido regularmente extintos. .............................................................................................................................................................
 § 6º O disposto no
 § 3º não implica o reconhecimento de existência de relação de contratação ou subcontratação entre o instituidor do arranjo e outros participantes, ou inclusão dos valores repassados a outros participantes ou ao instituidor na base de cálculo dos tributos que serão extintos conforme previsto na Emenda Constitucional nº 132, de 20 de dezembro de 2023.” (NR) “
 
@@ -2277,7 +2277,7 @@ Art. 233. De 2027 a 2033, a soma das alíquotas do IBS e da CBS incidentes sobre
 § 1º do art. 10 da Emenda Constitucional nº 132, de 20 de dezembro de 2023, corresponderá:
 I - em 2027 e 2028, a 10,85% (dez inteiros e oitenta e cinco centésimos por cento);
 II - em 2029, a 11,00% (onze por cento);
-III - em 2030, a 11,15% (onze inteiros e quinze centésimos por cento); 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 72/104
+III - em 2030, a 11,15% (onze inteiros e quinze centésimos por cento);
 IV - em 2031, a 11,30% (onze inteiros e trinta centésimos por cento);
 V - em 2032, a 11,50% (onze inteiros e cinquenta centésimos por cento); e
 VI - em 2033, a 12,50% (doze inteiros e cinquenta centésimos por cento).
@@ -2306,7 +2306,7 @@ Art. 252. ......................................................................
 § 2º ...........................................................................................................................................
 I - nas operações de permuta entre bens imóveis, exceto sobre a torna, que será tributada nos termos deste Capítulo; .............................................................................................................................................................
 § 5º Nas permutas entre bens imóveis realizadas entre contribuintes do regime regular do IBS e da CBS: ............................................................................................................................................................. § 5º-A. Nas permutas entre imóveis realizadas entre contribuinte do regime regular do IBS e da CBS e não contribuinte do regime regular:
-I - não será constituído redutor de ajuste para o imóvel recebido em permuta pelo não contribuinte do regime regular; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 73/104
+I - não será constituído redutor de ajuste para o imóvel recebido em permuta pelo não contribuinte do regime regular; e
 II - o valor do redutor de ajuste do imóvel recebido em permuta pelo contribuinte do regime regular corresponderá:
 a) se não houver torna, ao valor do redutor de ajuste do imóvel por ele dado em permuta;
 b) se houver pagamento de torna por parte do contribuinte do regime regular, ao valor do redutor do ajuste do imóvel por ele dado em permuta, acrescido do valor da torna; e
@@ -2337,7 +2337,7 @@ Art. 293. ......................................................................
 § 4º ...........................................................................................................................................
 I - (VETADO);
 II - 1% (um por cento) para a CBS; e
-III - 1% (um por cento) para o IBS, sendo: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 74/104 .............................................................................................................................................................
+III - 1% (um por cento) para o IBS, sendo: .............................................................................................................................................................
 § 5º (VETADO). .............................................................................................................................................................
 § 8º (VETADO).
 § 9º (VETADO). § 10. (VETADO).” (NR) “
@@ -2368,7 +2368,7 @@ I - acolher a minuta e emitir a solução de consulta em conjunto;
 II - encaminhar a proposta para deliberação do Comitê de Harmonização das Administrações Tributárias, em caso de divergência; ou
 III - manifestar-se pela inexistência de matéria comum ao IBS e à CBS.
 § 2º O encaminhamento da proposta de solução para deliberação do Comitê de Harmonização das Administrações Tributárias suspenderá a tramitação do procedimento de consulta perante o órgão consultado até que seja editada resolução nos termos do
-§ 1º do art. 321 desta Lei Complementar. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 75/104
+§ 1º do art. 321 desta Lei Complementar.
 § 3º Transcorrido o prazo de que trata o
 § 1º deste artigo sem manifestação do outro órgão, considerar-se-á tacitamente aceita a minuta compartilhada e será publicada solução de consulta em conjunto, com a informação de aceitação tácita por um dos órgãos.
 § 4º O regulamento disporá sobre o procedimento referido neste artigo.” “
@@ -2397,7 +2397,7 @@ Art. 323-E. O tributo objeto da matéria consultada não será lançado em rela�
 Art. 323-F. Não cabe recurso nem pedido de reconsideração da solução de consulta ou do despacho que declarar sua ineficácia.
 Parágrafo único. A solução de consulta será definitiva e deverá ser proferida no prazo definido em regulamento, contado da data da sua protocolização.” “CAPÍTULO II-A DA INTEGRAÇÃO DO CONTENCIOSO DE IBS E CBS
 
-Art. 323-G. Cabe recurso especial, no prazo de 10 (dez) dias úteis, contra decisão do CGIBS proferida por Câmara Recursal de Julgamento ou por Câmara de Julgamento de primeira instância no rito sumário, ou contra decisão de Câmara, turma de Câmara, turma extraordinária ou turma especial do Conselho Administrativo de Recursos Fiscais (Carf), que conferir à legislação comum do IBS e da CBS interpretação do direito divergente da que lhe tenha dado outra decisão desses órgãos de julgamento, com vistas a uniformizar a jurisprudência administrativa em matéria comum aos dois tributos. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 76/104
+Art. 323-G. Cabe recurso especial, no prazo de 10 (dez) dias úteis, contra decisão do CGIBS proferida por Câmara Recursal de Julgamento ou por Câmara de Julgamento de primeira instância no rito sumário, ou contra decisão de Câmara, turma de Câmara, turma extraordinária ou turma especial do Conselho Administrativo de Recursos Fiscais (Carf), que conferir à legislação comum do IBS e da CBS interpretação do direito divergente da que lhe tenha dado outra decisão desses órgãos de julgamento, com vistas a uniformizar a jurisprudência administrativa em matéria comum aos dois tributos.
 § 1º O recurso de que trata o caput será apreciado pela Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, composta:
 I - por 4 (quatro) conselheiros representantes da Fazenda Nacional na Câmara Superior de Recursos Fiscais do Carf, indicados pelo Ministro de Estado da Fazenda;
 II - por 4 (quatro) membros da Câmara Superior do CGIBS, sendo 2 (dois) das administrações tributárias dos Estados e do Distrito Federal e 2 (dois) das administrações tributárias dos Municípios e do Distrito Federal, indicados pelo CGIBS;
@@ -2427,7 +2427,7 @@ II - da decisão de segunda instância que deixar de aplicar provimento vinculan
 § 3º Caberá revisão da tese firmada no incidente de uniformização de ofício ou mediante pedido dos legitimados a que se referem os arts. 323-J e 323-L.
 § 4º Ato conjunto do CGIBS e do Ministro de Estado da Fazenda disporá sobre o processamento do incidente de que trata este artigo.
 
-Art. 323-I. A proposição do incidente de uniformização de que trata o inciso I do caput do art. 323- H deverá estar acompanhada de 5 (cinco) decisões definitivas proferidas por Câmara de Julgamento do CGIBS ou por Câmara, turma de Câmara, turma extraordinária ou turma especial do Carf ou por 3 (três) 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 77/104 decisões proferidas pela Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, por, no mínimo, maioria de votos, em sessões de julgamento distintas, sob pena de não conhecimento.
+Art. 323-I. A proposição do incidente de uniformização de que trata o inciso I do caput do art. 323-H deverá estar acompanhada de 5 (cinco) decisões definitivas proferidas por Câmara de Julgamento do CGIBS ou por Câmara, turma de Câmara, turma extraordinária ou turma especial do Carf ou por 3 (três) decisões proferidas pela Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS, por, no mínimo, maioria de votos, em sessões de julgamento distintas, sob pena de não conhecimento.
 
 Art. 323-J. Poderão suscitar o incidente de uniformização de que trata o inciso I do caput do art. 323-H:
 I - a representação da Fazenda Pública;
@@ -2457,7 +2457,7 @@ a) obtidos com base em tratados, acordos ou convenções internacionais para o i
 b) protegidos por sigilo judicial;
 c) obtidos com fundamento no disposto no art. 6º da Lei Complementar nº 105, de 10 de janeiro de 2001.” (NR) “
 
-Art. 327-A. Na Zona Franca de Manaus e nas Áreas de Livre Comércio, a Suframa exercerá, exclusivamente por meio de seus servidores efetivos, as atividades de fiscalização do cumprimento do processo produtivo básico ou de outros compromissos assumidos pelo sujeito passivo por ocasião da aprovação do projeto econômico, dos investimentos em pesquisa, desenvolvimento e inovação e, sem prejuízo das competências das administrações tributárias, do ingresso de bens e serviços. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 78/104
+Art. 327-A. Na Zona Franca de Manaus e nas Áreas de Livre Comércio, a Suframa exercerá, exclusivamente por meio de seus servidores efetivos, as atividades de fiscalização do cumprimento do processo produtivo básico ou de outros compromissos assumidos pelo sujeito passivo por ocasião da aprovação do projeto econômico, dos investimentos em pesquisa, desenvolvimento e inovação e, sem prejuízo das competências das administrações tributárias, do ingresso de bens e serviços.
 § 1º A Suframa comunicará às administrações tributárias federal, distrital, estaduais e municipais integrantes das áreas incentivadas, sempre que constatado o descumprimento do disposto no caput.
 § 2º As administrações tributárias e demais órgãos públicos interessados poderão apresentar pedido fundamentado para que a Suframa instaure incidente de verificação de cumprimento do processo produtivo básico ou de outros compromissos assumidos pelo sujeito passivo por ocasião da aprovação do projeto econômico e dos investimentos em pesquisa, desenvolvimento e inovação de que trata o caput deste artigo.
 § 3º (VETADO).” “
@@ -2489,7 +2489,7 @@ II - sobre o valor do crédito indevido, pela utilização indevida.
 § 1º Nos casos de sonegação, fraude, simulação ou conluio, independentemente de outras penalidades administrativas ou criminais cabíveis, a multa será majorada para:
 I - 100% (cem por cento) sobre a totalidade ou a diferença do tributo objeto do lançamento de ofício;
 II - 150% (cento e cinquenta por cento) sobre a totalidade ou a diferença do tributo objeto do lançamento de ofício, nos casos em que verificada a reincidência do sujeito passivo.
-§ 2º Para os efeitos do disposto neste artigo, consideram-se: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 79/104
+§ 2º Para os efeitos do disposto neste artigo, consideram-se:
 I - sonegação: toda ação ou omissão dolosa tendente a impedir ou retardar, total ou parcialmente, o conhecimento por parte da autoridade fazendária:
 a) da ocorrência do fato gerador da obrigação tributária principal, sua natureza ou circunstâncias materiais;
 b) das condições pessoais de sujeito passivo, suscetíveis de afetar a obrigação tributária principal ou o crédito tributário correspondente;
@@ -2516,7 +2516,7 @@ a) 20 (vinte) UPF por período de apuração, independentemente de intimação f
 b) 30 (trinta) UPF por período de apuração e a cada intimação fiscal;
 V - instalar ou manter instalado programa, software, aplicativo fiscal ou solução tecnológica que possibilite a emissão de documentos fiscais com supressão ou redução de valores do tributo ou da operação ou que não atenda aos requisitos estabelecidos na legislação tributária: 100 (cem) UPF por equipamento;
 VI - desenvolver, fornecer ou instalar programa, software, aplicativo fiscal ou solução tecnológica para terceiros que possibilite a emissão de documentos fiscais com supressão ou redução de valores do tributo ou da operação ou que não atenda aos requisitos estabelecidos na legislação tributária: 150 (cento e cinquenta) UPF por equipamento;
-VII - deixar de utilizar ou utilizar em desacordo com a legislação tributária mecanismo de medição de volume exigido e controlado pela administração tributária: 100 (cem) UPF por equipamento; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 80/104
+VII - deixar de utilizar ou utilizar em desacordo com a legislação tributária mecanismo de medição de volume exigido e controlado pela administração tributária: 100 (cem) UPF por equipamento;
 VIII - deixar de comunicar ou comunicar após o prazo previsto na legislação tributária a inutilização de número de documento fiscal: 1 (uma) UPF por número;
 IX - deixar o adquirente ou destinatário, relativamente a documento fiscal emitido por terceiro, ainda que em contingência, de confirmar a operação, de informar seu desconhecimento, o desfazimento do negócio, de informar a devolução ou retorno dos bens, na forma e nas condições previstas na legislação tributária: 1 (uma) UPF por documento;
 X - descumprir o dever de colaboração com o fisco, mediante embaraço ou resistência à ação fiscal, nos termos dos incisos I e II do caput do art. 338 desta Lei Complementar, por qualquer meio: 50 (cinquenta) UPF por evento;
@@ -2540,7 +2540,7 @@ XXII - deixar a instalação credenciada, para fins de controles específicos de
 § 3º Para fins do disposto no
 § 1º deste artigo, aplica-se o previsto nos §§ 4º a 6º do art. 341-F.
 § 4º Não se aplicam as penalidades previstas no inciso IV deste artigo em caso de mera falha ou erro material que não prejudique o conhecimento acerca da natureza, da discriminação, da procedência e do destino da operação.
-§ 5º Para fins do disposto nos incisos XI, XII, XIII, XIV, XVI, XVII e XXI do caput deste artigo, o valor do tributo de referência corresponde: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 81/104
+§ 5º Para fins do disposto nos incisos XI, XII, XIII, XIV, XVI, XVII e XXI do caput deste artigo, o valor do tributo de referência corresponde:
 I - a partir de 2027, para a CBS, e a partir de 2033, para o IBS, à multiplicação da alíquota de referência pelo valor da operação, ainda que se trate de operação imune, isenta, sujeita a alíquota zero, alíquota reduzida ou base de cálculo reduzida, alcançada por diferimento ou suspensão;
 II - no período de 2027 a 2032, para o IBS, à multiplicação do percentual correspondente ao dobro da alíquota de referência da CBS pelo valor da operação;
 III - em 2026:
@@ -2572,7 +2572,7 @@ IV - serão consideradas como alíquotas de referência do IBS para fins do disp
 § 13 do art. 486 e no
 § 12 do art. 487.” (NR) “
 
-Art. 348. ................................................................................................................................... ............................................................................................................................................................. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 82/104
+Art. 348. ................................................................................................................................... .............................................................................................................................................................
 § 3º Durante o período a que se refere o caput deste artigo, caso seja lavrado auto de infração por descumprimento das obrigações acessórias relativas ao IBS e à CBS previstas no art. 341-G desta Lei Complementar, o sujeito passivo será intimado para, no prazo de 60 (sessenta) dias contado da intimação, suprir a omissão apontada pela fiscalização.
 § 4º O atendimento à intimação a que se refere o
 § 3º deste artigo importa extinção da penalidade imposta ao sujeito passivo.” (NR) “
@@ -2600,7 +2600,7 @@ IV - da receita de referência dos Municípios para os anos de 2027 e 2028 com e
 § 1º A alíquota de referência do IBS estadual para 2030 será fixada de forma que haja equivalência entre:
 I - a média da razão apurada em cada um dos anos-base referidos no caput deste artigo entre:
 a) a soma dos valores de que tratam os incisos I e III do caput deste artigo; e
-b) o PIB; e 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 83/104
+b) o PIB; e
 II - a média da razão entre a receita de referência dos Estados e o PIB nos anos de 2024 a 2026.
 § 2º A alíquota de referência do IBS municipal para 2030 será fixada de forma que haja equivalência entre:
 I - a média da razão apurada em cada um dos anos-base referidos no caput deste artigo entre:
@@ -2631,7 +2631,7 @@ a) a soma dos valores de que tratam os incisos II e IV do caput deste artigo; e
 b) o PIB; e
 II - a média da razão entre a receita de referência dos Municípios e o PIB nos anos de 2024 a 2026.
 § 3º Na elaboração dos cálculos das alíquotas de referência previstas nos §§ 1º e 2º deste artigo, a base de cálculo a ser utilizada nas estimativas tomará por referência:
-I - em 2028: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 84/104
+I - em 2028:
 a) prioritariamente, a receita da CBS, ajustada de modo a contemplar diferenças entre a legislação da CBS em 2028 e a legislação do IBS em 2031;
 b) subsidiariamente, a receita do IBS em 2028, ajustada de modo a contemplar diferenças na legislação do IBS entre esse ano e 2031, ou outras fontes de informação;
 II - em 2029, prioritariamente a receita do IBS, ajustada de modo a contemplar diferenças na legislação do IBS entre esse ano e 2031, e, subsidiariamente, outras fontes de informação.” (NR) “
@@ -2660,7 +2660,7 @@ II - a média da razão entre a receita de referência dos Municípios e o PIB n
 Art. 365. As alíquotas de referência estadual e municipal do IBS para 2033 serão fixadas com base na estimativa, para cada um dos anos-base de 2030 e 2031:
 I - da parcela estadual da receita do IBS nos anos-base, calculada com base na alíquota de referência estadual, nas alíquotas estaduais dos regimes específicos e na legislação do IBS de 2033, nos termos do art. 360 desta Lei Complementar; e
 II - da parcela municipal da receita do IBS nos anos-base, calculada com base na alíquota de referência municipal, nas alíquotas municipais dos regimes específicos e na legislação do IBS de 2033, nos termos do art. 360 desta Lei Complementar.
-§ 1º A alíquota de referência do IBS estadual para 2033 será fixada de forma que haja equivalência entre: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 85/104
+§ 1º A alíquota de referência do IBS estadual para 2033 será fixada de forma que haja equivalência entre:
 I - a média da razão entre o valor de que trata o inciso I do caput deste artigo e o PIB nos anos-base referidos no caput deste artigo; e
 II - a média da razão entre a receita de referência dos Estados e o PIB nos anos de 2024 a 2026.
 § 2º A alíquota de referência do IBS municipal para 2033 será fixada de forma que haja equivalência entre:
@@ -2685,7 +2685,7 @@ Art. 408. ......................................................................
 
 Art. 414. ................................................................................................................................... .............................................................................................................................................................
 III - ............................................................................................................................................ .............................................................................................................................................................
-c) comercialização e importação de produtos fumígenos; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 86/104 .............................................................................................................................................................
+c) comercialização e importação de produtos fumígenos; .............................................................................................................................................................
 VI - o valor de mercado do bem, nas demais hipóteses. ..................................................................................................................................................... ” (NR) “
 
 Art. 422. ................................................................................................................................... .............................................................................................................................................................
@@ -2708,7 +2708,7 @@ II - a inscrição específica e aprovação de projeto técnico-econômico pelo
 
 Art. 450. São concedidos à indústria incentivada na Zona Franca de Manaus créditos presumidos de IBS e de CBS relativos à operação que destine ao território nacional, inclusive para a própria Zona Franca de Manaus, bem material produzido pela própria indústria incentivada na referida área nos termos do projeto econômico aprovado, exceto em relação às operações previstas no art. 448 desta Lei Complementar. .............................................................................................................................................................
 § 6º A aplicação do crédito presumido de IBS de que trata o
-§ 1º deste artigo observará o seguinte: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 87/104
+§ 1º deste artigo observará o seguinte:
 I - considera-se saldo devedor do IBS, para cada percentual de incentivo, o saldo apurado na forma do caput e do
 § 1º do art. 45 desta Lei Complementar, excluindo-se o crédito presumido de que trata o
 § 1º deste artigo;
@@ -2739,7 +2739,7 @@ III - estabelecer tratamento diferenciado a contribuintes com histórico de conf
 Art. 471-C. Para os contribuintes participantes, o PNCT poderá prever:
 I - prazo ampliado para cumprimento de obrigações acessórias, conforme regulamentação;
 II - priorização da análise de pedidos de ressarcimento do IBS e da CBS, conforme definido no inciso I do
-§ 3º do art. 39 desta Lei Complementar; 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 88/104
+§ 3º do art. 39 desta Lei Complementar;
 III - redução de penalidades por descumprimento de obrigação principal ou acessória, nos termos do
 § 1º do art. 341-H desta Lei Complementar;
 IV - análise prioritária das soluções de consulta e orientação tributária;
@@ -2768,7 +2768,7 @@ Art. 471-E. A prática reiterada das infrações de que trata o art. 471-D confi
 I - o descumprimento do disposto nos incisos I, II ou III do caput do art. 471-D em relação a 10% (dez por cento) ou mais da quantidade total de transações no mês, em 2 (dois) meses sucessivos ou alternados, a cada período de 12 (doze) meses; ou
 II - o descumprimento do disposto nos incisos I ou II do caput do art. 471-D em relação a 10% (dez por cento) ou mais do valor total das transações no mês, em 2 (dois) meses sucessivos ou alternados, a cada período de 12 (doze) meses.
 § 2º Na hipótese deste artigo:
-I - o órgão regulador a que se refere o caput poderá aplicar as seguintes penalidades: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 89/104
+I - o órgão regulador a que se refere o caput poderá aplicar as seguintes penalidades:
 a) suspensão temporária da autorização para prestar serviços financeiros ou de pagamento;
 b) cassação da autorização para funcionamento;
 II - o CGIBS e a RFB poderão, mediante ato conjunto:
@@ -2799,7 +2799,7 @@ III - o documento fiscal será emitido em nome do consórcio público.
 § 6º Para fins do disposto neste artigo, aplica-se ao CGIBS o tratamento disposto aos consórcios públicos.” (NR) “
 
 Art. 475. ................................................................................................................................... .............................................................................................................................................................
-§ 7º O Tribunal de Contas da União e os Tribunais de Contas dos Estados, do Distrito Federal, dos Municípios e Municipais, em decorrência do exercício de suas competências, e a sociedade civil, por meio de suas entidades setoriais, poderão oferecer subsídios para a avaliação quinquenal de que trata este artigo. ............................................................................................................................................................. § 10. Na avaliação quinquenal de que trata o § 9º, serão estimadas as alíquotas de referência de IBS e CBS em 2033. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 90/104 ..................................................................................................................................................... ” (NR) “
+§ 7º O Tribunal de Contas da União e os Tribunais de Contas dos Estados, do Distrito Federal, dos Municípios e Municipais, em decorrência do exercício de suas competências, e a sociedade civil, por meio de suas entidades setoriais, poderão oferecer subsídios para a avaliação quinquenal de que trata este artigo. ............................................................................................................................................................. § 10. Na avaliação quinquenal de que trata o § 9º, serão estimadas as alíquotas de referência de IBS e CBS em 2033. ..................................................................................................................................................... ” (NR) “
 
 Art. 481. ................................................................................................................................... .............................................................................................................................................................
 § 2º A escolha dos representantes dos Municípios no Conselho Superior do CGIBS, a que se refere o inciso II do caput deste artigo, será efetuada, excepcionalmente para fins de instalação do CGIBS provisório de que trata o caput do art. 480 desta Lei Complementar, mediante indicação pela Confederação Nacional de Municípios (CNM) e pela Frente Nacional de Prefeitas e Prefeitos (FNP).
@@ -2824,7 +2824,7 @@ Art. 483. ......................................................................
 I - ............................................................................................................................................. .............................................................................................................................................................
 b) nos termos previstos nos §§ 2º, 4º e 5º do art. 481 desta Lei Complementar, no caso dos Municípios e do Distrito Federal; .............................................................................................................................................................
 § 2º Até que seja realizado o aporte da União de que trata o art. 484 desta Lei Complementar, as despesas necessárias à atuação do Conselho Superior do CGIBS serão custeadas pelos entes de origem dos respectivos membros, devendo ser ressarcidas pelo CGIBS, a partir do exercício de 2026, acrescidas de remuneração com base na taxa Selic das datas de pagamento das despesas até seus respectivos ressarcimentos aos entes federativos. .............................................................................................................................................................
-§ 5º Para fins de viabilizar a gestão orçamentária, financeira, contábil, operacional e patrimonial, enquanto não for estruturado seu próprio Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle (Siafic), o CGIBS poderá firmar acordo de cooperação técnica com 1 (um) ou mais entes federativos, com vistas à disponibilização, ao desenvolvimento, à customização, à 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 91/104 manutenção e à hospedagem do Siafic, bem como dos demais sistemas estruturantes necessários ao desempenho de suas funções, devendo ser ressarcidos pelo CGIBS, acrescidos de remuneração com base na taxa Selic das datas de pagamento das despesas até seus respectivos ressarcimentos aos entes federativos, os custos decorrentes dos referidos acordos de cooperação técnica.” (NR) “
+§ 5º Para fins de viabilizar a gestão orçamentária, financeira, contábil, operacional e patrimonial, enquanto não for estruturado seu próprio Sistema Único e Integrado de Execução Orçamentária, Administração Financeira e Controle (Siafic), o CGIBS poderá firmar acordo de cooperação técnica com 1 (um) ou mais entes federativos, com vistas à disponibilização, ao desenvolvimento, à customização, à manutenção e à hospedagem do Siafic, bem como dos demais sistemas estruturantes necessários ao desempenho de suas funções, devendo ser ressarcidos pelo CGIBS, acrescidos de remuneração com base na taxa Selic das datas de pagamento das despesas até seus respectivos ressarcimentos aos entes federativos, os custos decorrentes dos referidos acordos de cooperação técnica.” (NR) “
 
 Art. 484. A União custeará, por meio de operação de crédito, as despesas necessárias à instalação do CGIBS, no período de 2025 a 2028, no montante de até R$ 3.800.000.000,00 (três bilhões e oitocentos milhões de reais), distribuído da seguinte maneira:
 I - em 2025, no valor de R$ 600.000.000,00 (seiscentos milhões de reais), reduzido de 1/12 (um doze avos) por mês que haja transcorrido até, inclusive, o mês em que se der a comunicação de que trata o inciso IV do
@@ -2851,7 +2851,7 @@ I - a incorporação imobiliária submetida ao regime especial de tributação p
 II - a incorporação imobiliária submetida ao regime especial de tributação prevista nos §§ 6º e 8º do art. 4º e no parágrafo único do art. 8º da Lei nº 10.931, de 2 de agosto de 2004, será sujeita ao pagamento de IBS e de CBS em montante equivalente a 0,53% (cinquenta e três centésimos por cento) da receita mensal recebida. .............................................................................................................................................................
 § 8º O montante pago nos termos dos incisos I e II do caput deste artigo será distribuído entre as parcelas estadual, distrital e municipal do IBS e a CBS na proporção das respectivas alíquotas de referência.” (NR) “
 
-Art. 486. O contribuinte que realizar alienação de imóvel decorrente de parcelamento do solo, que tenha o pedido de registro do parcelamento, nos termos da Lei nº 6.766, de 19 de dezembro de 1979, efetivado antes de 1º de janeiro de 2029, pode optar pelo recolhimento de IBS e de CBS com base na receita bruta recebida. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 92/104
+Art. 486. O contribuinte que realizar alienação de imóvel decorrente de parcelamento do solo, que tenha o pedido de registro do parcelamento, nos termos da Lei nº 6.766, de 19 de dezembro de 1979, efetivado antes de 1º de janeiro de 2029, pode optar pelo recolhimento de IBS e de CBS com base na receita bruta recebida.
 § 1º As operações sujeitas ao regime de que trata este artigo estarão sujeitas ao pagamento de IBS e de CBS em montante equivalente a 3,65% (três inteiros e sessenta e cinco centésimos por cento) da receita bruta recebida. .............................................................................................................................................................
 § 8º O pagamento de IBS e de CBS na forma do disposto no caput deste artigo será considerado definitivo, não gerando, em qualquer hipótese, direito à restituição ou à compensação, exceto em caso de distrato da operação.
 § 9º As receitas, os custos e as despesas próprios do parcelamento de solo sujeito à tributação na forma deste artigo não deverão ser computados na apuração da base de cálculo do IBS e da CBS devidos pelo contribuinte em virtude de suas outras atividades empresariais. ............................................................................................................................................................. § 13. O montante pago nos termos do
@@ -2875,7 +2875,7 @@ I - a participação paritária dos associados nos órgãos deliberativos;
 II - o princípio da governança compartilhada, com deliberações colegiadas; e
 III - a observância dos princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência, economicidade e transparência.
 § 6º As licitações e as contratações realizadas pela associação serão regidas pelas normas gerais de licitação e contratação aplicáveis às administrações públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios.
-§ 7º A associação poderá ser contratada pelas partes associadas, dispensada a licitação. 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 93/104
+§ 7º A associação poderá ser contratada pelas partes associadas, dispensada a licitação.
 § 8º A associação poderá firmar convênios, acordos de cooperação e outros ajustes com órgãos e entidades da Administração Pública, direta e indireta, bem como com organismos internacionais, observados os limites legais e regulamentares.
 § 9º As dotações necessárias para custear as despesas da associação serão consignadas na proposta orçamentária da União e do CGIBS, na forma estabelecida em ato conjunto específico da RFB e do CGIBS. § 10. A União e o CGIBS respondem subsidiariamente pelas obrigações da associação. § 11. A associação está sujeita à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente para apreciar as contas do seu representante legal. § 12. Compete ao Tribunal de Contas da União fiscalizar a aplicação dos recursos repassados pela União à associação. § 13. A União, os Estados, o Distrito Federal e os Municípios poderão ceder servidores à associação, na forma e nas condições da legislação de cada ente. § 14. A associação reger-se-á por este artigo, pelas normas complementares aprovadas em ato conjunto da RFB e do CGIBS e, de forma subsidiária, naquilo que não for incompatível com a sua natureza especial, pela Lei nº 11.107, de 6 de abril de 2005, e seu regulamento. § 15. O disposto neste artigo não prejudica a celebração de acordos de cooperação técnica entre a RFB e o CGIBS para a cessão não onerosa de módulos, sistemas e soluções tecnológicas desenvolvidos por qualquer das partes.” “
 
@@ -2892,7 +2892,7 @@ c) a operação com bens materiais desacobertada de documento fiscal; e XII-B - 
 § 9º produzirá efeitos a partir da data do início de atividade a que se refere o
 § 3º do art. 16 desta Lei Complementar, desde que exercida nos termos, prazo e condições a serem estabelecidos em ato do CGSN.’ (NR) ‘
 
-Art. 18. ..................................................................................................................................... ......................................................................................................................................................... 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 94/104 § 1º-B. ......................................................................................................................................
+Art. 18. ..................................................................................................................................... ......................................................................................................................................................... § 1º-B. ......................................................................................................................................
 I - o percentual efetivo máximo destinado ao ISS será de 5% (cinco por cento), transferindo-se eventual diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual; ................................................................................................................................................ ’ (NR) ‘
 
 Art. 23. .....................................................................................................................................
@@ -2906,11 +2906,11 @@ I - a microempresa ou empresa de pequeno porte estiver sujeita à tributação d
 
 Art. 544. ................................................................................................................................... .............................................................................................................................................................
 III - a partir de 1º de janeiro de 2027, em relação aos arts. 168 a 171, 309 a 315, 444, 450, exceto os §§ 1º e 5º, 461, 462, 467, 499, 500, 502, 504 a 507, 509 a 515, 517, 519 a 534 e 542; ..................................................................................................................................................... ” (NR) “ANEXO VII ALIMENTOS DESTINADOS AO CONSUMO HUMANO SUBMETIDOS À REDUÇÃO DE 60% (SESSENTA POR CENTO) DAS ALÍQUOTAS DO IBS E DA CBS ............................................................................................................................................................. 2 (VETADO) ..................................................................................................................................................... ” (NR) “ANEXO XX (Lei Complementar nº 123, de 14 de dezembro de 2006) ‘ANEXO III Alíquotas e Partilha do Simples Nacional - Receitas de locação de bens móveis e de prestação de serviços não relacionados no
-§ 5º-C do art. 18 desta Lei Complementar (Vigência: 1º/1/2027 a 31/12/2028) Para os anos-calendário 2027 e 2028 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 95/104 ............................................................................................................................................................. Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,43% 43,40% 33,50% 0,17% 2ª Faixa 4,00% 3,50% 16,91% 43,40% 32,00% 0,19% 3ª Faixa 4,00% 3,50% 16,41% 43,40% 32,50% 0,19% 4ª Faixa 4,00% 3,50% 16,41% 43,40% 32,50% 0,19% 5ª Faixa 4,00% 3,50% 15,43% 43,40% 33,50% (*) 0,17% 6ª Faixa 35,09% 15,04% 19,29% 30,58% (*) O percentual efetivo máximo devido ao ISS será de 5%, transferindo-se a diferença, de forma proporcional, aos tributos federais da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537%, a repartição será: IRPJ CSLL CBS CPP ISS IBS 5ª Faixa, com alíquota efetiva superior a 14,93% (Alíquota efetiva - 5%) x 6,02% (Alíquota efetiva - 5%) x 5,26% (Alíquota efetiva - 5%) x 23,20% (Alíquota efetiva - 5%) x 65,26% Percentual de ISS fixo em 5% (Alíquota efetiva - 5%) x 0,26% ............................................................................................................................................................. Para o ano-calendário 2029 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 30,15% 3,35% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 28,80% 3,20% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 29,25% 3,25% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 29,25% 3,25% 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 96/104 5ª Faixa 4,00% 3,50% 15,60% 43,40% 30,15% (*) 3,35% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 4,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 4,5%) x 5,73% (Alíquota efetiva - 4,5%) x 5,01% (Alíquota efetiva - 4,5%) x 22,33% (Alíquota efetiva - 4,5%) x 62,13% Percentual de ISS fixo em 4,5% (Alíquota efetiva - 4,5%) x 4,8% (Vigência: 1º/1/2030 até 31/12/2030) Para o ano-calendário 2030 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 26,80% 6,70% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 25,60% 6,40% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 26,00% 6,50% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 26,00% 6,50% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 26,80% (*) 6,70% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 4%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 4%) x 5,46% (Alíquota efetiva - 4%) x 4,78% (Alíquota efetiva - 4%) x 21,31% (Alíquota efetiva - 4%) x 59,29% Percentual de ISS fixo em 4% (Alíquota efetiva - 4%) x 9,15% 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 97/104 (Vigência: 1º/1/2031 até 31/12/2031) Para o ano-calendário 2031 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 23,45% 10,05% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 22,40% 9,60% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 22,75% 9,75% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 22,75% 9,75% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 23,45% (*) 10,05% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 3,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 3,5%) x 5,23% (Alíquota efetiva - 3,5%) x 4,57% (Alíquota efetiva - 3,5%) x 20,38% (Alíquota efetiva - 3,5%) x 56,69% Percentual de ISS fixo em 3,5% (Alíquota efetiva - 3,5%) x 13,13% (Vigência: 1º/1/2032 até 31/12/2032) Para o ano-calendário 2032 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 20,10% 13,40% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 19,20% 12,80% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 19,50% 13,00% 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 98/104 4ª Faixa 4,00% 3,50% 16,60% 43,40% 19,50% 13,00% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 20,10% (*) 13,40% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 3%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 3%) x 5,01% (Alíquota efetiva - 3%) x 4,38% (Alíquota efetiva - 3%) x 19,52% (Alíquota efetiva - 3%) x 54,32% Percentual de ISS fixo em 3% (Alíquota efetiva - 3%) x 16,77% .............................................................................................................................................................
+§ 5º-C do art. 18 desta Lei Complementar (Vigência: 1º/1/2027 a 31/12/2028) Para os anos-calendário 2027 e 2028 ............................................................................................................................................................. Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,43% 43,40% 33,50% 0,17% 2ª Faixa 4,00% 3,50% 16,91% 43,40% 32,00% 0,19% 3ª Faixa 4,00% 3,50% 16,41% 43,40% 32,50% 0,19% 4ª Faixa 4,00% 3,50% 16,41% 43,40% 32,50% 0,19% 5ª Faixa 4,00% 3,50% 15,43% 43,40% 33,50% (*) 0,17% 6ª Faixa 35,09% 15,04% 19,29% 30,58% (*) O percentual efetivo máximo devido ao ISS será de 5%, transferindo-se a diferença, de forma proporcional, aos tributos federais da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537%, a repartição será: IRPJ CSLL CBS CPP ISS IBS 5ª Faixa, com alíquota efetiva superior a 14,93% (Alíquota efetiva - 5%) x 6,02% (Alíquota efetiva - 5%) x 5,26% (Alíquota efetiva - 5%) x 23,20% (Alíquota efetiva - 5%) x 65,26% Percentual de ISS fixo em 5% (Alíquota efetiva - 5%) x 0,26% ............................................................................................................................................................. Para o ano-calendário 2029 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 30,15% 3,35% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 28,80% 3,20% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 29,25% 3,25% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 29,25% 3,25% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 30,15% (*) 3,35% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 4,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 4,5%) x 5,73% (Alíquota efetiva - 4,5%) x 5,01% (Alíquota efetiva - 4,5%) x 22,33% (Alíquota efetiva - 4,5%) x 62,13% Percentual de ISS fixo em 4,5% (Alíquota efetiva - 4,5%) x 4,8% (Vigência: 1º/1/2030 até 31/12/2030) Para o ano-calendário 2030 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 26,80% 6,70% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 25,60% 6,40% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 26,00% 6,50% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 26,00% 6,50% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 26,80% (*) 6,70% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 4%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 4%) x 5,46% (Alíquota efetiva - 4%) x 4,78% (Alíquota efetiva - 4%) x 21,31% (Alíquota efetiva - 4%) x 59,29% Percentual de ISS fixo em 4% (Alíquota efetiva - 4%) x 9,15% (Vigência: 1º/1/2031 até 31/12/2031) Para o ano-calendário 2031 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 23,45% 10,05% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 22,40% 9,60% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 22,75% 9,75% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 22,75% 9,75% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 23,45% (*) 10,05% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 3,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 3,5%) x 5,23% (Alíquota efetiva - 3,5%) x 4,57% (Alíquota efetiva - 3,5%) x 20,38% (Alíquota efetiva - 3,5%) x 56,69% Percentual de ISS fixo em 3,5% (Alíquota efetiva - 3,5%) x 13,13% (Vigência: 1º/1/2032 até 31/12/2032) Para o ano-calendário 2032 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS CPP ISS (*) IBS 1ª Faixa 4,00% 3,50% 15,60% 43,40% 20,10% 13,40% 2ª Faixa 4,00% 3,50% 17,10% 43,40% 19,20% 12,80% 3ª Faixa 4,00% 3,50% 16,60% 43,40% 19,50% 13,00% 4ª Faixa 4,00% 3,50% 16,60% 43,40% 19,50% 13,00% 5ª Faixa 4,00% 3,50% 15,60% 43,40% 20,10% (*) 13,40% 6ª Faixa 35,00% 15,00% 19,50% 30,50% (*) O percentual efetivo máximo devido ao ISS será de 3%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 14,92537% a repartição será: IRPJ CSLL CBS CPP ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 14,92537% (Alíquota efetiva - 3%) x 5,01% (Alíquota efetiva - 3%) x 4,38% (Alíquota efetiva - 3%) x 19,52% (Alíquota efetiva - 3%) x 54,32% Percentual de ISS fixo em 3% (Alíquota efetiva - 3%) x 16,77% .............................................................................................................................................................
 
 ANEXO XXI (Lei Complementar nº 123, de 14 de dezembro de 2006)
 
-ANEXO IV ............................................................................................................................................................. Para o ano-calendário 2029 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 40,05% 4,45% 2ª Faixa 19,80% 15,20% 25,00% 36,00% 4,00% 3ª Faixa 20,80% 15,20% 24,00% 36,00% 4,00% 4ª Faixa 17,80% 19,20% 23,00% 36,00% 4,00% 5ª Faixa 18,80% 19,20% 22,00% 36,00% (*) 4,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 4,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota (Alíquota efetiva - 4,5%) x (Alíquota efetiva - 4,5%) x (Alíquota efetiva - 4,5%) x Percentual de ISS fixo em (Alíquota efetiva - 4,5%) x 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 99/104 efetiva superior a 12,5% 29,38% 30% 34,38% 4,5% 6,25% (Vigência: 1º/1/2030 até 31/12/2030) Para o ano-calendário 2030 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 35,60% 8,90% 2ª Faixa 19,80% 15,20% 25,00% 32,00% 8,00% 3ª Faixa 20,80% 15,20% 24,00% 32,00% 8,00% 4ª Faixa 17,80% 19,20% 23,00% 32,00% 8,00% 5ª Faixa 18,80% 19,20% 22,00% 32,00% (*) 8,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 4%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 4%) x 27,65% (Alíquota efetiva - 4%) x 28,24% (Alíquota efetiva - 4%) x 32,35% Percentual de ISS fixo em 4% (Alíquota efetiva - 4%) x 11,76% (Vigência: 1º/1/2031 até 31/12/2031) Para o ano-calendário 2031 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 31,15% 13,35% 2ª Faixa 19,80% 15,20% 25,00% 28,00% 12,00% 3ª Faixa 20,80% 15,20% 24,00% 28,00% 12,00% 4ª Faixa 17,80% 19,20% 23,00% 28,00% 12,00% 5ª Faixa 18,80% 19,20% 22,00% 28,00% (*) 12,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 3,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 3,5%) x 26,11% (Alíquota efetiva - 3,5%) x 26,67% (Alíquota efetiva - 3,5%) x 30,56% Percentual de ISS fixo em 3,5% (Alíquota efetiva - 3,5%) x 16,67% 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 100/104 (Vigência: 1º/1/2032 até 31/12/2032) Para o ano-calendário 2032 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 26,70% 17,80% 2ª Faixa 19,80% 15,20% 25,00% 24,00% 16,00% 3ª Faixa 20,80% 15,20% 24,00% 24,00% 16,00% 4ª Faixa 17,80% 19,20% 23,00% 24,00% 16,00% 5ª Faixa 18,80% 19,20% 22,00% 24,00% (*) 16,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 3%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 3%) x 24,74% (Alíquota efetiva - 3%) x 25,26% (Alíquota efetiva - 3%) x 28,95% Percentual de ISS fixo em 3% (Alíquota efetiva - 3%) x 21,05% ........................................................................................................................................................ ’ ..................................................................................................................................................... ” (NR)
+ANEXO IV ............................................................................................................................................................. Para o ano-calendário 2029 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 40,05% 4,45% 2ª Faixa 19,80% 15,20% 25,00% 36,00% 4,00% 3ª Faixa 20,80% 15,20% 24,00% 36,00% 4,00% 4ª Faixa 17,80% 19,20% 23,00% 36,00% 4,00% 5ª Faixa 18,80% 19,20% 22,00% 36,00% (*) 4,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 4,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 4,5%) x 29,38% (Alíquota efetiva - 4,5%) x 30% (Alíquota efetiva - 4,5%) x 34,38% Percentual de ISS fixo em 4,5% (Alíquota efetiva - 4,5%) x 6,25% (Vigência: 1º/1/2030 até 31/12/2030) Para o ano-calendário 2030 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 35,60% 8,90% 2ª Faixa 19,80% 15,20% 25,00% 32,00% 8,00% 3ª Faixa 20,80% 15,20% 24,00% 32,00% 8,00% 4ª Faixa 17,80% 19,20% 23,00% 32,00% 8,00% 5ª Faixa 18,80% 19,20% 22,00% 32,00% (*) 8,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 4%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 4%) x 27,65% (Alíquota efetiva - 4%) x 28,24% (Alíquota efetiva - 4%) x 32,35% Percentual de ISS fixo em 4% (Alíquota efetiva - 4%) x 11,76% (Vigência: 1º/1/2031 até 31/12/2031) Para o ano-calendário 2031 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 31,15% 13,35% 2ª Faixa 19,80% 15,20% 25,00% 28,00% 12,00% 3ª Faixa 20,80% 15,20% 24,00% 28,00% 12,00% 4ª Faixa 17,80% 19,20% 23,00% 28,00% 12,00% 5ª Faixa 18,80% 19,20% 22,00% 28,00% (*) 12,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 3,5%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 3,5%) x 26,11% (Alíquota efetiva - 3,5%) x 26,67% (Alíquota efetiva - 3,5%) x 30,56% Percentual de ISS fixo em 3,5% (Alíquota efetiva - 3,5%) x 16,67% (Vigência: 1º/1/2032 até 31/12/2032) Para o ano-calendário 2032 Faixas Percentual de Repartição dos Tributos IRPJ CSLL CBS ISS (*) IBS 1ª Faixa 18,80% 15,20% 21,50% 26,70% 17,80% 2ª Faixa 19,80% 15,20% 25,00% 24,00% 16,00% 3ª Faixa 20,80% 15,20% 24,00% 24,00% 16,00% 4ª Faixa 17,80% 19,20% 23,00% 24,00% 16,00% 5ª Faixa 18,80% 19,20% 22,00% 24,00% (*) 16,00% 6ª Faixa 53,50% 21,50% 25,00% (*) O percentual efetivo máximo devido ao ISS será de 3%, transferindo-se a diferença, de forma proporcional, aos tributos federais e IBS da mesma faixa de receita bruta anual. Sendo assim, na 5ª faixa, quando a alíquota efetiva for superior a 12,5% a repartição será: IRPJ CSLL CBS ISS (*) IBS 5ª Faixa, com alíquota efetiva superior a 12,5% (Alíquota efetiva - 3%) x 24,74% (Alíquota efetiva - 3%) x 25,26% (Alíquota efetiva - 3%) x 28,95% Percentual de ISS fixo em 3% (Alíquota efetiva - 3%) x 21,05% ........................................................................................................................................................ ’ ..................................................................................................................................................... ” (NR)
 
 Art. 175. O art. 81 da Lei nº 9.430, de 27 de dezembro de 1996, passa a vigorar acrescido do seguinte inciso VIII: “
 
@@ -2927,7 +2927,7 @@ Parágrafo único. .............................................................
 III - a pessoa que registra, em seu nome, a declaração de importação de bens de procedência estrangeira adquiridos no exterior por outra pessoa; e
 IV - o encomendante predeterminado que adquire mercadoria de procedência estrangeira de pessoa jurídica importadora.” (NR)
 
-Art. 177. A Lei nº 10.893, de 13 de julho de 2004, passa a vigorar com as seguintes alterações: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 101/104 “
+Art. 177. A Lei nº 10.893, de 13 de julho de 2004, passa a vigorar com as seguintes alterações: “
 
 Art. 4º ...................................................................................................................................... .............................................................................................................................................................
 § 3º Na navegação de longo curso, considera-se ocorrido o fato gerador na data de registro da declaração de importação dos bens amparados pelo correspondente conhecimento de transporte.” (NR) “
@@ -2969,7 +2969,7 @@ c) em 30 de novembro de 2026, o
 § 4º do art. 31;
 d) em 1º de janeiro de 2033, o inciso VI do
 § 4º do art. 18;
-V - os seguintes dispositivos da Lei Complementar nº 214, de 16 de janeiro de 2025: 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 102/104
+V - os seguintes dispositivos da Lei Complementar nº 214, de 16 de janeiro de 2025:
 a) o
 § 8º do art. 11;
 b) os §§ 8º e 9º do art. 22;
@@ -3001,4 +3001,4 @@ a) à alínea “c” do inciso II do art. 76;
 b) ao art. 169;
 II - a partir da data da eleição do Presidente do CGIBS, prevista no inciso III do
 § 1º do art. 483 da Lei Complementar nº 214, de 16 de janeiro de 2025, em relação aos §§ 4º e 5º do art. 52 desta Lei Complementar; e
-III - a partir da sua publicação, em relação aos demais dispositivos. Brasília, 13 de janeiro de 2026; 205o da Independência e 138o da República. LUIZ INÁCIO LULA DA SILVA Luiz Paulo Teixeira Ferreira Fernando Haddad Márcio Luiz França Gomes Geraldo José Rodrigues Alckmin Filho Arthur Cerqueira Valerio Silvio Serafim Costa Filho Este texto não substitui o publicado no DOU de 14.1.2026, republicado no DOU de 15.1.2026 e retificado em 23.1.2026. * 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 103/104 16/07/2026, 14:40 Lcp 227 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm 104/104
+III - a partir da sua publicação, em relação aos demais dispositivos. Brasília, 13 de janeiro de 2026; 205o da Independência e 138o da República. LUIZ INÁCIO LULA DA SILVA Luiz Paulo Teixeira Ferreira Fernando Haddad Márcio Luiz França Gomes Geraldo José Rodrigues Alckmin Filho Arthur Cerqueira Valerio Silvio Serafim Costa Filho Este texto não substitui o publicado no DOU de 14.1.2026, republicado no DOU de 15.1.2026 e retificado em 23.1.2026. *
