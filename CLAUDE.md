@@ -87,7 +87,15 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   2027, mas a articulação com os arts. 346/348 **não foi examinada**.
 - **Art. 82-C do Livro IX do RICMS-RJ** afasta o Convênio 106/96 na subcontratação e no TAC.
 
-- **Onde o Rio hospeda o crédito outorgado do Convênio 106/96 — RESOLVIDO em 05/08/2026.** É o
+- **NOMENCLATURA — não escrever "crédito outorgado".** No Rio de Janeiro o benefício do Convênio
+  106/96 chama-se **crédito presumido**, e assim o nomeiam o Manual de Benefícios, a Portaria SUCIEF
+  nº 65/2019, o art. 82-C do Livro IX e o art. 12 do Anexo XVIII da Resolução 720/2014. "Crédito
+  outorgado" é sinônimo em direito, mas no Rio designa outros benefícios — cultura e desporto
+  (Dec. 46.538/2018) e energia (Dec. 49.386/2024). Corrigido em 05/08/2026; ver a seção própria do
+  MANIFESTO. Cuidado adicional: a LC 214 usa "crédito presumido" no art. 169 para o do transportador
+  autônomo — identificar sempre pela norma-fonte.
+
+- **Onde o Rio hospeda o crédito presumido do Convênio 106/96 — RESOLVIDO em 05/08/2026.** É o
   **Manual de Benefícios** (Dec. 27.815/2001), verbete *Prestação de serviço de transporte*, letra
   "P": crédito presumido, **prazo indeterminado**. Não é o RICMS, não é decreto autônomo, não é lei
   específica. Ver `RJ-MANUAL-BENEFICIOS.txt`.
@@ -99,12 +107,12 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   e Lei estaduais — nenhum convênio —, e por isso não o classifica. **Tratar como tese declarada,
   com o cenário alternativo ao lado. Nunca como conclusão.**
 
-- **O prazo indeterminado do outorgado resiste à LC 160/2017 — tese com dispositivo lido.** A LC 160
+- **O prazo indeterminado do crédito presumido resiste à LC 160/2017 — tese com dispositivo lido.** A LC 160
   (art. 1º) e o Convênio 190/17 (cláusula primeira) alcançam apenas benefícios instituídos "em
   desacordo" com a alínea `g` do inc. XII do § 2º do art. 155 da CF. O 106/96 foi instituído em
   acordo, por convênio do CONFAZ. Os prazos do art. 3º, § 2º não o alcançam.
 
-- **O FECP perante o crédito outorgado** — se os 20% incidem também sobre os dois pontos do Fundo.
+- **O FECP perante o crédito presumido** — se os 20% incidem também sobre os dois pontos do Fundo.
   Sem manifestação primária. Não dar número ao cliente: a carga fica entre 17,6% e 18%.
   A modelagem disso no simulador é **simplificada** e carece de validação.
 - **Alcance da LC 224/2025 sobre o crédito presumido do art. 3º, § 19, da Lei 10.833**

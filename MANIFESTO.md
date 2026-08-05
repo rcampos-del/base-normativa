@@ -1,7 +1,7 @@
 # MANIFESTO DO ACERVO
 
 Proveniência e integridade. Gerado em 16/07/2026; atualizado em **05/08/2026**
-(sexto e sétimo lotes — o eixo do crédito outorgado do Rio de Janeiro: o Manual de Benefícios em duas
+(sexto e sétimo lotes — o eixo do crédito presumido do Rio de Janeiro: o Manual de Benefícios em duas
 camadas, as leis e os anexos do FOT, os Convênios 100/01, 190/17 e 106/96 recapturado, e a LC 160/2017).
 Antes, em **04/08/2026**
 (incorporação da Nota Técnica CT-e 2026.002 v1.01, que corrige a data de exigência dos campos da RTC).
@@ -60,7 +60,7 @@ Para conferir a integridade a qualquer momento:
 | `LEI-15371-2026.txt` | Lei nº 15.371, de 31/03/2026 — **salário-paternidade**; capturada do **DOU**, não do Planalto. Altera a Lei 8.212 (art. 7º da lei nova) e a Lei 8.213, institui o benefício e o incentivo fiscal, e **entra em vigor em 1º/01/2027** (art. 14). É a camada de 2027 que o compilado da Lei 8.212 não incorpora | transversal | federal | 144 | 3.114 | `b918a6e55bd0` |
 | `LC-123-2006.txt` | Lei Complementar nº 123, de 14/12/2006 — Estatuto da ME/EPP e Simples Nacional; compilada do Planalto. **Dupla camada:** a redação de 2027 (IBS/CBS no DAS) vive no art. 517 da `LC-214-2025.txt` | transversal | federal | 1.581 | 47.823 | `8896c261d603` |
 | `DEC-12955-2026.txt` | Decreto nº 12.955, de 29/04/2026 — Regulamento da CBS | transversal | federal | 5.606 | 130.507 | `6ccde9b698aa` |
-| `LEI-14789-2023.txt` | Lei nº 14.789, de 29/12/2023 — **subvenções para investimento**. Substitui a exclusão da base pelo **crédito fiscal de 25% sobre as receitas de subvenção** (arts. 1º e 6º), computáveis só as receitas relacionadas a depreciação, amortização, exaustão, locação ou arrendamento de bens de capital (art. 8º). Decide se o crédito outorgado do transporte entra na base do IRPJ — ver a Solução de Consulta COSIT 6/2026 | transversal | federal | 148 | 3.001 | `e58982474499` |
+| `LEI-14789-2023.txt` | Lei nº 14.789, de 29/12/2023 — **subvenções para investimento**. Substitui a exclusão da base pelo **crédito fiscal de 25% sobre as receitas de subvenção** (arts. 1º e 6º), computáveis só as receitas relacionadas a depreciação, amortização, exaustão, locação ou arrendamento de bens de capital (art. 8º). Decide se o crédito presumido do transporte entra na base do IRPJ — ver a Solução de Consulta COSIT 6/2026 | transversal | federal | 148 | 3.001 | `e58982474499` |
 | `RES-CGIBS-6-2026.txt` | Resolução CGIBS nº 6, de 30/04/2026 — Regulamento do IBS | transversal | nacional | 6.934 | 143.186 | `bc41cb73a72c` |
 | `RES-CGSN-140-2018.txt` | Resolução CGSN nº 140, de 22/05/2018 — Regulamento do Simples Nacional (DOU 24/05/2018), consolidada, c/ Anexos | transversal | nacional | 2.147 | 63.852 | `d875ca42eec3` |
 | `DEC-3048-1999.txt` | Decreto nº 3.048, de 06/05/1999, compilado — **Regulamento da Previdência Social**. É onde vivem o enquadramento do RAT por atividade econômica e as regras de custeio que a Lei 8.212 remete a regulamento; segunda maior peça do acervo | transversal | federal | 3.862 | 131.023 | `fd0317d2bfc0` |
@@ -437,7 +437,7 @@ contribuição sobre o lucro em comparativo nenhum. A `LEI-9718-1998` é o **reg
 PIS/COFINS — o que o lucro presumido paga —, contraparte que faltava para comparar a CBS: o acervo
 tinha as duas leis do não cumulativo e nenhuma do cumulativo. A `LEI-9250-1995` fecha o circuito
 da Lei 15.270/2025, que estava no acervo como lei alteradora sem o texto alterado. A
-`LEI-14789-2023` decide se o crédito outorgado do transporte entra na base do IRPJ. E o
+`LEI-14789-2023` decide se o crédito presumido do transporte entra na base do IRPJ. E o
 `DEC-9580-2018` costura tudo.
 
 **Dois dispositivos do RIR que interessam diretamente ao transporte**, lidos no texto: o
@@ -460,7 +460,7 @@ Busca por `Art. 8º` **falha** onde a página escreveu `Art. 8°`. O `camadas.py
 grafias; o `grep` humano não. Está registrado no `CLAUDE.md`.
 
 **Dependência que continua aberta.** A `LEI-14789-2023` responde pela regra geral das subvenções,
-mas quem afasta o crédito outorgado do Convênio 106/96 dessa regra é a **Solução de Consulta COSIT
+mas quem afasta o crédito presumido do Convênio 106/96 dessa regra é a **Solução de Consulta COSIT
 nº 6/2026**, que não está no acervo e cuja leitura no oficial ainda não se fez.
 
 Provas de conteúdo executadas e aprovadas: **Lei 7.689** — art. 3º nas três camadas, com a vigente
@@ -666,7 +666,7 @@ de 2014.
 **Fora do acervo, como prova.** A Solução de Consulta COSIT nº 6, de 27 de janeiro de 2026,
 chegou em documento impresso e **não entra no acervo normativo**: não é norma, é interpretação da
 administração. Guarda-se no regime da Consulta SEFAZ-RJ 043/25 — junto das provas, e não das
-normas. Lida no oficial, ela afasta a Lei nº 14.789 do crédito outorgado do Convênio ICMS nº 106,
+normas. Lida no oficial, ela afasta a Lei nº 14.789 do crédito presumido do Convênio ICMS nº 106,
 por não se tratar de subvenção para investimento, e sim de **método alternativo de apuração**
 adotado opcionalmente pelo contribuinte, invocando a ADI nº 1.502-8/DF do Supremo Tribunal Federal.
 Encerra-se a dívida que a mantinha em aberto.
@@ -711,7 +711,7 @@ LC 214/2025, sob pena de rejeição 326.
 A `NT-CTE-2025.001` permanece no acervo, agora marcada como **superada pela 2026.002 e mantida por
 referência histórica** — a nova declara-se, na introdução, evolução daquela.
 
-## Incorporação de 05/08/2026 — a sede do crédito outorgado do Rio de Janeiro
+## Incorporação de 05/08/2026 — a sede do crédito presumido do Rio de Janeiro
 
 Seis arquivos, cinco normas. Encerra-se a dívida mais antiga do eixo estadual: **onde a legislação
 fluminense hospeda o crédito presumido de 20% do Convênio ICMS 106/96**.
@@ -872,8 +872,34 @@ formal.
 **A Portaria SUT nº 323/2020**, que aprova a versão 3 da Apresentação do Manual, não foi localizada
 em endereço oficial. O acervo funciona sem ela; com ela, ficaria completo.
 
-**O FECP perante o crédito outorgado** — se os 20% incidem também sobre os dois pontos do Fundo.
+**O FECP perante o crédito presumido** — se os 20% incidem também sobre os dois pontos do Fundo.
 Nenhuma manifestação primária específica. Segue para consulta formal.
+
+## Retificação terminológica de 05/08/2026
+
+Até esta data o acervo e os pareceres chamavam o benefício do Convênio ICMS nº 106/96 de **crédito
+outorgado**. A designação é imprecisa no Rio de Janeiro, e a correção fica registrada aqui em vez de
+ser feita em silêncio.
+
+**O que a legislação fluminense diz.** Todos os instrumentos que regem o benefício o chamam de
+**crédito presumido**: o Manual de Benefícios, no verbete e no campo de modalidade; a Portaria SUCIEF
+nº 65/2019, na descrição do código RJ805149; o art. 82-C do Livro IX do RICMS-RJ; o art. 12 do Anexo
+XVIII da Parte II da Resolução SEFAZ nº 720/2014; e o próprio Convênio, na sua ementa. Medição sobre
+os seis arquivos: **145 ocorrências de "crédito presumido" e nenhuma de "crédito outorgado"**. As
+modalidades do Manual são quatro — Isenção, Diferimento, Redução de Base de Cálculo e Crédito
+Presumido —, e não há modalidade "Crédito Outorgado".
+
+**O que a correção NÃO significa.** As duas expressões são juridicamente sinônimas: o Convênio ICMS
+nº 190/17, cláusula primeira, § 4º, V, arrola "crédito outorgado ou crédito presumido" como uma só
+espécie, e a LC 214/2025, art. 385, escreve "tal como crédito presumido de ICMS, crédito outorgado de
+ICMS, entre outros". Não houve, portanto, erro de direito — houve imprecisão diante da terminologia
+local. Registre-se ainda que **o Rio usa a expressão "crédito outorgado"**, mas para outros
+benefícios: o Decreto nº 46.538/2018, de projetos culturais e desportivos, e o Decreto nº 49.386/2024,
+de infraestrutura de distribuição de energia elétrica.
+
+**Cautela que fica.** A LC 214/2025 emprega "crédito presumido" com sentido técnico próprio no art.
+169 — o do transportador autônomo pessoa física. Num mesmo documento haverá dois créditos presumidos
+de institutos diversos, e cada um há de vir identificado pela norma-fonte.
 
 ## Fontes
 
@@ -947,7 +973,7 @@ onde não havia (ver "Incorporação de 03/08/2026 (segundo lote)").
   artigo e permanece em linha única. Não afeta a leitura dos dispositivos.
 - `RJ-DEC-27427-2000-LIVRO-IX.txt` cobre **apenas o Livro IX** do RICMS-RJ, não o
   Regulamento inteiro. Suficiente para o escopo de transporte.
-- A vigência do crédito outorgado do transporte no RJ está evidenciada na **Consulta
+- A vigência do crédito presumido do transporte no RJ está evidenciada na **Consulta
   SEFAZ-RJ 043/25** (18/11/2025), mantida **fora** deste acervo por ser parecer
   administrativo, não legislação.
 - **Defeito herdado da incorporação de 29/07, verificado em 03/08:** há **7 ocorrências** de
