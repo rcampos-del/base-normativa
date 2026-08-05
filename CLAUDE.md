@@ -132,7 +132,7 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
   rendimento do transportador autônomo (10% no transporte de carga).
 
 - **O custo do TAC soma-se de três leis, não de uma.** Previdenciário: 20% sobre 20% do valor da
-  nota (art. 22, § 15, da `LEI-8212-1991`). Terceiros do transporte: **1,5% ao SEST e 1,0% ao SENAT**
+  nota (art. 28, § 11, da `LEI-8212-1991`). Terceiros do transporte: **1,5% ao SEST e 1,0% ao SENAT**
   sobre o salário de contribuição (art. 7º, II, da `LEI-8706-1993`). IRPF do próprio autônomo: **10%
   do rendimento total no transporte de carga**, com o vale-pedágio obrigatório fora
   (`DEC-9580-2018`). Nenhuma delas é alcançada pela LC 214.
@@ -142,6 +142,13 @@ benefício) é **transversal** naquela UF, não do setor que motivou a busca.
 - **`LEI-10666-2003.txt` tem 13 linhas para 1.327 palavras.** A página grafa `Art. 1o` com letra
   `o` e o `normalizar.py` não quebra nesse padrão — defeito conhecido, pendente do commit de
   renormalização. O conteúdo está íntegro; a leitura por linha é que não serve. Usar `camadas.py`.
+
+- **Duas citações que o assistente errou em 04/08/2026 e que ficam advertidas.** A base
+  previdenciária do transportador autônomo — 20% do valor bruto do frete — está no **art. 28,
+  § 11** da `LEI-8212-1991` (red. Lei 13.202/2015), e **não** no art. 22, § 15, que é (VETADO).
+  E a alíquota da CSLL da transportadora é a do **art. 3º, III, da `LEI-7689-1988`** (9%,
+  incl. Lei 13.169/2015); os 15% do inciso I são de seguros privados e instituições da LC 105.
+  Ambas foram apanhadas ao ler o texto para semear o banco.
 
 ## Estilo
 
